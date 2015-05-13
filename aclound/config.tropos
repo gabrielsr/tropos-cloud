@@ -60,8 +60,8 @@
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_H7tqUO4JEeSdDLHD65BrKA" core="_H7r1IO4JEeSdDLHD65BrKA" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_H7tqUe4JEeSdDLHD65BrKA" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
           <propertyBunches xmi:id="_H7tqUu4JEeSdDLHD65BrKA" type="Visual properties">
-            <properties xmi:id="_H7tqU-4JEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Location X" value="-156"/>
-            <properties xmi:id="_H7tqVO4JEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Location Y" value="829"/>
+            <properties xmi:id="_H7tqU-4JEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Location X" value="-102"/>
+            <properties xmi:id="_H7tqVO4JEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Location Y" value="814"/>
             <properties xmi:id="_IWN1AO4JEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_IWN1Ae4JEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Width" value="50"/>
           </propertyBunches>
@@ -75,8 +75,8 @@
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_YnCYIO4JEeSdDLHD65BrKA" core="_YnBKAO4JEeSdDLHD65BrKA" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_YnCYIe4JEeSdDLHD65BrKA" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
           <propertyBunches xmi:id="_YnCYIu4JEeSdDLHD65BrKA" type="Visual properties">
-            <properties xmi:id="_YnCYI-4JEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Location X" value="-37"/>
-            <properties xmi:id="_YnCYJO4JEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Location Y" value="866"/>
+            <properties xmi:id="_YnCYI-4JEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Location X" value="33"/>
+            <properties xmi:id="_YnCYJO4JEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Location Y" value="819"/>
             <properties xmi:id="_ZFkuQO4JEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_ZFkuQe4JEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Width" value="50"/>
           </propertyBunches>
@@ -105,8 +105,8 @@
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_O_pKoO4KEeSdDLHD65BrKA" core="_O_muYO4KEeSdDLHD65BrKA" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_O_pKoe4KEeSdDLHD65BrKA" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
           <propertyBunches xmi:id="_O_pKou4KEeSdDLHD65BrKA" type="Visual properties">
-            <properties xmi:id="_O_pKo-4KEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Location X" value="634"/>
-            <properties xmi:id="_O_pKpO4KEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Location Y" value="909"/>
+            <properties xmi:id="_O_pKo-4KEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Location X" value="580"/>
+            <properties xmi:id="_O_pKpO4KEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Location Y" value="929"/>
             <properties xmi:id="_Pc3SIO4KEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_Pc3SIe4KEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Width" value="50"/>
           </propertyBunches>
@@ -815,8 +815,8 @@
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_BrQWkPHzEeS1n_RmLJEdKg" core="_BrN6UPHzEeS1n_RmLJEdKg" targetConnections="_SA_-MPNtEeS1n_RmLJEdKg _i1Lr0Pj5EeSuM5gBQPT8Mg _jGXtAPj6EeSuM5gBQPT8Mg _EF_vwPj7EeSuM5gBQPT8Mg _ucQxwPj7EeSuM5gBQPT8Mg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_BrQWkfHzEeS1n_RmLJEdKg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
           <propertyBunches xmi:id="_BrQWkvHzEeS1n_RmLJEdKg" type="Visual properties">
-            <properties xmi:id="_BrQWk_HzEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location X" value="454"/>
-            <properties xmi:id="_BrQWlPHzEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location Y" value="811"/>
+            <properties xmi:id="_BrQWk_HzEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location X" value="412"/>
+            <properties xmi:id="_BrQWlPHzEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location Y" value="846"/>
             <properties xmi:id="_CGsVYPHzEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_CGsVYfHzEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
           </propertyBunches>
@@ -860,8 +860,8 @@
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_a4BZoPH2EeS1n_RmLJEdKg" core="_a3-WUPH2EeS1n_RmLJEdKg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_a4BZofH2EeS1n_RmLJEdKg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
           <propertyBunches xmi:id="_a4BZovH2EeS1n_RmLJEdKg" type="Visual properties">
-            <properties xmi:id="_a4BZo_H2EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location X" value="639"/>
-            <properties xmi:id="_a4BZpPH2EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location Y" value="797"/>
+            <properties xmi:id="_a4BZo_H2EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location X" value="558"/>
+            <properties xmi:id="_a4BZpPH2EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location Y" value="802"/>
             <properties xmi:id="_bQNQIPH2EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_bQNQIfH2EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
           </propertyBunches>
@@ -875,7 +875,7 @@
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_fFxMcPH2EeS1n_RmLJEdKg" core="_fFs7APH2EeS1n_RmLJEdKg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_fFxMcfH2EeS1n_RmLJEdKg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
           <propertyBunches xmi:id="_fFxMcvH2EeS1n_RmLJEdKg" type="Visual properties">
-            <properties xmi:id="_fFxMc_H2EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location X" value="733"/>
+            <properties xmi:id="_fFxMc_H2EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location X" value="685"/>
             <properties xmi:id="_fFxMdPH2EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location Y" value="798"/>
             <properties xmi:id="_fjdOAPH2EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_fjdOAfH2EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
@@ -905,8 +905,8 @@
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_D5vFsPIGEeS1n_RmLJEdKg" core="_D5q0QPIGEeS1n_RmLJEdKg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_D5vFsfIGEeS1n_RmLJEdKg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
           <propertyBunches xmi:id="_D5vFsvIGEeS1n_RmLJEdKg" type="Visual properties">
-            <properties xmi:id="_D5vFs_IGEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location X" value="926"/>
-            <properties xmi:id="_D5vFtPIGEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location Y" value="790"/>
+            <properties xmi:id="_D5vFs_IGEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location X" value="931"/>
+            <properties xmi:id="_D5vFtPIGEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location Y" value="850"/>
             <properties xmi:id="_EU9pIPIGEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_EU9pIfIGEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
           </propertyBunches>
@@ -920,8 +920,8 @@
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_HP03wPIGEeS1n_RmLJEdKg" core="_HPx0cPIGEeS1n_RmLJEdKg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_HP03wfIGEeS1n_RmLJEdKg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
           <propertyBunches xmi:id="_HP03wvIGEeS1n_RmLJEdKg" type="Visual properties">
-            <properties xmi:id="_HP03w_IGEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location X" value="1018"/>
-            <properties xmi:id="_HP03xPIGEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location Y" value="790"/>
+            <properties xmi:id="_HP03w_IGEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location X" value="1001"/>
+            <properties xmi:id="_HP03xPIGEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location Y" value="787"/>
             <properties xmi:id="_Hvt4wPIGEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_Hvt4wfIGEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
           </propertyBunches>
@@ -1568,8 +1568,8 @@
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_grzZ8Pj4EeSuM5gBQPT8Mg" core="_grOLIPj4EeSuM5gBQPT8Mg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_grzZ8fj4EeSuM5gBQPT8Mg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
           <propertyBunches xmi:id="_grzZ8vj4EeSuM5gBQPT8Mg" type="Visual properties">
-            <properties xmi:id="_grzZ8_j4EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location X" value="71"/>
-            <properties xmi:id="_grzZ9Pj4EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location Y" value="877"/>
+            <properties xmi:id="_grzZ8_j4EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location X" value="103"/>
+            <properties xmi:id="_grzZ9Pj4EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location Y" value="864"/>
             <properties xmi:id="_mDvvAPj4EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_mDvvAfj4EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
           </propertyBunches>
@@ -1583,8 +1583,8 @@
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_tJUDgPj4EeSuM5gBQPT8Mg" core="_tJPyEPj4EeSuM5gBQPT8Mg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_tJUDgfj4EeSuM5gBQPT8Mg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
           <propertyBunches xmi:id="_tJUDgvj4EeSuM5gBQPT8Mg" type="Visual properties">
-            <properties xmi:id="_tJUDg_j4EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location X" value="182"/>
-            <properties xmi:id="_tJUDhPj4EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location Y" value="912"/>
+            <properties xmi:id="_tJUDg_j4EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location X" value="199"/>
+            <properties xmi:id="_tJUDhPj4EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location Y" value="892"/>
             <properties xmi:id="_7Qv4QPj4EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_7Qv4Qfj4EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
           </propertyBunches>
@@ -1598,8 +1598,8 @@
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_cJa-cPj5EeSuM5gBQPT8Mg" core="_cJR0gPj5EeSuM5gBQPT8Mg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_cJa-cfj5EeSuM5gBQPT8Mg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
           <propertyBunches xmi:id="_cJa-cvj5EeSuM5gBQPT8Mg" type="Visual properties">
-            <properties xmi:id="_cJa-c_j5EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location X" value="371"/>
-            <properties xmi:id="_cJa-dPj5EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location Y" value="880"/>
+            <properties xmi:id="_cJa-c_j5EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location X" value="330"/>
+            <properties xmi:id="_cJa-dPj5EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location Y" value="975"/>
             <properties xmi:id="_hHgpEPj5EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_hHgpEfj5EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
           </propertyBunches>
@@ -1613,8 +1613,8 @@
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_cTdrQPj5EeSuM5gBQPT8Mg" core="_cTYLsPj5EeSuM5gBQPT8Mg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_cTdrQfj5EeSuM5gBQPT8Mg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
           <propertyBunches xmi:id="_cTdrQvj5EeSuM5gBQPT8Mg" type="Visual properties">
-            <properties xmi:id="_cTdrQ_j5EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location X" value="449"/>
-            <properties xmi:id="_cTdrRPj5EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location Y" value="924"/>
+            <properties xmi:id="_cTdrQ_j5EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location X" value="419"/>
+            <properties xmi:id="_cTdrRPj5EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location Y" value="1016"/>
             <properties xmi:id="_c1RX0Pj5EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_c1R-4Pj5EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
           </propertyBunches>
@@ -1628,8 +1628,8 @@
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_f3nSAPj6EeSuM5gBQPT8Mg" core="_f3gkUPj6EeSuM5gBQPT8Mg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_f3nSAfj6EeSuM5gBQPT8Mg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
           <propertyBunches xmi:id="_f3nSAvj6EeSuM5gBQPT8Mg" type="Visual properties">
-            <properties xmi:id="_f3nSA_j6EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location X" value="533"/>
-            <properties xmi:id="_f3nSBPj6EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location Y" value="883"/>
+            <properties xmi:id="_f3nSA_j6EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location X" value="506"/>
+            <properties xmi:id="_f3nSBPj6EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location Y" value="973"/>
             <properties xmi:id="_gTadMPj6EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_gTadMfj6EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
           </propertyBunches>
@@ -1643,8 +1643,8 @@
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_TPrEoPj7EeSuM5gBQPT8Mg" core="_TPYJsPj7EeSuM5gBQPT8Mg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_TPrEofj7EeSuM5gBQPT8Mg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
           <propertyBunches xmi:id="_TPrEovj7EeSuM5gBQPT8Mg" type="Visual properties">
-            <properties xmi:id="_TPrEo_j7EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location X" value="237"/>
-            <properties xmi:id="_TPrEpPj7EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location Y" value="877"/>
+            <properties xmi:id="_TPrEo_j7EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location X" value="278"/>
+            <properties xmi:id="_TPrEpPj7EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location Y" value="882"/>
             <properties xmi:id="_gQxjcPj7EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_gQxjcfj7EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
           </propertyBunches>
@@ -1658,8 +1658,8 @@
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_mP5NQPj7EeSuM5gBQPT8Mg" core="_mPx4gPj7EeSuM5gBQPT8Mg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_mP5NQfj7EeSuM5gBQPT8Mg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
           <propertyBunches xmi:id="_mP5NQvj7EeSuM5gBQPT8Mg" type="Visual properties">
-            <properties xmi:id="_mP5NQ_j7EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location X" value="655"/>
-            <properties xmi:id="_mP5NRPj7EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location Y" value="867"/>
+            <properties xmi:id="_mP5NQ_j7EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location X" value="642"/>
+            <properties xmi:id="_mP5NRPj7EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location Y" value="886"/>
             <properties xmi:id="_tyCJAPj7EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_tyCJAfj7EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
           </propertyBunches>
@@ -1673,8 +1673,8 @@
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_yCgfsPj7EeSuM5gBQPT8Mg" core="_yCbnMPj7EeSuM5gBQPT8Mg" targetConnections="_FjvDoPj8EeSuM5gBQPT8Mg _Q43v4Pj8EeSuM5gBQPT8Mg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_yCgfsfj7EeSuM5gBQPT8Mg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
           <propertyBunches xmi:id="_yCgfsvj7EeSuM5gBQPT8Mg" type="Visual properties">
-            <properties xmi:id="_yCgfs_j7EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location X" value="669"/>
-            <properties xmi:id="_yCgftPj7EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location Y" value="729"/>
+            <properties xmi:id="_yCgfs_j7EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location X" value="604"/>
+            <properties xmi:id="_yCgftPj7EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location Y" value="733"/>
             <properties xmi:id="__oOHcPj7EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
             <properties xmi:id="__oOHcfj7EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
           </propertyBunches>
@@ -1688,8 +1688,8 @@
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_xVa6wPj8EeSuM5gBQPT8Mg" core="_xVUNEPj8EeSuM5gBQPT8Mg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_xVa6wfj8EeSuM5gBQPT8Mg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
           <propertyBunches xmi:id="_xVa6wvj8EeSuM5gBQPT8Mg" type="Visual properties">
-            <properties xmi:id="_xVa6w_j8EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location X" value="855"/>
-            <properties xmi:id="_xVa6xPj8EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location Y" value="786"/>
+            <properties xmi:id="_xVa6w_j8EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location X" value="874"/>
+            <properties xmi:id="_xVa6xPj8EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location Y" value="783"/>
             <properties xmi:id="_2x2HMPj8EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_2x2HMfj8EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
           </propertyBunches>
@@ -3951,7 +3951,7 @@
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="__LxvQO3HEeSpbvnbke1BIQ" name="Configure Instances" incomingRelations="_ofjRMfH0EeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_oPqhkO4DEeSdDLHD65BrKA" name="H" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_FRaAMO4JEeSdDLHD65BrKA" name="Select the instance types which&#xA;match the users constraints" incomingRelations="_FX1gMvGqEeS1n_RmLJEdKg" outcomingRelations="_Vkg1cPHyEeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
-    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_H7r1IO4JEeSdDLHD65BrKA" name="Select a cloud provider" incomingRelations="_VkhcgfHyEeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_H7r1IO4JEeSdDLHD65BrKA" name="Select a cloud &#xA;infrastructure &#xA;provider" incomingRelations="_VkhcgfHyEeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_OnXC8O4JEeSdDLHD65BrKA" name=" Store Instance&#xA;Information" incomingRelations="_rTd4YfH2EeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_YnBKAO4JEeSdDLHD65BrKA" name="Select a cloud" incomingRelations="_YYRWgPHyEeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_bYE8YO4JEeSdDLHD65BrKA" name="Manage the job&#xA;execution" incomingRelations="_A4zO8O4OEeSdDLHD65BrKA" outcomingRelations="_FHPv4O4PEeSdDLHD65BrKA" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
@@ -4141,13 +4141,13 @@
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_-nK0cPfaEeSgF8hA0fh9IA" name="Execute Job." incomingRelations="_EyP2oPfbEeSgF8hA0fh9IA" Actor="_F0KdEO4LEeSdDLHD65BrKA"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_uZ2wQPj2EeSuM5gBQPT8Mg" name="Create a deployment plan" incomingRelations="_1fL0MPj2EeSuM5gBQPT8Mg" outcomingRelations="_2xh68Pj4EeSuM5gBQPT8Mg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_ulib0Pj2EeSuM5gBQPT8Mg" name="Demand the virtual machines&#xA;to the clouds" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
-    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_grOLIPj4EeSuM5gBQPT8Mg" name="Select an availability zone" incomingRelations="_2xh68vj4EeSuM5gBQPT8Mg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
-    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_tJPyEPj4EeSuM5gBQPT8Mg" name="Select a virtual &#xA;machine image " incomingRelations="__6kjEPj4EeSuM5gBQPT8Mg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_grOLIPj4EeSuM5gBQPT8Mg" name="Select an &#xA;availability &#xA;zone" incomingRelations="_2xh68vj4EeSuM5gBQPT8Mg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_tJPyEPj4EeSuM5gBQPT8Mg" name="Select a &#xA;virtual &#xA;machine &#xA;image " incomingRelations="__6kjEPj4EeSuM5gBQPT8Mg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_cJR0gPj5EeSuM5gBQPT8Mg" name="Connect to the cloud" incomingRelations="_i1J2oPj5EeSuM5gBQPT8Mg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_cTYLsPj5EeSuM5gBQPT8Mg" name="Create inbound and&#xA;outbound traffic rules" incomingRelations="_jGQ_UPj6EeSuM5gBQPT8Mg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_fvWt4Pj6EeSuM5gBQPT8Mg" name="HardGoal 10" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_f3gkUPj6EeSuM5gBQPT8Mg" name="Create SSH keys" incomingRelations="_EF6QMPj7EeSuM5gBQPT8Mg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
-    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_TPYJsPj7EeSuM5gBQPT8Mg" name="Define instances tags" incomingRelations="_hJaboPj7EeSuM5gBQPT8Mg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_TPYJsPj7EeSuM5gBQPT8Mg" name="Define the &#xA;instances &#xA;tags" incomingRelations="_hJaboPj7EeSuM5gBQPT8Mg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_mPx4gPj7EeSuM5gBQPT8Mg" name="Include instance &#xA;tag description" incomingRelations="_ucGZsPj7EeSuM5gBQPT8Mg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_yCbnMPj7EeSuM5gBQPT8Mg" name="Store instance&#xA;state data" incomingRelations="_ChMfsPj8EeSuM5gBQPT8Mg" outcomingRelations="_Fjt1gPj8EeSuM5gBQPT8Mg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_xVUNEPj8EeSuM5gBQPT8Mg" name="Select the &#xA;software &#xA;packages" incomingRelations="_3x09gPj8EeSuM5gBQPT8Mg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
