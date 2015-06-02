@@ -2,31 +2,31 @@
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:it.itc.sra.taom4e.model.core.informalcore="http:///it/itc/sra/taom4e/model/core/informalcore.ecore" xmlns:it.itc.sra.taom4e.model.core.informalcore.formalcore="http:///it/itc/sra/taom4e/model/core/informalcore/formalcore.ecore" xmlns:it.itc.sra.taom4e.model.diagram.gendiagram="http:///it/itc/sra/taom4e/model/diagram/gendiagram.ecore" xmlns:it.itc.sra.taom4e.model.diagram.mixeddiagram="http:///it/itc/sra/taom4e/model/diagram/mixeddiagram.ecore" xmlns:it.itc.sra.taom4e.model.project="http:///it/itc/sra/taom4e/model/project.ecore">
   <it.itc.sra.taom4e.model.project:Project xmi:id="_3pGdcO3GEeSpbvnbke1BIQ" BusinessModel="_3pHEgO3GEeSpbvnbke1BIQ">
     <Diagram xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MixedDiagram" xmi:id="_3pZYYO3GEeSpbvnbke1BIQ" core="_3pHEgO3GEeSpbvnbke1BIQ" name="ER1" status="2">
-      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_ActorUI" xmi:id="_Dp_ccO3HEeSpbvnbke1BIQ" core="_Dp9AMO3HEeSpbvnbke1BIQ" moveIntentionalWithActor="true" baloonUI="_DqAqkO3HEeSpbvnbke1BIQ" intentionalUIs="_LDQJAO3HEeSpbvnbke1BIQ _kZpwkO3HEeSpbvnbke1BIQ __L0LgO3HEeSpbvnbke1BIQ _FRcccO4JEeSdDLHD65BrKA _H7tqUO4JEeSdDLHD65BrKA _OnY4IO4JEeSdDLHD65BrKA _YnCYIO4JEeSdDLHD65BrKA _bYHYoO4JEeSdDLHD65BrKA _O_pKoO4KEeSdDLHD65BrKA _4KY0sO4KEeSdDLHD65BrKA _B93TsPGqEeS1n_RmLJEdKg _jBEO4PGqEeS1n_RmLJEdKg _Kn2TkPHyEeS1n_RmLJEdKg _s8KRUPHyEeS1n_RmLJEdKg _-O8nwPHyEeS1n_RmLJEdKg _BrQWkPHzEeS1n_RmLJEdKg _bSD8MPH0EeS1n_RmLJEdKg _fFbgIPH0EeS1n_RmLJEdKg _8V2tQPH0EeS1n_RmLJEdKg _a4BZoPH2EeS1n_RmLJEdKg _fFxMcPH2EeS1n_RmLJEdKg _oOsf0PH2EeS1n_RmLJEdKg _9_f5sPH2EeS1n_RmLJEdKg _D5vFsPIGEeS1n_RmLJEdKg _HP03wPIGEeS1n_RmLJEdKg">
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_ActorUI" xmi:id="_Dp_ccO3HEeSpbvnbke1BIQ" core="_Dp9AMO3HEeSpbvnbke1BIQ" moveIntentionalWithActor="true" baloonUI="_DqAqkO3HEeSpbvnbke1BIQ" intentionalUIs="_LDQJAO3HEeSpbvnbke1BIQ _kZpwkO3HEeSpbvnbke1BIQ _FRcccO4JEeSdDLHD65BrKA _H7tqUO4JEeSdDLHD65BrKA _YnCYIO4JEeSdDLHD65BrKA _bYHYoO4JEeSdDLHD65BrKA _O_pKoO4KEeSdDLHD65BrKA _4KY0sO4KEeSdDLHD65BrKA _B93TsPGqEeS1n_RmLJEdKg _jBEO4PGqEeS1n_RmLJEdKg _Kn2TkPHyEeS1n_RmLJEdKg _s8KRUPHyEeS1n_RmLJEdKg _-O8nwPHyEeS1n_RmLJEdKg _BrQWkPHzEeS1n_RmLJEdKg _bSD8MPH0EeS1n_RmLJEdKg _fFbgIPH0EeS1n_RmLJEdKg _a4BZoPH2EeS1n_RmLJEdKg _fFxMcPH2EeS1n_RmLJEdKg _9_f5sPH2EeS1n_RmLJEdKg _D5vFsPIGEeS1n_RmLJEdKg _HP03wPIGEeS1n_RmLJEdKg _uaCWcPj2EeSuM5gBQPT8Mg _grzZ8Pj4EeSuM5gBQPT8Mg _tJUDgPj4EeSuM5gBQPT8Mg _cJa-cPj5EeSuM5gBQPT8Mg _cTdrQPj5EeSuM5gBQPT8Mg _f3nSAPj6EeSuM5gBQPT8Mg _TPrEoPj7EeSuM5gBQPT8Mg _mP5NQPj7EeSuM5gBQPT8Mg _yCgfsPj7EeSuM5gBQPT8Mg _xVa6wPj8EeSuM5gBQPT8Mg _dYDX8Pj9EeSuM5gBQPT8Mg">
         <visualPropertyManagers xmi:id="_Dp_cce3HEeSpbvnbke1BIQ" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Actor figure">
           <propertyBunches xmi:id="_Dp_ccu3HEeSpbvnbke1BIQ" type="Visual properties">
-            <properties xmi:id="_Dp_cc-3HEeSpbvnbke1BIQ" destination="Actor figure" type="int" name="Location X" value="614"/>
-            <properties xmi:id="_Dp_cdO3HEeSpbvnbke1BIQ" destination="Actor figure" type="int" name="Location Y" value="361"/>
+            <properties xmi:id="_Dp_cc-3HEeSpbvnbke1BIQ" destination="Actor figure" type="int" name="Location X" value="688"/>
+            <properties xmi:id="_Dp_cdO3HEeSpbvnbke1BIQ" destination="Actor figure" type="int" name="Location Y" value="514"/>
             <properties xmi:id="_JCfyMO3HEeSpbvnbke1BIQ" destination="Actor figure" type="int" name="Height" value="50"/>
             <properties xmi:id="_JCfyMe3HEeSpbvnbke1BIQ" destination="Actor figure" type="int" name="Width" value="50"/>
           </propertyBunches>
         </visualPropertyManagers>
       </DiagramNodes>
-      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_BaloonUI" xmi:id="_DqAqkO3HEeSpbvnbke1BIQ" core="_Dp9AMO3HEeSpbvnbke1BIQ" children="_LDQJAO3HEeSpbvnbke1BIQ _kZpwkO3HEeSpbvnbke1BIQ __L0LgO3HEeSpbvnbke1BIQ _Kw_e4O3IEeSpbvnbke1BIQ _FRcccO4JEeSdDLHD65BrKA _H7tqUO4JEeSdDLHD65BrKA _OnY4IO4JEeSdDLHD65BrKA _YnCYIO4JEeSdDLHD65BrKA _bYHYoO4JEeSdDLHD65BrKA _O_pKoO4KEeSdDLHD65BrKA _4KY0sO4KEeSdDLHD65BrKA _B93TsPGqEeS1n_RmLJEdKg _jBEO4PGqEeS1n_RmLJEdKg _Kn2TkPHyEeS1n_RmLJEdKg _s8KRUPHyEeS1n_RmLJEdKg _-O8nwPHyEeS1n_RmLJEdKg _BrQWkPHzEeS1n_RmLJEdKg _bSD8MPH0EeS1n_RmLJEdKg _fFbgIPH0EeS1n_RmLJEdKg _8V2tQPH0EeS1n_RmLJEdKg _a4BZoPH2EeS1n_RmLJEdKg _fFxMcPH2EeS1n_RmLJEdKg _oOsf0PH2EeS1n_RmLJEdKg _9_f5sPH2EeS1n_RmLJEdKg _D5vFsPIGEeS1n_RmLJEdKg _HP03wPIGEeS1n_RmLJEdKg" baloonOpen="true" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_BaloonUI" xmi:id="_DqAqkO3HEeSpbvnbke1BIQ" core="_Dp9AMO3HEeSpbvnbke1BIQ" children="_LDQJAO3HEeSpbvnbke1BIQ _kZpwkO3HEeSpbvnbke1BIQ _Kw_e4O3IEeSpbvnbke1BIQ _FRcccO4JEeSdDLHD65BrKA _H7tqUO4JEeSdDLHD65BrKA _YnCYIO4JEeSdDLHD65BrKA _bYHYoO4JEeSdDLHD65BrKA _O_pKoO4KEeSdDLHD65BrKA _4KY0sO4KEeSdDLHD65BrKA _B93TsPGqEeS1n_RmLJEdKg _jBEO4PGqEeS1n_RmLJEdKg _Kn2TkPHyEeS1n_RmLJEdKg _s8KRUPHyEeS1n_RmLJEdKg _-O8nwPHyEeS1n_RmLJEdKg _BrQWkPHzEeS1n_RmLJEdKg _bSD8MPH0EeS1n_RmLJEdKg _fFbgIPH0EeS1n_RmLJEdKg _a4BZoPH2EeS1n_RmLJEdKg _fFxMcPH2EeS1n_RmLJEdKg _9_f5sPH2EeS1n_RmLJEdKg _D5vFsPIGEeS1n_RmLJEdKg _HP03wPIGEeS1n_RmLJEdKg _uaCWcPj2EeSuM5gBQPT8Mg _grzZ8Pj4EeSuM5gBQPT8Mg _tJUDgPj4EeSuM5gBQPT8Mg _cJa-cPj5EeSuM5gBQPT8Mg _cTdrQPj5EeSuM5gBQPT8Mg _f3nSAPj6EeSuM5gBQPT8Mg _TPrEoPj7EeSuM5gBQPT8Mg _mP5NQPj7EeSuM5gBQPT8Mg _yCgfsPj7EeSuM5gBQPT8Mg _xVa6wPj8EeSuM5gBQPT8Mg _dYDX8Pj9EeSuM5gBQPT8Mg" baloonOpen="true" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_DqAqke3HEeSpbvnbke1BIQ" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Baloon figure">
           <propertyBunches xmi:id="_DqAqku3HEeSpbvnbke1BIQ" type="Visual properties">
-            <properties xmi:id="_DqAqk-3HEeSpbvnbke1BIQ" destination="Baloon figure" type="int" name="Location X" value="-267"/>
-            <properties xmi:id="_DqAqlO3HEeSpbvnbke1BIQ" destination="Baloon figure" type="int" name="Location Y" value="385"/>
+            <properties xmi:id="_DqAqk-3HEeSpbvnbke1BIQ" destination="Baloon figure" type="int" name="Location X" value="-193"/>
+            <properties xmi:id="_DqAqlO3HEeSpbvnbke1BIQ" destination="Baloon figure" type="int" name="Location Y" value="538"/>
             <properties xmi:id="_IZji4O3HEeSpbvnbke1BIQ" destination="Baloon figure" type="int" name="Height" value="814"/>
             <properties xmi:id="_IZji4e3HEeSpbvnbke1BIQ" destination="Baloon figure" type="int" name="Width" value="1688"/>
           </propertyBunches>
         </visualPropertyManagers>
       </DiagramNodes>
-      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_LDQJAO3HEeSpbvnbke1BIQ" core="_LDOT0O3HEeSpbvnbke1BIQ" targetConnections="_A4z2AO4OEeSdDLHD65BrKA _31MvsPGrEeS1n_RmLJEdKg _Co2VUPH1EeS1n_RmLJEdKg _AfNdYPH3EeS1n_RmLJEdKg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_LDQJAO3HEeSpbvnbke1BIQ" core="_LDOT0O3HEeSpbvnbke1BIQ" targetConnections="_A4z2AO4OEeSdDLHD65BrKA _31MvsPGrEeS1n_RmLJEdKg _AfNdYPH3EeS1n_RmLJEdKg _32LckPj9EeSuM5gBQPT8Mg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_LDQJAe3HEeSpbvnbke1BIQ" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
           <propertyBunches xmi:id="_LDQJAu3HEeSpbvnbke1BIQ" type="Visual properties">
-            <properties xmi:id="_LDQJA-3HEeSpbvnbke1BIQ" destination="Hardgoal figure" type="int" name="Location X" value="521"/>
-            <properties xmi:id="_LDQJBO3HEeSpbvnbke1BIQ" destination="Hardgoal figure" type="int" name="Location Y" value="459"/>
+            <properties xmi:id="_LDQJA-3HEeSpbvnbke1BIQ" destination="Hardgoal figure" type="int" name="Location X" value="660"/>
+            <properties xmi:id="_LDQJBO3HEeSpbvnbke1BIQ" destination="Hardgoal figure" type="int" name="Location Y" value="592"/>
             <properties xmi:id="_MFjTgO3HEeSpbvnbke1BIQ" destination="Hardgoal figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_MFjTge3HEeSpbvnbke1BIQ" destination="Hardgoal figure" type="int" name="Width" value="50"/>
           </propertyBunches>
@@ -35,33 +35,18 @@
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_kZpwkO3HEeSpbvnbke1BIQ" core="_kZmGMO3HEeSpbvnbke1BIQ" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_kZpwke3HEeSpbvnbke1BIQ" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Plan figure">
           <propertyBunches xmi:id="_kZpwku3HEeSpbvnbke1BIQ" type="Visual properties">
-            <properties xmi:id="_kZpwk-3HEeSpbvnbke1BIQ" destination="Plan figure" type="int" name="Location X" value="192"/>
-            <properties xmi:id="_kZpwlO3HEeSpbvnbke1BIQ" destination="Plan figure" type="int" name="Location Y" value="856"/>
+            <properties xmi:id="_kZpwk-3HEeSpbvnbke1BIQ" destination="Plan figure" type="int" name="Location X" value="181"/>
+            <properties xmi:id="_kZpwlO3HEeSpbvnbke1BIQ" destination="Plan figure" type="int" name="Location Y" value="1101"/>
             <properties xmi:id="_sR6GQO3HEeSpbvnbke1BIQ" destination="Plan figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_sR6GQe3HEeSpbvnbke1BIQ" destination="Plan figure" type="int" name="Width" value="50"/>
           </propertyBunches>
         </visualPropertyManagers>
       </DiagramNodes>
-      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="__L0LgO3HEeSpbvnbke1BIQ" core="__LxvQO3HEeSpbvnbke1BIQ" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
-        <visualPropertyManagers xmi:id="__L0Lge3HEeSpbvnbke1BIQ" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
-          <propertyBunches xmi:id="__L0Lgu3HEeSpbvnbke1BIQ" type="Visual properties">
-            <properties xmi:id="__L0Lg-3HEeSpbvnbke1BIQ" destination="Hardgoal figure" type="int" name="Location X" value="407"/>
-            <properties xmi:id="__L0LhO3HEeSpbvnbke1BIQ" destination="Hardgoal figure" type="int" name="Location Y" value="742"/>
-            <properties xmi:id="_IHshYO3IEeSpbvnbke1BIQ" destination="Hardgoal figure" type="int" name="Height" value="30"/>
-            <properties xmi:id="_IHshYe3IEeSpbvnbke1BIQ" destination="Hardgoal figure" type="int" name="Width" value="50"/>
-          </propertyBunches>
-        </visualPropertyManagers>
-        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_BooleanDecLinkUI" xmi:id="_ofkfUPH0EeS1n_RmLJEdKg" core="_ofjRMfH0EeS1n_RmLJEdKg" targetNode="_BrQWkPHzEeS1n_RmLJEdKg">
-          <visualPropertyManagers xmi:id="_ofkfUfH0EeS1n_RmLJEdKg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Decomposition connection">
-            <propertyBunches xmi:id="_ofkfUvH0EeS1n_RmLJEdKg" type="Visual properties"/>
-          </visualPropertyManagers>
-        </sourceConnections>
-      </DiagramNodes>
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_FRcccO4JEeSdDLHD65BrKA" core="_FRaAMO4JEeSdDLHD65BrKA" targetConnections="_VkiqoPHyEeS1n_RmLJEdKg _YYR9kPHyEeS1n_RmLJEdKg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_FRccce4JEeSdDLHD65BrKA" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
           <propertyBunches xmi:id="_FRcccu4JEeSdDLHD65BrKA" type="Visual properties">
-            <properties xmi:id="_FRdDgO4JEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Location X" value="-47"/>
-            <properties xmi:id="_FRdDge4JEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Location Y" value="612"/>
+            <properties xmi:id="_FRdDgO4JEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Location X" value="-51"/>
+            <properties xmi:id="_FRdDge4JEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Location Y" value="737"/>
             <properties xmi:id="_Qd_igO4LEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_Qd_ige4LEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Width" value="50"/>
           </propertyBunches>
@@ -75,8 +60,8 @@
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_H7tqUO4JEeSdDLHD65BrKA" core="_H7r1IO4JEeSdDLHD65BrKA" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_H7tqUe4JEeSdDLHD65BrKA" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
           <propertyBunches xmi:id="_H7tqUu4JEeSdDLHD65BrKA" type="Visual properties">
-            <properties xmi:id="_H7tqU-4JEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Location X" value="-44"/>
-            <properties xmi:id="_H7tqVO4JEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Location Y" value="722"/>
+            <properties xmi:id="_H7tqU-4JEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Location X" value="-156"/>
+            <properties xmi:id="_H7tqVO4JEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Location Y" value="829"/>
             <properties xmi:id="_IWN1AO4JEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_IWN1Ae4JEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Width" value="50"/>
           </propertyBunches>
@@ -87,26 +72,11 @@
           </visualPropertyManagers>
         </sourceConnections>
       </DiagramNodes>
-      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_OnY4IO4JEeSdDLHD65BrKA" core="_OnXC8O4JEeSdDLHD65BrKA" targetConnections="_sORTwPH2EeS1n_RmLJEdKg _szI7YPH2EeS1n_RmLJEdKg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
-        <visualPropertyManagers xmi:id="_OnY4Ie4JEeSdDLHD65BrKA" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
-          <propertyBunches xmi:id="_OnY4Iu4JEeSdDLHD65BrKA" type="Visual properties">
-            <properties xmi:id="_OnY4I-4JEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Location X" value="602"/>
-            <properties xmi:id="_OnY4JO4JEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Location Y" value="635"/>
-            <properties xmi:id="_Qd_igu4LEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Height" value="30"/>
-            <properties xmi:id="_Qd_ig-4LEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Width" value="50"/>
-          </propertyBunches>
-        </visualPropertyManagers>
-        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_BooleanDecLinkUI" xmi:id="_rTefcPH2EeS1n_RmLJEdKg" core="_rTd4YfH2EeS1n_RmLJEdKg" targetNode="_8V2tQPH0EeS1n_RmLJEdKg">
-          <visualPropertyManagers xmi:id="_rTefcfH2EeS1n_RmLJEdKg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Decomposition connection">
-            <propertyBunches xmi:id="_rTefcvH2EeS1n_RmLJEdKg" type="Visual properties"/>
-          </visualPropertyManagers>
-        </sourceConnections>
-      </DiagramNodes>
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_YnCYIO4JEeSdDLHD65BrKA" core="_YnBKAO4JEeSdDLHD65BrKA" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_YnCYIe4JEeSdDLHD65BrKA" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
           <propertyBunches xmi:id="_YnCYIu4JEeSdDLHD65BrKA" type="Visual properties">
-            <properties xmi:id="_YnCYI-4JEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Location X" value="91"/>
-            <properties xmi:id="_YnCYJO4JEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Location Y" value="720"/>
+            <properties xmi:id="_YnCYI-4JEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Location X" value="-37"/>
+            <properties xmi:id="_YnCYJO4JEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Location Y" value="866"/>
             <properties xmi:id="_ZFkuQO4JEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_ZFkuQe4JEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Width" value="50"/>
           </propertyBunches>
@@ -120,8 +90,8 @@
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_bYHYoO4JEeSdDLHD65BrKA" core="_bYE8YO4JEeSdDLHD65BrKA" targetConnections="_eheegPH0EeS1n_RmLJEdKg _hyzFUPH0EeS1n_RmLJEdKg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_bYHYoe4JEeSdDLHD65BrKA" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
           <propertyBunches xmi:id="_bYHYou4JEeSdDLHD65BrKA" type="Visual properties">
-            <properties xmi:id="_bYHYo-4JEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Location X" value="1122"/>
-            <properties xmi:id="_bYHYpO4JEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Location Y" value="575"/>
+            <properties xmi:id="_bYHYo-4JEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Location X" value="1265"/>
+            <properties xmi:id="_bYHYpO4JEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Location Y" value="725"/>
             <properties xmi:id="_duRXsO4JEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_duRXse4JEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Width" value="50"/>
           </propertyBunches>
@@ -135,8 +105,8 @@
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_O_pKoO4KEeSdDLHD65BrKA" core="_O_muYO4KEeSdDLHD65BrKA" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_O_pKoe4KEeSdDLHD65BrKA" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
           <propertyBunches xmi:id="_O_pKou4KEeSdDLHD65BrKA" type="Visual properties">
-            <properties xmi:id="_O_pKo-4KEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Location X" value="245"/>
-            <properties xmi:id="_O_pKpO4KEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Location Y" value="731"/>
+            <properties xmi:id="_O_pKo-4KEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Location X" value="634"/>
+            <properties xmi:id="_O_pKpO4KEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Location Y" value="909"/>
             <properties xmi:id="_Pc3SIO4KEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_Pc3SIe4KEeSdDLHD65BrKA" destination="Hardgoal figure" type="int" name="Width" value="50"/>
           </propertyBunches>
@@ -150,8 +120,8 @@
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_4KY0sO4KEeSdDLHD65BrKA" core="_4KVKUO4KEeSdDLHD65BrKA" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_4KY0se4KEeSdDLHD65BrKA" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Softgoal figure">
           <propertyBunches xmi:id="_4KY0su4KEeSdDLHD65BrKA" type="Visual properties">
-            <properties xmi:id="_4KY0s-4KEeSdDLHD65BrKA" destination="Softgoal figure" type="int" name="Location X" value="245"/>
-            <properties xmi:id="_4KY0tO4KEeSdDLHD65BrKA" destination="Softgoal figure" type="int" name="Location Y" value="943"/>
+            <properties xmi:id="_4KY0s-4KEeSdDLHD65BrKA" destination="Softgoal figure" type="int" name="Location X" value="319"/>
+            <properties xmi:id="_4KY0tO4KEeSdDLHD65BrKA" destination="Softgoal figure" type="int" name="Location Y" value="1096"/>
             <properties xmi:id="_5PsP4O4KEeSdDLHD65BrKA" destination="Softgoal figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_5PsP4e4KEeSdDLHD65BrKA" destination="Softgoal figure" type="int" name="Width" value="50"/>
           </propertyBunches>
@@ -752,11 +722,11 @@
           </visualPropertyManagers>
         </sourceConnections>
       </DiagramNodes>
-      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_B93TsPGqEeS1n_RmLJEdKg" core="_B92soPGqEeS1n_RmLJEdKg" targetConnections="_FX1gNfGqEeS1n_RmLJEdKg _hL-7Y_QBEeS1n_RmLJEdKg _jMEj0PQBEeS1n_RmLJEdKg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_B93TsPGqEeS1n_RmLJEdKg" core="_B92soPGqEeS1n_RmLJEdKg" targetConnections="_FX1gNfGqEeS1n_RmLJEdKg _hL-7Y_QBEeS1n_RmLJEdKg _ChR_QPj8EeSuM5gBQPT8Mg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_B93TsfGqEeS1n_RmLJEdKg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
           <propertyBunches xmi:id="_B93TsvGqEeS1n_RmLJEdKg" type="Visual properties">
-            <properties xmi:id="_B93Ts_GqEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location X" value="104"/>
-            <properties xmi:id="_B93TtPGqEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location Y" value="546"/>
+            <properties xmi:id="_B93Ts_GqEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location X" value="126"/>
+            <properties xmi:id="_B93TtPGqEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location Y" value="663"/>
             <properties xmi:id="_I2VdMPHzEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_I2VdMfHzEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
           </propertyBunches>
@@ -770,8 +740,8 @@
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_jBEO4PGqEeS1n_RmLJEdKg" core="_jBDAwPGqEeS1n_RmLJEdKg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_jBEO4fGqEeS1n_RmLJEdKg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Plan figure">
           <propertyBunches xmi:id="_jBEO4vGqEeS1n_RmLJEdKg" type="Visual properties">
-            <properties xmi:id="_jBEO4_GqEeS1n_RmLJEdKg" destination="Plan figure" type="int" name="Location X" value="-32"/>
-            <properties xmi:id="_jBEO5PGqEeS1n_RmLJEdKg" destination="Plan figure" type="int" name="Location Y" value="774"/>
+            <properties xmi:id="_jBEO4_GqEeS1n_RmLJEdKg" destination="Plan figure" type="int" name="Location X" value="104"/>
+            <properties xmi:id="_jBEO5PGqEeS1n_RmLJEdKg" destination="Plan figure" type="int" name="Location Y" value="1164"/>
             <properties xmi:id="_jbb2sPGqEeS1n_RmLJEdKg" destination="Plan figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_jbb2sfGqEeS1n_RmLJEdKg" destination="Plan figure" type="int" name="Width" value="50"/>
           </propertyBunches>
@@ -810,8 +780,8 @@
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_Kn2TkPHyEeS1n_RmLJEdKg" core="_Kn0eYPHyEeS1n_RmLJEdKg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_Kn2TkfHyEeS1n_RmLJEdKg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Plan figure">
           <propertyBunches xmi:id="_Kn2TkvHyEeS1n_RmLJEdKg" type="Visual properties">
-            <properties xmi:id="_Kn2Tk_HyEeS1n_RmLJEdKg" destination="Plan figure" type="int" name="Location X" value="48"/>
-            <properties xmi:id="_Kn2TlPHyEeS1n_RmLJEdKg" destination="Plan figure" type="int" name="Location Y" value="842"/>
+            <properties xmi:id="_Kn2Tk_HyEeS1n_RmLJEdKg" destination="Plan figure" type="int" name="Location X" value="-25"/>
+            <properties xmi:id="_Kn2TlPHyEeS1n_RmLJEdKg" destination="Plan figure" type="int" name="Location Y" value="1117"/>
             <properties xmi:id="_jRjiUPH0EeS1n_RmLJEdKg" destination="Plan figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_jRjiUfH0EeS1n_RmLJEdKg" destination="Plan figure" type="int" name="Width" value="50"/>
           </propertyBunches>
@@ -820,18 +790,18 @@
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_s8KRUPHyEeS1n_RmLJEdKg" core="_s8IcIPHyEeS1n_RmLJEdKg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_s8KRUfHyEeS1n_RmLJEdKg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Plan figure">
           <propertyBunches xmi:id="_s8KRUvHyEeS1n_RmLJEdKg" type="Visual properties">
-            <properties xmi:id="_s8KRU_HyEeS1n_RmLJEdKg" destination="Plan figure" type="int" name="Location X" value="368"/>
-            <properties xmi:id="_s8KRVPHyEeS1n_RmLJEdKg" destination="Plan figure" type="int" name="Location Y" value="873"/>
+            <properties xmi:id="_s8KRU_HyEeS1n_RmLJEdKg" destination="Plan figure" type="int" name="Location X" value="375"/>
+            <properties xmi:id="_s8KRVPHyEeS1n_RmLJEdKg" destination="Plan figure" type="int" name="Location Y" value="1170"/>
             <properties xmi:id="_upYoIPHyEeS1n_RmLJEdKg" destination="Plan figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_upYoIfHyEeS1n_RmLJEdKg" destination="Plan figure" type="int" name="Width" value="50"/>
           </propertyBunches>
         </visualPropertyManagers>
       </DiagramNodes>
-      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_-O8nwPHyEeS1n_RmLJEdKg" core="_-O49YPHyEeS1n_RmLJEdKg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_-O8nwPHyEeS1n_RmLJEdKg" core="_-O49YPHyEeS1n_RmLJEdKg" targetConnections="_1fWMQPj2EeSuM5gBQPT8Mg _PJ_6oPj5EeSuM5gBQPT8Mg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_-O8nwfHyEeS1n_RmLJEdKg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
           <propertyBunches xmi:id="_-O8nwvHyEeS1n_RmLJEdKg" type="Visual properties">
-            <properties xmi:id="_-O8nw_HyEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location X" value="141"/>
-            <properties xmi:id="_-O8nxPHyEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location Y" value="651"/>
+            <properties xmi:id="_-O8nw_HyEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location X" value="292"/>
+            <properties xmi:id="_-O8nxPHyEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location Y" value="731"/>
             <properties xmi:id="_-tlrkPHyEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_-tlrkfHyEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
           </propertyBunches>
@@ -842,26 +812,26 @@
           </visualPropertyManagers>
         </sourceConnections>
       </DiagramNodes>
-      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_BrQWkPHzEeS1n_RmLJEdKg" core="_BrN6UPHzEeS1n_RmLJEdKg" targetConnections="_ofkfUPH0EeS1n_RmLJEdKg _SA_-MPNtEeS1n_RmLJEdKg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_BrQWkPHzEeS1n_RmLJEdKg" core="_BrN6UPHzEeS1n_RmLJEdKg" targetConnections="_SA_-MPNtEeS1n_RmLJEdKg _i1Lr0Pj5EeSuM5gBQPT8Mg _jGXtAPj6EeSuM5gBQPT8Mg _EF_vwPj7EeSuM5gBQPT8Mg _ucQxwPj7EeSuM5gBQPT8Mg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_BrQWkfHzEeS1n_RmLJEdKg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
           <propertyBunches xmi:id="_BrQWkvHzEeS1n_RmLJEdKg" type="Visual properties">
-            <properties xmi:id="_BrQWk_HzEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location X" value="303"/>
-            <properties xmi:id="_BrQWlPHzEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location Y" value="639"/>
+            <properties xmi:id="_BrQWk_HzEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location X" value="454"/>
+            <properties xmi:id="_BrQWlPHzEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location Y" value="811"/>
             <properties xmi:id="_CGsVYPHzEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_CGsVYfHzEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
           </propertyBunches>
         </visualPropertyManagers>
-        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_BooleanDecLinkUI" xmi:id="_jMEj0PQBEeS1n_RmLJEdKg" core="_jMD8wPQBEeS1n_RmLJEdKg" targetNode="_B93TsPGqEeS1n_RmLJEdKg">
-          <visualPropertyManagers xmi:id="_jMEj0fQBEeS1n_RmLJEdKg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Decomposition connection">
-            <propertyBunches xmi:id="_jMEj0vQBEeS1n_RmLJEdKg" type="Visual properties"/>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_BooleanDecLinkUI" xmi:id="_PJ_6oPj5EeSuM5gBQPT8Mg" core="_PJ-FcPj5EeSuM5gBQPT8Mg" targetNode="_-O8nwPHyEeS1n_RmLJEdKg">
+          <visualPropertyManagers xmi:id="_PJ_6ofj5EeSuM5gBQPT8Mg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Decomposition connection">
+            <propertyBunches xmi:id="_PJ_6ovj5EeSuM5gBQPT8Mg" type="Visual properties"/>
           </visualPropertyManagers>
         </sourceConnections>
       </DiagramNodes>
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_bSD8MPH0EeS1n_RmLJEdKg" core="_bSA44PH0EeS1n_RmLJEdKg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_bSD8MfH0EeS1n_RmLJEdKg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
           <propertyBunches xmi:id="_bSD8MvH0EeS1n_RmLJEdKg" type="Visual properties">
-            <properties xmi:id="_bSD8M_H0EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location X" value="1086"/>
-            <properties xmi:id="_bSD8NPH0EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location Y" value="645"/>
+            <properties xmi:id="_bSD8M_H0EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location X" value="1267"/>
+            <properties xmi:id="_bSD8NPH0EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location Y" value="788"/>
             <properties xmi:id="_bvKu8PH0EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_bvKu8fH0EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
           </propertyBunches>
@@ -875,8 +845,8 @@
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_fFbgIPH0EeS1n_RmLJEdKg" core="_fFX1wPH0EeS1n_RmLJEdKg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_fFbgIfH0EeS1n_RmLJEdKg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
           <propertyBunches xmi:id="_fFbgIvH0EeS1n_RmLJEdKg" type="Visual properties">
-            <properties xmi:id="_fFbgI_H0EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location X" value="1194"/>
-            <properties xmi:id="_fFbgJPH0EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location Y" value="636"/>
+            <properties xmi:id="_fFbgI_H0EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location X" value="1350"/>
+            <properties xmi:id="_fFbgJPH0EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location Y" value="789"/>
             <properties xmi:id="_gANtYPH0EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_gANtYfH0EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
           </propertyBunches>
@@ -887,71 +857,41 @@
           </visualPropertyManagers>
         </sourceConnections>
       </DiagramNodes>
-      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_8V2tQPH0EeS1n_RmLJEdKg" core="_8V0RAPH0EeS1n_RmLJEdKg" targetConnections="_rTefcPH2EeS1n_RmLJEdKg _rudLQPH2EeS1n_RmLJEdKg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
-        <visualPropertyManagers xmi:id="_8V2tQfH0EeS1n_RmLJEdKg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
-          <propertyBunches xmi:id="_8V2tQvH0EeS1n_RmLJEdKg" type="Visual properties">
-            <properties xmi:id="_8V2tQ_H0EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location X" value="658"/>
-            <properties xmi:id="_8V2tRPH0EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location Y" value="560"/>
-            <properties xmi:id="_8pbwkPH0EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
-            <properties xmi:id="_8pbwkfH0EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
-          </propertyBunches>
-        </visualPropertyManagers>
-        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_BooleanDecLinkUI" xmi:id="_Co2VUPH1EeS1n_RmLJEdKg" core="_Co1HMPH1EeS1n_RmLJEdKg" targetNode="_LDQJAO3HEeSpbvnbke1BIQ">
-          <visualPropertyManagers xmi:id="_Co2VUfH1EeS1n_RmLJEdKg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Decomposition connection">
-            <propertyBunches xmi:id="_Co2VUvH1EeS1n_RmLJEdKg" type="Visual properties"/>
-          </visualPropertyManagers>
-        </sourceConnections>
-      </DiagramNodes>
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_a4BZoPH2EeS1n_RmLJEdKg" core="_a3-WUPH2EeS1n_RmLJEdKg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_a4BZofH2EeS1n_RmLJEdKg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
           <propertyBunches xmi:id="_a4BZovH2EeS1n_RmLJEdKg" type="Visual properties">
-            <properties xmi:id="_a4BZo_H2EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location X" value="545"/>
-            <properties xmi:id="_a4BZpPH2EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location Y" value="707"/>
+            <properties xmi:id="_a4BZo_H2EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location X" value="639"/>
+            <properties xmi:id="_a4BZpPH2EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location Y" value="797"/>
             <properties xmi:id="_bQNQIPH2EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_bQNQIfH2EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
           </propertyBunches>
         </visualPropertyManagers>
-        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_BooleanDecLinkUI" xmi:id="_sORTwPH2EeS1n_RmLJEdKg" core="_sOPekfH2EeS1n_RmLJEdKg" targetNode="_OnY4IO4JEeSdDLHD65BrKA">
-          <visualPropertyManagers xmi:id="_sORTwfH2EeS1n_RmLJEdKg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Decomposition connection">
-            <propertyBunches xmi:id="_sORTwvH2EeS1n_RmLJEdKg" type="Visual properties"/>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_BooleanDecLinkUI" xmi:id="_FjvDoPj8EeSuM5gBQPT8Mg" core="_Fjuckfj8EeSuM5gBQPT8Mg" targetNode="_yCgfsPj7EeSuM5gBQPT8Mg">
+          <visualPropertyManagers xmi:id="_FjvqsPj8EeSuM5gBQPT8Mg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Decomposition connection">
+            <propertyBunches xmi:id="_Fjvqsfj8EeSuM5gBQPT8Mg" type="Visual properties"/>
           </visualPropertyManagers>
         </sourceConnections>
       </DiagramNodes>
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_fFxMcPH2EeS1n_RmLJEdKg" core="_fFs7APH2EeS1n_RmLJEdKg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_fFxMcfH2EeS1n_RmLJEdKg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
           <propertyBunches xmi:id="_fFxMcvH2EeS1n_RmLJEdKg" type="Visual properties">
-            <properties xmi:id="_fFxMc_H2EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location X" value="665"/>
-            <properties xmi:id="_fFxMdPH2EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location Y" value="713"/>
+            <properties xmi:id="_fFxMc_H2EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location X" value="733"/>
+            <properties xmi:id="_fFxMdPH2EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location Y" value="798"/>
             <properties xmi:id="_fjdOAPH2EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_fjdOAfH2EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
           </propertyBunches>
         </visualPropertyManagers>
-        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_BooleanDecLinkUI" xmi:id="_szI7YPH2EeS1n_RmLJEdKg" core="_szIUUPH2EeS1n_RmLJEdKg" targetNode="_OnY4IO4JEeSdDLHD65BrKA">
-          <visualPropertyManagers xmi:id="_szI7YfH2EeS1n_RmLJEdKg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Decomposition connection">
-            <propertyBunches xmi:id="_szI7YvH2EeS1n_RmLJEdKg" type="Visual properties"/>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_BooleanDecLinkUI" xmi:id="_Q43v4Pj8EeSuM5gBQPT8Mg" core="_Q42hwPj8EeSuM5gBQPT8Mg" targetNode="_yCgfsPj7EeSuM5gBQPT8Mg">
+          <visualPropertyManagers xmi:id="_Q43v4fj8EeSuM5gBQPT8Mg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Decomposition connection">
+            <propertyBunches xmi:id="_Q43v4vj8EeSuM5gBQPT8Mg" type="Visual properties"/>
           </visualPropertyManagers>
         </sourceConnections>
       </DiagramNodes>
-      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_oOsf0PH2EeS1n_RmLJEdKg" core="_oOpcgPH2EeS1n_RmLJEdKg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
-        <visualPropertyManagers xmi:id="_oOsf0fH2EeS1n_RmLJEdKg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
-          <propertyBunches xmi:id="_oOsf0vH2EeS1n_RmLJEdKg" type="Visual properties">
-            <properties xmi:id="_oOsf0_H2EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location X" value="747"/>
-            <properties xmi:id="_oOsf1PH2EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location Y" value="631"/>
-            <properties xmi:id="_pNm_IPH2EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
-            <properties xmi:id="_pNm_IfH2EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
-          </propertyBunches>
-        </visualPropertyManagers>
-        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_BooleanDecLinkUI" xmi:id="_rudLQPH2EeS1n_RmLJEdKg" core="_rubWEPH2EeS1n_RmLJEdKg" targetNode="_8V2tQPH0EeS1n_RmLJEdKg">
-          <visualPropertyManagers xmi:id="_rudLQfH2EeS1n_RmLJEdKg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Decomposition connection">
-            <propertyBunches xmi:id="_rudLQvH2EeS1n_RmLJEdKg" type="Visual properties"/>
-          </visualPropertyManagers>
-        </sourceConnections>
-      </DiagramNodes>
-      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_9_f5sPH2EeS1n_RmLJEdKg" core="_9_ddcPH2EeS1n_RmLJEdKg" targetConnections="_NSOfEPIGEeS1n_RmLJEdKg _Nv2PMPIGEeS1n_RmLJEdKg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_9_f5sPH2EeS1n_RmLJEdKg" core="_9_ddcPH2EeS1n_RmLJEdKg" targetConnections="_NSOfEPIGEeS1n_RmLJEdKg _Nv2PMPIGEeS1n_RmLJEdKg _3x7rMPj8EeSuM5gBQPT8Mg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_9_f5sfH2EeS1n_RmLJEdKg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
           <propertyBunches xmi:id="_9_f5svH2EeS1n_RmLJEdKg" type="Visual properties">
-            <properties xmi:id="_9_f5s_H2EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location X" value="917"/>
-            <properties xmi:id="_9_f5tPH2EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location Y" value="560"/>
+            <properties xmi:id="_9_f5s_H2EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location X" value="898"/>
+            <properties xmi:id="_9_f5tPH2EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location Y" value="723"/>
             <properties xmi:id="_-X3WYPH2EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_-X3WYfH2EeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
           </propertyBunches>
@@ -965,8 +905,8 @@
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_D5vFsPIGEeS1n_RmLJEdKg" core="_D5q0QPIGEeS1n_RmLJEdKg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_D5vFsfIGEeS1n_RmLJEdKg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
           <propertyBunches xmi:id="_D5vFsvIGEeS1n_RmLJEdKg" type="Visual properties">
-            <properties xmi:id="_D5vFs_IGEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location X" value="889"/>
-            <properties xmi:id="_D5vFtPIGEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location Y" value="648"/>
+            <properties xmi:id="_D5vFs_IGEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location X" value="926"/>
+            <properties xmi:id="_D5vFtPIGEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location Y" value="790"/>
             <properties xmi:id="_EU9pIPIGEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_EU9pIfIGEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
           </propertyBunches>
@@ -980,8 +920,8 @@
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_HP03wPIGEeS1n_RmLJEdKg" core="_HPx0cPIGEeS1n_RmLJEdKg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
         <visualPropertyManagers xmi:id="_HP03wfIGEeS1n_RmLJEdKg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
           <propertyBunches xmi:id="_HP03wvIGEeS1n_RmLJEdKg" type="Visual properties">
-            <properties xmi:id="_HP03w_IGEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location X" value="1003"/>
-            <properties xmi:id="_HP03xPIGEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location Y" value="642"/>
+            <properties xmi:id="_HP03w_IGEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location X" value="1018"/>
+            <properties xmi:id="_HP03xPIGEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location Y" value="790"/>
             <properties xmi:id="_Hvt4wPIGEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_Hvt4wfIGEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
           </propertyBunches>
@@ -1265,8 +1205,8 @@
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.gendiagram:Comment" xmi:id="_Kw_e4O3IEeSpbvnbke1BIQ" container="_DqAqkO3HEeSpbvnbke1BIQ" text="Context:&#xA;- Available / Requested Cloud&#xA;- Instance OS&#xA;- Service Requirements&#xA;">
         <visualPropertyManagers xmi:id="_Kw_e4e3IEeSpbvnbke1BIQ" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Comment figure">
           <propertyBunches xmi:id="_Kw_e4u3IEeSpbvnbke1BIQ" type="Visual properties">
-            <properties xmi:id="_Kw_e4-3IEeSpbvnbke1BIQ" destination="Comment figure" type="int" name="Location X" value="818"/>
-            <properties xmi:id="_Kw_e5O3IEeSpbvnbke1BIQ" destination="Comment figure" type="int" name="Location Y" value="891"/>
+            <properties xmi:id="_Kw_e4-3IEeSpbvnbke1BIQ" destination="Comment figure" type="int" name="Location X" value="892"/>
+            <properties xmi:id="_Kw_e5O3IEeSpbvnbke1BIQ" destination="Comment figure" type="int" name="Location Y" value="1044"/>
             <properties xmi:id="_Kw_e5e3IEeSpbvnbke1BIQ" destination="Comment figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_Kw_e5u3IEeSpbvnbke1BIQ" destination="Comment figure" type="int" name="Width" value="100"/>
           </propertyBunches>
@@ -1607,6 +1547,171 @@
         <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_BooleanDecLinkUI" xmi:id="_EyREwPfbEeSgF8hA0fh9IA" core="_EyP2oPfbEeSgF8hA0fh9IA" targetNode="_HzdegO4PEeSdDLHD65BrKA">
           <visualPropertyManagers xmi:id="_EyREwffbEeSgF8hA0fh9IA" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Decomposition connection">
             <propertyBunches xmi:id="_EyREwvfbEeSgF8hA0fh9IA" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_uaCWcPj2EeSuM5gBQPT8Mg" core="_uZ2wQPj2EeSuM5gBQPT8Mg" targetConnections="_2xjwIPj4EeSuM5gBQPT8Mg __6m_UPj4EeSuM5gBQPT8Mg _hJcQ0Pj7EeSuM5gBQPT8Mg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
+        <visualPropertyManagers xmi:id="_uaCWcfj2EeSuM5gBQPT8Mg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
+          <propertyBunches xmi:id="_uaC9gPj2EeSuM5gBQPT8Mg" type="Visual properties">
+            <properties xmi:id="_uaC9gfj2EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location X" value="161"/>
+            <properties xmi:id="_uaC9gvj2EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location Y" value="809"/>
+            <properties xmi:id="_zQVXAPj2EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_zQVXAfj2EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_BooleanDecLinkUI" xmi:id="_1fWMQPj2EeSuM5gBQPT8Mg" core="_1fL0MPj2EeSuM5gBQPT8Mg" targetNode="_-O8nwPHyEeS1n_RmLJEdKg">
+          <visualPropertyManagers xmi:id="_1fWMQfj2EeSuM5gBQPT8Mg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Decomposition connection">
+            <propertyBunches xmi:id="_1fWMQvj2EeSuM5gBQPT8Mg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_grzZ8Pj4EeSuM5gBQPT8Mg" core="_grOLIPj4EeSuM5gBQPT8Mg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
+        <visualPropertyManagers xmi:id="_grzZ8fj4EeSuM5gBQPT8Mg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
+          <propertyBunches xmi:id="_grzZ8vj4EeSuM5gBQPT8Mg" type="Visual properties">
+            <properties xmi:id="_grzZ8_j4EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location X" value="71"/>
+            <properties xmi:id="_grzZ9Pj4EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location Y" value="877"/>
+            <properties xmi:id="_mDvvAPj4EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_mDvvAfj4EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_BooleanDecLinkUI" xmi:id="_2xjwIPj4EeSuM5gBQPT8Mg" core="_2xh68vj4EeSuM5gBQPT8Mg" targetNode="_uaCWcPj2EeSuM5gBQPT8Mg">
+          <visualPropertyManagers xmi:id="_2xjwIfj4EeSuM5gBQPT8Mg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Decomposition connection">
+            <propertyBunches xmi:id="_2xjwIvj4EeSuM5gBQPT8Mg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_tJUDgPj4EeSuM5gBQPT8Mg" core="_tJPyEPj4EeSuM5gBQPT8Mg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
+        <visualPropertyManagers xmi:id="_tJUDgfj4EeSuM5gBQPT8Mg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
+          <propertyBunches xmi:id="_tJUDgvj4EeSuM5gBQPT8Mg" type="Visual properties">
+            <properties xmi:id="_tJUDg_j4EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location X" value="182"/>
+            <properties xmi:id="_tJUDhPj4EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location Y" value="912"/>
+            <properties xmi:id="_7Qv4QPj4EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_7Qv4Qfj4EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_BooleanDecLinkUI" xmi:id="__6m_UPj4EeSuM5gBQPT8Mg" core="__6kjEPj4EeSuM5gBQPT8Mg" targetNode="_uaCWcPj2EeSuM5gBQPT8Mg">
+          <visualPropertyManagers xmi:id="__6m_Ufj4EeSuM5gBQPT8Mg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Decomposition connection">
+            <propertyBunches xmi:id="__6m_Uvj4EeSuM5gBQPT8Mg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_cJa-cPj5EeSuM5gBQPT8Mg" core="_cJR0gPj5EeSuM5gBQPT8Mg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
+        <visualPropertyManagers xmi:id="_cJa-cfj5EeSuM5gBQPT8Mg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
+          <propertyBunches xmi:id="_cJa-cvj5EeSuM5gBQPT8Mg" type="Visual properties">
+            <properties xmi:id="_cJa-c_j5EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location X" value="371"/>
+            <properties xmi:id="_cJa-dPj5EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location Y" value="880"/>
+            <properties xmi:id="_hHgpEPj5EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_hHgpEfj5EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_BooleanDecLinkUI" xmi:id="_i1Lr0Pj5EeSuM5gBQPT8Mg" core="_i1J2oPj5EeSuM5gBQPT8Mg" targetNode="_BrQWkPHzEeS1n_RmLJEdKg">
+          <visualPropertyManagers xmi:id="_i1Lr0fj5EeSuM5gBQPT8Mg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Decomposition connection">
+            <propertyBunches xmi:id="_i1Lr0vj5EeSuM5gBQPT8Mg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_cTdrQPj5EeSuM5gBQPT8Mg" core="_cTYLsPj5EeSuM5gBQPT8Mg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
+        <visualPropertyManagers xmi:id="_cTdrQfj5EeSuM5gBQPT8Mg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
+          <propertyBunches xmi:id="_cTdrQvj5EeSuM5gBQPT8Mg" type="Visual properties">
+            <properties xmi:id="_cTdrQ_j5EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location X" value="449"/>
+            <properties xmi:id="_cTdrRPj5EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location Y" value="924"/>
+            <properties xmi:id="_c1RX0Pj5EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_c1R-4Pj5EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_BooleanDecLinkUI" xmi:id="_jGXtAPj6EeSuM5gBQPT8Mg" core="_jGQ_UPj6EeSuM5gBQPT8Mg" targetNode="_BrQWkPHzEeS1n_RmLJEdKg">
+          <visualPropertyManagers xmi:id="_jGXtAfj6EeSuM5gBQPT8Mg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Decomposition connection">
+            <propertyBunches xmi:id="_jGXtAvj6EeSuM5gBQPT8Mg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_f3nSAPj6EeSuM5gBQPT8Mg" core="_f3gkUPj6EeSuM5gBQPT8Mg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
+        <visualPropertyManagers xmi:id="_f3nSAfj6EeSuM5gBQPT8Mg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
+          <propertyBunches xmi:id="_f3nSAvj6EeSuM5gBQPT8Mg" type="Visual properties">
+            <properties xmi:id="_f3nSA_j6EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location X" value="533"/>
+            <properties xmi:id="_f3nSBPj6EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location Y" value="883"/>
+            <properties xmi:id="_gTadMPj6EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_gTadMfj6EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_BooleanDecLinkUI" xmi:id="_EF_vwPj7EeSuM5gBQPT8Mg" core="_EF6QMPj7EeSuM5gBQPT8Mg" targetNode="_BrQWkPHzEeS1n_RmLJEdKg">
+          <visualPropertyManagers xmi:id="_EF_vwfj7EeSuM5gBQPT8Mg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Decomposition connection">
+            <propertyBunches xmi:id="_EF_vwvj7EeSuM5gBQPT8Mg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_TPrEoPj7EeSuM5gBQPT8Mg" core="_TPYJsPj7EeSuM5gBQPT8Mg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
+        <visualPropertyManagers xmi:id="_TPrEofj7EeSuM5gBQPT8Mg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
+          <propertyBunches xmi:id="_TPrEovj7EeSuM5gBQPT8Mg" type="Visual properties">
+            <properties xmi:id="_TPrEo_j7EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location X" value="237"/>
+            <properties xmi:id="_TPrEpPj7EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location Y" value="877"/>
+            <properties xmi:id="_gQxjcPj7EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_gQxjcfj7EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_BooleanDecLinkUI" xmi:id="_hJcQ0Pj7EeSuM5gBQPT8Mg" core="_hJaboPj7EeSuM5gBQPT8Mg" targetNode="_uaCWcPj2EeSuM5gBQPT8Mg">
+          <visualPropertyManagers xmi:id="_hJcQ0fj7EeSuM5gBQPT8Mg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Decomposition connection">
+            <propertyBunches xmi:id="_hJcQ0vj7EeSuM5gBQPT8Mg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_mP5NQPj7EeSuM5gBQPT8Mg" core="_mPx4gPj7EeSuM5gBQPT8Mg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
+        <visualPropertyManagers xmi:id="_mP5NQfj7EeSuM5gBQPT8Mg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
+          <propertyBunches xmi:id="_mP5NQvj7EeSuM5gBQPT8Mg" type="Visual properties">
+            <properties xmi:id="_mP5NQ_j7EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location X" value="655"/>
+            <properties xmi:id="_mP5NRPj7EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location Y" value="867"/>
+            <properties xmi:id="_tyCJAPj7EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_tyCJAfj7EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_BooleanDecLinkUI" xmi:id="_ucQxwPj7EeSuM5gBQPT8Mg" core="_ucGZsPj7EeSuM5gBQPT8Mg" targetNode="_BrQWkPHzEeS1n_RmLJEdKg">
+          <visualPropertyManagers xmi:id="_ucQxwfj7EeSuM5gBQPT8Mg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Decomposition connection">
+            <propertyBunches xmi:id="_ucQxwvj7EeSuM5gBQPT8Mg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_yCgfsPj7EeSuM5gBQPT8Mg" core="_yCbnMPj7EeSuM5gBQPT8Mg" targetConnections="_FjvDoPj8EeSuM5gBQPT8Mg _Q43v4Pj8EeSuM5gBQPT8Mg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
+        <visualPropertyManagers xmi:id="_yCgfsfj7EeSuM5gBQPT8Mg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
+          <propertyBunches xmi:id="_yCgfsvj7EeSuM5gBQPT8Mg" type="Visual properties">
+            <properties xmi:id="_yCgfs_j7EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location X" value="669"/>
+            <properties xmi:id="_yCgftPj7EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location Y" value="729"/>
+            <properties xmi:id="__oOHcPj7EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="__oOHcfj7EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_BooleanDecLinkUI" xmi:id="_ChR_QPj8EeSuM5gBQPT8Mg" core="_ChMfsPj8EeSuM5gBQPT8Mg" targetNode="_B93TsPGqEeS1n_RmLJEdKg">
+          <visualPropertyManagers xmi:id="_ChR_Qfj8EeSuM5gBQPT8Mg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Decomposition connection">
+            <propertyBunches xmi:id="_ChR_Qvj8EeSuM5gBQPT8Mg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_xVa6wPj8EeSuM5gBQPT8Mg" core="_xVUNEPj8EeSuM5gBQPT8Mg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
+        <visualPropertyManagers xmi:id="_xVa6wfj8EeSuM5gBQPT8Mg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
+          <propertyBunches xmi:id="_xVa6wvj8EeSuM5gBQPT8Mg" type="Visual properties">
+            <properties xmi:id="_xVa6w_j8EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location X" value="855"/>
+            <properties xmi:id="_xVa6xPj8EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location Y" value="786"/>
+            <properties xmi:id="_2x2HMPj8EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_2x2HMfj8EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_BooleanDecLinkUI" xmi:id="_3x7rMPj8EeSuM5gBQPT8Mg" core="_3x09gPj8EeSuM5gBQPT8Mg" targetNode="_9_f5sPH2EeS1n_RmLJEdKg">
+          <visualPropertyManagers xmi:id="_3x7rMfj8EeSuM5gBQPT8Mg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Decomposition connection">
+            <propertyBunches xmi:id="_3x7rMvj8EeSuM5gBQPT8Mg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_dYDX8Pj9EeSuM5gBQPT8Mg" core="_dX-fcPj9EeSuM5gBQPT8Mg" container="_DqAqkO3HEeSpbvnbke1BIQ" actorUI="_Dp_ccO3HEeSpbvnbke1BIQ">
+        <visualPropertyManagers xmi:id="_dYDX8fj9EeSuM5gBQPT8Mg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
+          <propertyBunches xmi:id="_dYDX8vj9EeSuM5gBQPT8Mg" type="Visual properties">
+            <properties xmi:id="_dYDX8_j9EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location X" value="1032"/>
+            <properties xmi:id="_dYDX9Pj9EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Location Y" value="647"/>
+            <properties xmi:id="_rDcw8Pj9EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_rDcw8fj9EeSuM5gBQPT8Mg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_BooleanDecLinkUI" xmi:id="_32LckPj9EeSuM5gBQPT8Mg" core="_32K1gPj9EeSuM5gBQPT8Mg" targetNode="_LDQJAO3HEeSpbvnbke1BIQ">
+          <visualPropertyManagers xmi:id="_32Lckfj9EeSuM5gBQPT8Mg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Decomposition connection">
+            <propertyBunches xmi:id="_32Lckvj9EeSuM5gBQPT8Mg" type="Visual properties"/>
           </visualPropertyManagers>
         </sourceConnections>
       </DiagramNodes>
@@ -2872,7 +2977,7 @@
           </visualPropertyManagers>
         </sourceConnections>
       </DiagramNodes>
-      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_qljy9fOKEeS1n_RmLJEdKg" core="_OnXC8O4JEeSdDLHD65BrKA" targetConnections="_qlsV0vOKEeS1n_RmLJEdKg _qlsV0_OKEeS1n_RmLJEdKg" container="_qle6dfOKEeS1n_RmLJEdKg" actorUI="_qle6cPOKEeS1n_RmLJEdKg">
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_qljy9fOKEeS1n_RmLJEdKg" core="_OnXC8O4JEeSdDLHD65BrKA" container="_qle6dfOKEeS1n_RmLJEdKg" actorUI="_qle6cPOKEeS1n_RmLJEdKg">
         <visualPropertyManagers xmi:id="_qljy9vOKEeS1n_RmLJEdKg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
           <propertyBunches xmi:id="_qljy9_OKEeS1n_RmLJEdKg" type="Visual properties">
             <properties xmi:id="_qljy-POKEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Location X" value="657"/>
@@ -3146,11 +3251,6 @@
             <properties xmi:id="_sEnK-_OKEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
           </propertyBunches>
         </visualPropertyManagers>
-        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_BooleanDecLinkUI" xmi:id="_qlsV0vOKEeS1n_RmLJEdKg" core="_sOPekfH2EeS1n_RmLJEdKg" targetNode="_qljy9fOKEeS1n_RmLJEdKg">
-          <visualPropertyManagers xmi:id="_ql1fwvOKEeS1n_RmLJEdKg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Decomposition connection">
-            <propertyBunches xmi:id="_ql1fw_OKEeS1n_RmLJEdKg" type="Visual properties"/>
-          </visualPropertyManagers>
-        </sourceConnections>
       </DiagramNodes>
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_qlqgoPOKEeS1n_RmLJEdKg" core="_fFs7APH2EeS1n_RmLJEdKg" container="_qle6dfOKEeS1n_RmLJEdKg" actorUI="_qle6cPOKEeS1n_RmLJEdKg">
         <visualPropertyManagers xmi:id="_qlqgofOKEeS1n_RmLJEdKg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
@@ -3161,11 +3261,6 @@
             <properties xmi:id="_sEnK_fOKEeS1n_RmLJEdKg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
           </propertyBunches>
         </visualPropertyManagers>
-        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_BooleanDecLinkUI" xmi:id="_qlsV0_OKEeS1n_RmLJEdKg" core="_szIUUPH2EeS1n_RmLJEdKg" targetNode="_qljy9fOKEeS1n_RmLJEdKg">
-          <visualPropertyManagers xmi:id="_ql1fxPOKEeS1n_RmLJEdKg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Decomposition connection">
-            <propertyBunches xmi:id="_ql1fxfOKEeS1n_RmLJEdKg" type="Visual properties"/>
-          </visualPropertyManagers>
-        </sourceConnections>
       </DiagramNodes>
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_qlrHsPOKEeS1n_RmLJEdKg" core="_oOpcgPH2EeS1n_RmLJEdKg" container="_qle6dfOKEeS1n_RmLJEdKg" actorUI="_qle6cPOKEeS1n_RmLJEdKg">
         <visualPropertyManagers xmi:id="_qlrHsfOKEeS1n_RmLJEdKg" linkedManagers="_3pHrkO3GEeSpbvnbke1BIQ" propertiesBunchType="Visual properties" destination="Hardgoal figure">
@@ -3846,8 +3941,8 @@
     </ProjectPropertyManager>
   </it.itc.sra.taom4e.model.project:Project>
   <it.itc.sra.taom4e.model.core.informalcore.formalcore:FormalBusinessModel xmi:id="_3pHEgO3GEeSpbvnbke1BIQ">
-    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FActor" xmi:id="_Dp9AMO3HEeSpbvnbke1BIQ" name="Cloud&#xA;Manager" incomingRelations="_xD1d8POKEeS1n_RmLJEdKg _6Vc90POLEeS1n_RmLJEdKg _sCUZ9fOMEeS1n_RmLJEdKg _HsDWEPONEeS1n_RmLJEdKg _hVbcAPPlEeS1n_RmLJEdKg _ksNxpfPlEeS1n_RmLJEdKg" ownedElements="_LDOT0O3HEeSpbvnbke1BIQ _LPoYIO3HEeSpbvnbke1BIQ _T0Sg0O3HEeSpbvnbke1BIQ _eLDgUO3HEeSpbvnbke1BIQ _kZmGMO3HEeSpbvnbke1BIQ _wZJBYO3HEeSpbvnbke1BIQ __LxvQO3HEeSpbvnbke1BIQ _oPqhkO4DEeSdDLHD65BrKA _FRaAMO4JEeSdDLHD65BrKA _H7r1IO4JEeSdDLHD65BrKA _OnXC8O4JEeSdDLHD65BrKA _YnBKAO4JEeSdDLHD65BrKA _bYE8YO4JEeSdDLHD65BrKA _nszdYO4JEeSdDLHD65BrKA __thEYO4JEeSdDLHD65BrKA _O_muYO4KEeSdDLHD65BrKA _p5CO8O4KEeSdDLHD65BrKA _yo9zgO4KEeSdDLHD65BrKA _4KVKUO4KEeSdDLHD65BrKA __CwTUO4NEeSdDLHD65BrKA _FHPv4O4PEeSdDLHD65BrKA _B92soPGqEeS1n_RmLJEdKg _FX1gMPGqEeS1n_RmLJEdKg _MCYFkPGqEeS1n_RmLJEdKg _jBDAwPGqEeS1n_RmLJEdKg _BssOsPGrEeS1n_RmLJEdKg _G_gzMPGrEeS1n_RmLJEdKg _Kn0eYPHyEeS1n_RmLJEdKg _Vkg1cPHyEeS1n_RmLJEdKg _jqwXYPHyEeS1n_RmLJEdKg _s8IcIPHyEeS1n_RmLJEdKg _-O49YPHyEeS1n_RmLJEdKg _BrN6UPHzEeS1n_RmLJEdKg _bSA44PH0EeS1n_RmLJEdKg _fFX1wPH0EeS1n_RmLJEdKg _f0wrUPH0EeS1n_RmLJEdKg _ofiqIPH0EeS1n_RmLJEdKg _8V0RAPH0EeS1n_RmLJEdKg _a3-WUPH2EeS1n_RmLJEdKg _fFs7APH2EeS1n_RmLJEdKg _oOpcgPH2EeS1n_RmLJEdKg _rTdRUPH2EeS1n_RmLJEdKg _sONpYPH2EeS1n_RmLJEdKg _9_ddcPH2EeS1n_RmLJEdKg _D5q0QPIGEeS1n_RmLJEdKg _HPx0cPIGEeS1n_RmLJEdKg _NSLbwPIGEeS1n_RmLJEdKg _xDuwQPOKEeS1n_RmLJEdKg _6VahkPOLEeS1n_RmLJEdKg _sCRWoPOMEeS1n_RmLJEdKg _Hr-dkPONEeS1n_RmLJEdKg _hVZm0PPlEeS1n_RmLJEdKg _ksNKkPPlEeS1n_RmLJEdKg"/>
-    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_LDOT0O3HEeSpbvnbke1BIQ" name="Manage Environment" outcomingRelations="__CwTUO4NEeSdDLHD65BrKA" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FActor" xmi:id="_Dp9AMO3HEeSpbvnbke1BIQ" name="Cloud&#xA;Manager" incomingRelations="_xD1d8POKEeS1n_RmLJEdKg _6Vc90POLEeS1n_RmLJEdKg _sCUZ9fOMEeS1n_RmLJEdKg _HsDWEPONEeS1n_RmLJEdKg _hVbcAPPlEeS1n_RmLJEdKg _ksNxpfPlEeS1n_RmLJEdKg" ownedElements="_LDOT0O3HEeSpbvnbke1BIQ _LPoYIO3HEeSpbvnbke1BIQ _T0Sg0O3HEeSpbvnbke1BIQ _eLDgUO3HEeSpbvnbke1BIQ _kZmGMO3HEeSpbvnbke1BIQ _wZJBYO3HEeSpbvnbke1BIQ __LxvQO3HEeSpbvnbke1BIQ _oPqhkO4DEeSdDLHD65BrKA _FRaAMO4JEeSdDLHD65BrKA _H7r1IO4JEeSdDLHD65BrKA _OnXC8O4JEeSdDLHD65BrKA _YnBKAO4JEeSdDLHD65BrKA _bYE8YO4JEeSdDLHD65BrKA _nszdYO4JEeSdDLHD65BrKA __thEYO4JEeSdDLHD65BrKA _O_muYO4KEeSdDLHD65BrKA _p5CO8O4KEeSdDLHD65BrKA _yo9zgO4KEeSdDLHD65BrKA _4KVKUO4KEeSdDLHD65BrKA __CwTUO4NEeSdDLHD65BrKA _FHPv4O4PEeSdDLHD65BrKA _B92soPGqEeS1n_RmLJEdKg _FX1gMPGqEeS1n_RmLJEdKg _MCYFkPGqEeS1n_RmLJEdKg _jBDAwPGqEeS1n_RmLJEdKg _BssOsPGrEeS1n_RmLJEdKg _G_gzMPGrEeS1n_RmLJEdKg _Kn0eYPHyEeS1n_RmLJEdKg _Vkg1cPHyEeS1n_RmLJEdKg _jqwXYPHyEeS1n_RmLJEdKg _s8IcIPHyEeS1n_RmLJEdKg _-O49YPHyEeS1n_RmLJEdKg _BrN6UPHzEeS1n_RmLJEdKg _bSA44PH0EeS1n_RmLJEdKg _fFX1wPH0EeS1n_RmLJEdKg _f0wrUPH0EeS1n_RmLJEdKg _ofiqIPH0EeS1n_RmLJEdKg _8V0RAPH0EeS1n_RmLJEdKg _a3-WUPH2EeS1n_RmLJEdKg _fFs7APH2EeS1n_RmLJEdKg _oOpcgPH2EeS1n_RmLJEdKg _rTdRUPH2EeS1n_RmLJEdKg _9_ddcPH2EeS1n_RmLJEdKg _D5q0QPIGEeS1n_RmLJEdKg _HPx0cPIGEeS1n_RmLJEdKg _NSLbwPIGEeS1n_RmLJEdKg _xDuwQPOKEeS1n_RmLJEdKg _6VahkPOLEeS1n_RmLJEdKg _sCRWoPOMEeS1n_RmLJEdKg _Hr-dkPONEeS1n_RmLJEdKg _hVZm0PPlEeS1n_RmLJEdKg _ksNKkPPlEeS1n_RmLJEdKg _uZ2wQPj2EeSuM5gBQPT8Mg _ulib0Pj2EeSuM5gBQPT8Mg _1fIw4Pj2EeSuM5gBQPT8Mg _grOLIPj4EeSuM5gBQPT8Mg _tJPyEPj4EeSuM5gBQPT8Mg _2xh68Pj4EeSuM5gBQPT8Mg _cJR0gPj5EeSuM5gBQPT8Mg _cTYLsPj5EeSuM5gBQPT8Mg _fvWt4Pj6EeSuM5gBQPT8Mg _f3gkUPj6EeSuM5gBQPT8Mg _TPYJsPj7EeSuM5gBQPT8Mg _mPx4gPj7EeSuM5gBQPT8Mg _yCbnMPj7EeSuM5gBQPT8Mg _Fjt1gPj8EeSuM5gBQPT8Mg _xVUNEPj8EeSuM5gBQPT8Mg _dX-fcPj9EeSuM5gBQPT8Mg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_LDOT0O3HEeSpbvnbke1BIQ" name="Manage cloud &#xA;computing &#xA;environments" outcomingRelations="__CwTUO4NEeSdDLHD65BrKA" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_LPoYIO3HEeSpbvnbke1BIQ" name="HardGoal 2" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_T0Sg0O3HEeSpbvnbke1BIQ" name="Find a suitble configuration" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_eLDgUO3HEeSpbvnbke1BIQ" name="HardGoal 1" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
@@ -3855,14 +3950,14 @@
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_wZJBYO3HEeSpbvnbke1BIQ" name="Start Instance" incomingRelations="_kGIZ4PH0EeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="__LxvQO3HEeSpbvnbke1BIQ" name="Configure Instances" incomingRelations="_ofjRMfH0EeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_oPqhkO4DEeSdDLHD65BrKA" name="H" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
-    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_FRaAMO4JEeSdDLHD65BrKA" name="Discover compatible SLA&#xA;with Infrastrucutre QoS&#xA;requirements" incomingRelations="_FX1gMvGqEeS1n_RmLJEdKg" outcomingRelations="_Vkg1cPHyEeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
-    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_H7r1IO4JEeSdDLHD65BrKA" name="Selection" incomingRelations="_VkhcgfHyEeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
-    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_OnXC8O4JEeSdDLHD65BrKA" name=" Store Instance&#xA;Information" incomingRelations="_rTd4YfH2EeS1n_RmLJEdKg" outcomingRelations="_sONpYPH2EeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
-    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_YnBKAO4JEeSdDLHD65BrKA" name="Create deployment&#xA; descriptor" incomingRelations="_YYRWgPHyEeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
-    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_bYE8YO4JEeSdDLHD65BrKA" name="Manage Job&#xA;Executing" incomingRelations="_A4zO8O4OEeSdDLHD65BrKA" outcomingRelations="_FHPv4O4PEeSdDLHD65BrKA" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_FRaAMO4JEeSdDLHD65BrKA" name="Select the instance types which&#xA;match the users constraints" incomingRelations="_FX1gMvGqEeS1n_RmLJEdKg" outcomingRelations="_Vkg1cPHyEeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_H7r1IO4JEeSdDLHD65BrKA" name="Select a cloud provider" incomingRelations="_VkhcgfHyEeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_OnXC8O4JEeSdDLHD65BrKA" name=" Store Instance&#xA;Information" incomingRelations="_rTd4YfH2EeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_YnBKAO4JEeSdDLHD65BrKA" name="Select a cloud" incomingRelations="_YYRWgPHyEeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_bYE8YO4JEeSdDLHD65BrKA" name="Manage the job&#xA;execution" incomingRelations="_A4zO8O4OEeSdDLHD65BrKA" outcomingRelations="_FHPv4O4PEeSdDLHD65BrKA" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_nszdYO4JEeSdDLHD65BrKA" name="Create Deployment&#xA;Plan" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="__thEYO4JEeSdDLHD65BrKA" name="Contextualize VM" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
-    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_O_muYO4KEeSdDLHD65BrKA" name="Request Instance for&#xA;Cloud Provider" incomingRelations="_SA_XIPNtEeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_O_muYO4KEeSdDLHD65BrKA" name="Request the cloud&#xA;to create the instances" incomingRelations="_SA_XIPNtEeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_p5CO8O4KEeSdDLHD65BrKA" name="HConfigure" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_yo9zgO4KEeSdDLHD65BrKA" name="Configure CentOS" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FSoftGoal" xmi:id="_4KVKUO4KEeSdDLHD65BrKA" name="Minimize Cost" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
@@ -3952,7 +4047,7 @@
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_Wfi58PGoEeS1n_RmLJEdKg" name="Use Cloud&#xA;Environment" incomingRelations="_cnSHwvNqEeS1n_RmLJEdKg" outcomingRelations="_jDcfYPGoEeS1n_RmLJEdKg" Actor="_IiLA0O4eEeSdDLHD65BrKA"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_c15YAPGoEeS1n_RmLJEdKg" name="Use Cloud A" incomingRelations="_jDcfYvGoEeS1n_RmLJEdKg" Actor="_IiLA0O4eEeSdDLHD65BrKA"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_g0fUgPGoEeS1n_RmLJEdKg" name="Use Cloud B" incomingRelations="_jh9AUPGoEeS1n_RmLJEdKg" Actor="_IiLA0O4eEeSdDLHD65BrKA"/>
-    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_B92soPGqEeS1n_RmLJEdKg" name="Make Deployment" incomingRelations="_31MIoPGrEeS1n_RmLJEdKg" outcomingRelations="_FX1gMPGqEeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_B92soPGqEeS1n_RmLJEdKg" name="Deploy a computing environment based&#xA;on users' requirements" incomingRelations="_31MIoPGrEeS1n_RmLJEdKg" outcomingRelations="_FX1gMPGqEeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FSoftGoal" xmi:id="_MCYFkPGqEeS1n_RmLJEdKg" name=" Chose Compatilble SLA that specifies the cloud&#x2019;s&#xA; infrastructure QoS requirements." Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_jBDAwPGqEeS1n_RmLJEdKg" name="matchmaking process &#xA;to select the cloud that &#xA;better fits the requirements" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FSoftGoal" xmi:id="_BssOsPGrEeS1n_RmLJEdKg" name="keep technology and provider&#xA; independence" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
@@ -3963,17 +4058,17 @@
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_Kn0eYPHyEeS1n_RmLJEdKg" name="Read Cloud A&#xA;Feature Engine" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_jqwXYPHyEeS1n_RmLJEdKg" name="Deploy" incomingRelations="_n8WIYPHyEeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_s8IcIPHyEeS1n_RmLJEdKg" name="Create deployment &#xA;workflow" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
-    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_-O49YPHyEeS1n_RmLJEdKg" name="Plan Deployment" incomingRelations="_hL-7YPQBEeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
-    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_BrN6UPHzEeS1n_RmLJEdKg" name="Execute Deployment&#xA;Plan" incomingRelations="_jMD8wPQBEeS1n_RmLJEdKg" outcomingRelations="_ofiqIPH0EeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_-O49YPHyEeS1n_RmLJEdKg" name="Create the instances &#xA;(i.e., virtual machines)" incomingRelations="_hL-7YPQBEeS1n_RmLJEdKg" outcomingRelations="_1fIw4Pj2EeSuM5gBQPT8Mg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_BrN6UPHzEeS1n_RmLJEdKg" name="Execute a deployment plan" incomingRelations="_PJ-FcPj5EeSuM5gBQPT8Mg" outcomingRelations="_ofiqIPH0EeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_bSA44PH0EeS1n_RmLJEdKg" name="Schedule" incomingRelations="_ehd3cPH0EeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_fFX1wPH0EeS1n_RmLJEdKg" name="Execute" incomingRelations="_hyyeQPH0EeS1n_RmLJEdKg" outcomingRelations="_f0wrUPH0EeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_8V0RAPH0EeS1n_RmLJEdKg" name="Keep Instance&#xA;Registry" incomingRelations="_Co1HMPH1EeS1n_RmLJEdKg" outcomingRelations="_rTdRUPH2EeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
-    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_a3-WUPH2EeS1n_RmLJEdKg" name="Store in local&#xA; registry" incomingRelations="_sOPekfH2EeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
-    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_fFs7APH2EeS1n_RmLJEdKg" name="Store in &#xA;distributed&#xA;key-value registry" incomingRelations="_szIUUPH2EeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_a3-WUPH2EeS1n_RmLJEdKg" name="Store in a &#xA;local database" incomingRelations="_Fjuckfj8EeSuM5gBQPT8Mg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_fFs7APH2EeS1n_RmLJEdKg" name="Store in a  &#xA;distributed&#xA;key-value store" incomingRelations="_Q42hwPj8EeSuM5gBQPT8Mg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_oOpcgPH2EeS1n_RmLJEdKg" name="Select &#xA;Configuration" incomingRelations="_rubWEPH2EeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
-    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_9_ddcPH2EeS1n_RmLJEdKg" name="Configure &#xA;Instances" incomingRelations="_AfMPQPH3EeS1n_RmLJEdKg" outcomingRelations="_NSLbwPIGEeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
-    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_D5q0QPIGEeS1n_RmLJEdKg" name="Connect&#xA;to Instance" incomingRelations="_NSMp4fIGEeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
-    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_HPx0cPIGEeS1n_RmLJEdKg" name="Execute&#xA;Scripts" incomingRelations="_Nv0aAPIGEeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_9_ddcPH2EeS1n_RmLJEdKg" name="Configure  the instances" incomingRelations="_AfMPQPH3EeS1n_RmLJEdKg" outcomingRelations="_NSLbwPIGEeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_D5q0QPIGEeS1n_RmLJEdKg" name="Connect&#xA;to the instance" incomingRelations="_NSMp4fIGEeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_HPx0cPIGEeS1n_RmLJEdKg" name="Generate &#xA;the configuration&#xA;scripts" incomingRelations="_Nv0aAPIGEeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="__CEdwPNmEeS1n_RmLJEdKg" name="Provide P2P&#xA;Service" incomingRelations="_fZ8PovP5EeS1n_RmLJEdKg" outcomingRelations="_3IYvQPNnEeS1n_RmLJEdKg" Actor="_F0KdEO4LEeSdDLHD65BrKA"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_PZexEPNnEeS1n_RmLJEdKg" name="Route Requests&#xA;To Objects 6" incomingRelations="_CGeNcvNoEeS1n_RmLJEdKg" Actor="_F0KdEO4LEeSdDLHD65BrKA"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_Ss30cPNnEeS1n_RmLJEdKg" name="Inser Objects" incomingRelations="_CusrEPNoEeS1n_RmLJEdKg" Actor="_F0KdEO4LEeSdDLHD65BrKA"/>
@@ -4044,7 +4139,20 @@
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FSoftGoal" xmi:id="_ptyx0PfaEeSgF8hA0fh9IA" name="Copy QoS" incomingRelations="_ptyx1ffaEeSgF8hA0fh9IA _ptyx0vfaEeSgF8hA0fh9IA" Actor="_F0KdEO4LEeSdDLHD65BrKA"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FSoftGoal" xmi:id="_ptyx0ffaEeSgF8hA0fh9IA" name="Copy minimum response&#xA;time" outcomingRelations="_ptyx0vfaEeSgF8hA0fh9IA" Actor="_F0KdEO4LEeSdDLHD65BrKA"/>
     <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_-nK0cPfaEeSgF8hA0fh9IA" name="Execute Job." incomingRelations="_EyP2oPfbEeSgF8hA0fh9IA" Actor="_F0KdEO4LEeSdDLHD65BrKA"/>
-    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecomposition" xmi:id="__CwTUO4NEeSdDLHD65BrKA" outcomingRelations="_A4zO8O4OEeSdDLHD65BrKA _31MIoPGrEeS1n_RmLJEdKg _Co1HMPH1EeS1n_RmLJEdKg _AfMPQPH3EeS1n_RmLJEdKg" sources="_LDOT0O3HEeSpbvnbke1BIQ" Actor="_Dp9AMO3HEeSpbvnbke1BIQ" type="and">
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_uZ2wQPj2EeSuM5gBQPT8Mg" name="Create a deployment plan" incomingRelations="_1fL0MPj2EeSuM5gBQPT8Mg" outcomingRelations="_2xh68Pj4EeSuM5gBQPT8Mg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_ulib0Pj2EeSuM5gBQPT8Mg" name="Demand the virtual machines&#xA;to the clouds" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_grOLIPj4EeSuM5gBQPT8Mg" name="Select an availability zone" incomingRelations="_2xh68vj4EeSuM5gBQPT8Mg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_tJPyEPj4EeSuM5gBQPT8Mg" name="Select a virtual &#xA;machine image " incomingRelations="__6kjEPj4EeSuM5gBQPT8Mg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_cJR0gPj5EeSuM5gBQPT8Mg" name="Connect to the cloud" incomingRelations="_i1J2oPj5EeSuM5gBQPT8Mg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_cTYLsPj5EeSuM5gBQPT8Mg" name="Create inbound and&#xA;outbound traffic rules" incomingRelations="_jGQ_UPj6EeSuM5gBQPT8Mg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_fvWt4Pj6EeSuM5gBQPT8Mg" name="HardGoal 10" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_f3gkUPj6EeSuM5gBQPT8Mg" name="Create SSH keys" incomingRelations="_EF6QMPj7EeSuM5gBQPT8Mg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_TPYJsPj7EeSuM5gBQPT8Mg" name="Define instances tags" incomingRelations="_hJaboPj7EeSuM5gBQPT8Mg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_mPx4gPj7EeSuM5gBQPT8Mg" name="Include instance &#xA;tag description" incomingRelations="_ucGZsPj7EeSuM5gBQPT8Mg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_yCbnMPj7EeSuM5gBQPT8Mg" name="Store instance&#xA;state data" incomingRelations="_ChMfsPj8EeSuM5gBQPT8Mg" outcomingRelations="_Fjt1gPj8EeSuM5gBQPT8Mg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_xVUNEPj8EeSuM5gBQPT8Mg" name="Select the &#xA;software &#xA;packages" incomingRelations="_3x09gPj8EeSuM5gBQPT8Mg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_dX-fcPj9EeSuM5gBQPT8Mg" name="Connect the instances&#xA;through an overlay network" incomingRelations="_32K1gPj9EeSuM5gBQPT8Mg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ"/>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecomposition" xmi:id="__CwTUO4NEeSdDLHD65BrKA" outcomingRelations="_A4zO8O4OEeSdDLHD65BrKA _31MIoPGrEeS1n_RmLJEdKg _Co1HMPH1EeS1n_RmLJEdKg _AfMPQPH3EeS1n_RmLJEdKg _32K1gPj9EeSuM5gBQPT8Mg" sources="_LDOT0O3HEeSpbvnbke1BIQ" Actor="_Dp9AMO3HEeSpbvnbke1BIQ" type="and">
       <indexedSourcesAndTargets xmi:id="__CxhcO4NEeSdDLHD65BrKA" markup="Root" contents="_LDOT0O3HEeSpbvnbke1BIQ"/>
     </TroposRelations>
     <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecLink" xmi:id="_A4zO8O4OEeSdDLHD65BrKA" name="[undefined]" targets="_bYE8YO4JEeSdDLHD65BrKA" sources="__CwTUO4NEeSdDLHD65BrKA">
@@ -4224,7 +4332,7 @@
     <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecomposition" xmi:id="_j8C7UPGoEeS1n_RmLJEdKg" outcomingRelations="_QieSEPNqEeS1n_RmLJEdKg _hcXnYPNqEeS1n_RmLJEdKg _hL2-0PNtEeS1n_RmLJEdKg" sources="_UmBNMO4eEeSdDLHD65BrKA" Actor="_IiLA0O4eEeSdDLHD65BrKA" type="and">
       <indexedSourcesAndTargets xmi:id="_j8C7UfGoEeS1n_RmLJEdKg" markup="Root" contents="_UmBNMO4eEeSdDLHD65BrKA"/>
     </TroposRelations>
-    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecomposition" xmi:id="_FX1gMPGqEeS1n_RmLJEdKg" name="[undefined]" outcomingRelations="_FX1gMvGqEeS1n_RmLJEdKg _n8WIYPHyEeS1n_RmLJEdKg _hL-7YPQBEeS1n_RmLJEdKg _jMD8wPQBEeS1n_RmLJEdKg" sources="_B92soPGqEeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ" type="and">
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecomposition" xmi:id="_FX1gMPGqEeS1n_RmLJEdKg" name="[undefined]" outcomingRelations="_FX1gMvGqEeS1n_RmLJEdKg _n8WIYPHyEeS1n_RmLJEdKg _hL-7YPQBEeS1n_RmLJEdKg _ChMfsPj8EeSuM5gBQPT8Mg" sources="_B92soPGqEeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ" type="and">
       <indexedSourcesAndTargets xmi:id="_FX1gMfGqEeS1n_RmLJEdKg" markup="Root" contents="_B92soPGqEeS1n_RmLJEdKg"/>
     </TroposRelations>
     <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecLink" xmi:id="_FX1gMvGqEeS1n_RmLJEdKg" name="[undefined]" targets="_FRaAMO4JEeSdDLHD65BrKA" sources="_FX1gMPGqEeS1n_RmLJEdKg">
@@ -4265,7 +4373,7 @@
       <indexedSourcesAndTargets xmi:id="_kGIZ4fH0EeS1n_RmLJEdKg" markup="Unique source" contents="_f0wrUPH0EeS1n_RmLJEdKg"/>
       <indexedSourcesAndTargets xmi:id="_kGIZ4vH0EeS1n_RmLJEdKg" markup="Unique target" contents="_wZJBYO3HEeSpbvnbke1BIQ"/>
     </TroposRelations>
-    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecomposition" xmi:id="_ofiqIPH0EeS1n_RmLJEdKg" name="[undefined]" outcomingRelations="_ofjRMfH0EeS1n_RmLJEdKg _SA_XIPNtEeS1n_RmLJEdKg" sources="_BrN6UPHzEeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ" type="and">
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecomposition" xmi:id="_ofiqIPH0EeS1n_RmLJEdKg" name="[undefined]" outcomingRelations="_ofjRMfH0EeS1n_RmLJEdKg _SA_XIPNtEeS1n_RmLJEdKg _i1J2oPj5EeSuM5gBQPT8Mg _jGQ_UPj6EeSuM5gBQPT8Mg _EF6QMPj7EeSuM5gBQPT8Mg _ucGZsPj7EeSuM5gBQPT8Mg" sources="_BrN6UPHzEeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ" type="and">
       <indexedSourcesAndTargets xmi:id="_ofjRMPH0EeS1n_RmLJEdKg" markup="Root" contents="_BrN6UPHzEeS1n_RmLJEdKg"/>
     </TroposRelations>
     <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecLink" xmi:id="_ofjRMfH0EeS1n_RmLJEdKg" name="[undefined]" targets="__LxvQO3HEeSpbvnbke1BIQ" sources="_ofiqIPH0EeS1n_RmLJEdKg">
@@ -4287,22 +4395,11 @@
       <indexedSourcesAndTargets xmi:id="_rubWEfH2EeS1n_RmLJEdKg" markup="Unique source" contents="_rTdRUPH2EeS1n_RmLJEdKg"/>
       <indexedSourcesAndTargets xmi:id="_rubWEvH2EeS1n_RmLJEdKg" markup="Unique target" contents="_oOpcgPH2EeS1n_RmLJEdKg"/>
     </TroposRelations>
-    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecomposition" xmi:id="_sONpYPH2EeS1n_RmLJEdKg" outcomingRelations="_sOPekfH2EeS1n_RmLJEdKg _szIUUPH2EeS1n_RmLJEdKg" sources="_OnXC8O4JEeSdDLHD65BrKA" Actor="_Dp9AMO3HEeSpbvnbke1BIQ" type="and">
-      <indexedSourcesAndTargets xmi:id="_sOPekPH2EeS1n_RmLJEdKg" markup="Root" contents="_OnXC8O4JEeSdDLHD65BrKA"/>
-    </TroposRelations>
-    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecLink" xmi:id="_sOPekfH2EeS1n_RmLJEdKg" targets="_a3-WUPH2EeS1n_RmLJEdKg" sources="_sONpYPH2EeS1n_RmLJEdKg">
-      <indexedSourcesAndTargets xmi:id="_sOPekvH2EeS1n_RmLJEdKg" markup="Unique source" contents="_sONpYPH2EeS1n_RmLJEdKg"/>
-      <indexedSourcesAndTargets xmi:id="_sOPek_H2EeS1n_RmLJEdKg" markup="Unique target" contents="_a3-WUPH2EeS1n_RmLJEdKg"/>
-    </TroposRelations>
-    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecLink" xmi:id="_szIUUPH2EeS1n_RmLJEdKg" targets="_fFs7APH2EeS1n_RmLJEdKg" sources="_sONpYPH2EeS1n_RmLJEdKg">
-      <indexedSourcesAndTargets xmi:id="_szIUUfH2EeS1n_RmLJEdKg" markup="Unique source" contents="_sONpYPH2EeS1n_RmLJEdKg"/>
-      <indexedSourcesAndTargets xmi:id="_szIUUvH2EeS1n_RmLJEdKg" markup="Unique target" contents="_fFs7APH2EeS1n_RmLJEdKg"/>
-    </TroposRelations>
     <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecLink" xmi:id="_AfMPQPH3EeS1n_RmLJEdKg" targets="_9_ddcPH2EeS1n_RmLJEdKg" sources="__CwTUO4NEeSdDLHD65BrKA">
       <indexedSourcesAndTargets xmi:id="_AfMPQfH3EeS1n_RmLJEdKg" markup="Unique source" contents="__CwTUO4NEeSdDLHD65BrKA"/>
       <indexedSourcesAndTargets xmi:id="_AfMPQvH3EeS1n_RmLJEdKg" markup="Unique target" contents="_9_ddcPH2EeS1n_RmLJEdKg"/>
     </TroposRelations>
-    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecomposition" xmi:id="_NSLbwPIGEeS1n_RmLJEdKg" outcomingRelations="_NSMp4fIGEeS1n_RmLJEdKg _Nv0aAPIGEeS1n_RmLJEdKg" sources="_9_ddcPH2EeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ" type="and">
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecomposition" xmi:id="_NSLbwPIGEeS1n_RmLJEdKg" outcomingRelations="_NSMp4fIGEeS1n_RmLJEdKg _Nv0aAPIGEeS1n_RmLJEdKg _3x09gPj8EeSuM5gBQPT8Mg" sources="_9_ddcPH2EeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ" type="and">
       <indexedSourcesAndTargets xmi:id="_NSMp4PIGEeS1n_RmLJEdKg" markup="Root" contents="_9_ddcPH2EeS1n_RmLJEdKg"/>
     </TroposRelations>
     <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecLink" xmi:id="_NSMp4fIGEeS1n_RmLJEdKg" targets="_D5q0QPIGEeS1n_RmLJEdKg" sources="_NSLbwPIGEeS1n_RmLJEdKg">
@@ -4545,10 +4642,6 @@
       <indexedSourcesAndTargets xmi:id="_hL-7YfQBEeS1n_RmLJEdKg" markup="Unique source" contents="_FX1gMPGqEeS1n_RmLJEdKg"/>
       <indexedSourcesAndTargets xmi:id="_hL-7YvQBEeS1n_RmLJEdKg" markup="Unique target" contents="_-O49YPHyEeS1n_RmLJEdKg"/>
     </TroposRelations>
-    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecLink" xmi:id="_jMD8wPQBEeS1n_RmLJEdKg" name="[undefined]" targets="_BrN6UPHzEeS1n_RmLJEdKg" sources="_FX1gMPGqEeS1n_RmLJEdKg">
-      <indexedSourcesAndTargets xmi:id="_jMD8wfQBEeS1n_RmLJEdKg" markup="Unique source" contents="_FX1gMPGqEeS1n_RmLJEdKg"/>
-      <indexedSourcesAndTargets xmi:id="_jMD8wvQBEeS1n_RmLJEdKg" markup="Unique target" contents="_BrN6UPHzEeS1n_RmLJEdKg"/>
-    </TroposRelations>
     <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecLink" xmi:id="_i3JjwPfSEeSgF8hA0fh9IA" targets="_dXakoPfSEeSgF8hA0fh9IA" sources="_cnSHwPNqEeS1n_RmLJEdKg">
       <indexedSourcesAndTargets xmi:id="_i3JjwffSEeSgF8hA0fh9IA" markup="Unique source" contents="_cnSHwPNqEeS1n_RmLJEdKg"/>
       <indexedSourcesAndTargets xmi:id="_i3JjwvfSEeSgF8hA0fh9IA" markup="Unique target" contents="_dXakoPfSEeSgF8hA0fh9IA"/>
@@ -4614,6 +4707,71 @@
     <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecLink" xmi:id="_dea1cPfbEeSgF8hA0fh9IA" name="[undefined]" targets="_WB3TEPHiEeS1n_RmLJEdKg" sources="_Z_w6EPfXEeSgF8hA0fh9IA">
       <indexedSourcesAndTargets xmi:id="_dea1cffbEeSgF8hA0fh9IA" markup="Unique source" contents="_Z_w6EPfXEeSgF8hA0fh9IA"/>
       <indexedSourcesAndTargets xmi:id="_dea1cvfbEeSgF8hA0fh9IA" markup="Unique target" contents="_WB3TEPHiEeS1n_RmLJEdKg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecomposition" xmi:id="_1fIw4Pj2EeSuM5gBQPT8Mg" outcomingRelations="_1fL0MPj2EeSuM5gBQPT8Mg _PJ-FcPj5EeSuM5gBQPT8Mg" sources="_-O49YPHyEeS1n_RmLJEdKg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ" type="and">
+      <indexedSourcesAndTargets xmi:id="_1fIw4fj2EeSuM5gBQPT8Mg" markup="Root" contents="_-O49YPHyEeS1n_RmLJEdKg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecLink" xmi:id="_1fL0MPj2EeSuM5gBQPT8Mg" targets="_uZ2wQPj2EeSuM5gBQPT8Mg" sources="_1fIw4Pj2EeSuM5gBQPT8Mg">
+      <indexedSourcesAndTargets xmi:id="_1fL0Mfj2EeSuM5gBQPT8Mg" markup="Unique source" contents="_1fIw4Pj2EeSuM5gBQPT8Mg"/>
+      <indexedSourcesAndTargets xmi:id="_1fL0Mvj2EeSuM5gBQPT8Mg" markup="Unique target" contents="_uZ2wQPj2EeSuM5gBQPT8Mg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecomposition" xmi:id="_2xh68Pj4EeSuM5gBQPT8Mg" name="[undefined]" outcomingRelations="_2xh68vj4EeSuM5gBQPT8Mg __6kjEPj4EeSuM5gBQPT8Mg _hJaboPj7EeSuM5gBQPT8Mg" sources="_uZ2wQPj2EeSuM5gBQPT8Mg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ" type="and">
+      <indexedSourcesAndTargets xmi:id="_2xh68fj4EeSuM5gBQPT8Mg" markup="Root" contents="_uZ2wQPj2EeSuM5gBQPT8Mg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecLink" xmi:id="_2xh68vj4EeSuM5gBQPT8Mg" name="[undefined]" targets="_grOLIPj4EeSuM5gBQPT8Mg" sources="_2xh68Pj4EeSuM5gBQPT8Mg">
+      <indexedSourcesAndTargets xmi:id="_2xh68_j4EeSuM5gBQPT8Mg" markup="Unique source" contents="_2xh68Pj4EeSuM5gBQPT8Mg"/>
+      <indexedSourcesAndTargets xmi:id="_2xh69Pj4EeSuM5gBQPT8Mg" markup="Unique target" contents="_grOLIPj4EeSuM5gBQPT8Mg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecLink" xmi:id="__6kjEPj4EeSuM5gBQPT8Mg" targets="_tJPyEPj4EeSuM5gBQPT8Mg" sources="_2xh68Pj4EeSuM5gBQPT8Mg">
+      <indexedSourcesAndTargets xmi:id="__6kjEfj4EeSuM5gBQPT8Mg" markup="Unique source" contents="_2xh68Pj4EeSuM5gBQPT8Mg"/>
+      <indexedSourcesAndTargets xmi:id="__6kjEvj4EeSuM5gBQPT8Mg" markup="Unique target" contents="_tJPyEPj4EeSuM5gBQPT8Mg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecLink" xmi:id="_PJ-FcPj5EeSuM5gBQPT8Mg" name="[undefined]" targets="_BrN6UPHzEeS1n_RmLJEdKg" sources="_1fIw4Pj2EeSuM5gBQPT8Mg">
+      <indexedSourcesAndTargets xmi:id="_PJ-Fcfj5EeSuM5gBQPT8Mg" markup="Unique source" contents="_1fIw4Pj2EeSuM5gBQPT8Mg"/>
+      <indexedSourcesAndTargets xmi:id="_PJ-Fcvj5EeSuM5gBQPT8Mg" markup="Unique target" contents="_BrN6UPHzEeS1n_RmLJEdKg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecLink" xmi:id="_i1J2oPj5EeSuM5gBQPT8Mg" targets="_cJR0gPj5EeSuM5gBQPT8Mg" sources="_ofiqIPH0EeS1n_RmLJEdKg">
+      <indexedSourcesAndTargets xmi:id="_i1J2ofj5EeSuM5gBQPT8Mg" markup="Unique source" contents="_ofiqIPH0EeS1n_RmLJEdKg"/>
+      <indexedSourcesAndTargets xmi:id="_i1J2ovj5EeSuM5gBQPT8Mg" markup="Unique target" contents="_cJR0gPj5EeSuM5gBQPT8Mg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecLink" xmi:id="_jGQ_UPj6EeSuM5gBQPT8Mg" targets="_cTYLsPj5EeSuM5gBQPT8Mg" sources="_ofiqIPH0EeS1n_RmLJEdKg">
+      <indexedSourcesAndTargets xmi:id="_jGQ_Ufj6EeSuM5gBQPT8Mg" markup="Unique source" contents="_ofiqIPH0EeS1n_RmLJEdKg"/>
+      <indexedSourcesAndTargets xmi:id="_jGQ_Uvj6EeSuM5gBQPT8Mg" markup="Unique target" contents="_cTYLsPj5EeSuM5gBQPT8Mg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecLink" xmi:id="_EF6QMPj7EeSuM5gBQPT8Mg" targets="_f3gkUPj6EeSuM5gBQPT8Mg" sources="_ofiqIPH0EeS1n_RmLJEdKg">
+      <indexedSourcesAndTargets xmi:id="_EF6QMfj7EeSuM5gBQPT8Mg" markup="Unique source" contents="_ofiqIPH0EeS1n_RmLJEdKg"/>
+      <indexedSourcesAndTargets xmi:id="_EF6QMvj7EeSuM5gBQPT8Mg" markup="Unique target" contents="_f3gkUPj6EeSuM5gBQPT8Mg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecLink" xmi:id="_hJaboPj7EeSuM5gBQPT8Mg" targets="_TPYJsPj7EeSuM5gBQPT8Mg" sources="_2xh68Pj4EeSuM5gBQPT8Mg">
+      <indexedSourcesAndTargets xmi:id="_hJabofj7EeSuM5gBQPT8Mg" markup="Unique source" contents="_2xh68Pj4EeSuM5gBQPT8Mg"/>
+      <indexedSourcesAndTargets xmi:id="_hJabovj7EeSuM5gBQPT8Mg" markup="Unique target" contents="_TPYJsPj7EeSuM5gBQPT8Mg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecLink" xmi:id="_ucGZsPj7EeSuM5gBQPT8Mg" targets="_mPx4gPj7EeSuM5gBQPT8Mg" sources="_ofiqIPH0EeS1n_RmLJEdKg">
+      <indexedSourcesAndTargets xmi:id="_ucHAwPj7EeSuM5gBQPT8Mg" markup="Unique source" contents="_ofiqIPH0EeS1n_RmLJEdKg"/>
+      <indexedSourcesAndTargets xmi:id="_ucHAwfj7EeSuM5gBQPT8Mg" markup="Unique target" contents="_mPx4gPj7EeSuM5gBQPT8Mg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecLink" xmi:id="_ChMfsPj8EeSuM5gBQPT8Mg" targets="_yCbnMPj7EeSuM5gBQPT8Mg" sources="_FX1gMPGqEeS1n_RmLJEdKg">
+      <indexedSourcesAndTargets xmi:id="_ChMfsfj8EeSuM5gBQPT8Mg" markup="Unique source" contents="_FX1gMPGqEeS1n_RmLJEdKg"/>
+      <indexedSourcesAndTargets xmi:id="_ChMfsvj8EeSuM5gBQPT8Mg" markup="Unique target" contents="_yCbnMPj7EeSuM5gBQPT8Mg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecomposition" xmi:id="_Fjt1gPj8EeSuM5gBQPT8Mg" name="[undefined]" outcomingRelations="_Fjuckfj8EeSuM5gBQPT8Mg _Q42hwPj8EeSuM5gBQPT8Mg" sources="_yCbnMPj7EeSuM5gBQPT8Mg" Actor="_Dp9AMO3HEeSpbvnbke1BIQ" type="and">
+      <indexedSourcesAndTargets xmi:id="_FjuckPj8EeSuM5gBQPT8Mg" markup="Root" contents="_yCbnMPj7EeSuM5gBQPT8Mg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecLink" xmi:id="_Fjuckfj8EeSuM5gBQPT8Mg" name="[undefined]" targets="_a3-WUPH2EeS1n_RmLJEdKg" sources="_Fjt1gPj8EeSuM5gBQPT8Mg">
+      <indexedSourcesAndTargets xmi:id="_Fjuckvj8EeSuM5gBQPT8Mg" markup="Unique source" contents="_Fjt1gPj8EeSuM5gBQPT8Mg"/>
+      <indexedSourcesAndTargets xmi:id="_Fjuck_j8EeSuM5gBQPT8Mg" markup="Unique target" contents="_a3-WUPH2EeS1n_RmLJEdKg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecLink" xmi:id="_Q42hwPj8EeSuM5gBQPT8Mg" name="[undefined]" targets="_fFs7APH2EeS1n_RmLJEdKg" sources="_Fjt1gPj8EeSuM5gBQPT8Mg">
+      <indexedSourcesAndTargets xmi:id="_Q42hwfj8EeSuM5gBQPT8Mg" markup="Unique source" contents="_Fjt1gPj8EeSuM5gBQPT8Mg"/>
+      <indexedSourcesAndTargets xmi:id="_Q42hwvj8EeSuM5gBQPT8Mg" markup="Unique target" contents="_fFs7APH2EeS1n_RmLJEdKg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecLink" xmi:id="_3x09gPj8EeSuM5gBQPT8Mg" targets="_xVUNEPj8EeSuM5gBQPT8Mg" sources="_NSLbwPIGEeS1n_RmLJEdKg">
+      <indexedSourcesAndTargets xmi:id="_3x09gfj8EeSuM5gBQPT8Mg" markup="Unique source" contents="_NSLbwPIGEeS1n_RmLJEdKg"/>
+      <indexedSourcesAndTargets xmi:id="_3x09gvj8EeSuM5gBQPT8Mg" markup="Unique target" contents="_xVUNEPj8EeSuM5gBQPT8Mg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecLink" xmi:id="_32K1gPj9EeSuM5gBQPT8Mg" targets="_dX-fcPj9EeSuM5gBQPT8Mg" sources="__CwTUO4NEeSdDLHD65BrKA">
+      <indexedSourcesAndTargets xmi:id="_32K1gfj9EeSuM5gBQPT8Mg" markup="Unique source" contents="__CwTUO4NEeSdDLHD65BrKA"/>
+      <indexedSourcesAndTargets xmi:id="_32K1gvj9EeSuM5gBQPT8Mg" markup="Unique target" contents="_dX-fcPj9EeSuM5gBQPT8Mg"/>
     </TroposRelations>
     <CapabilityTable xmi:id="_3pISuO3GEeSpbvnbke1BIQ">
       <Capability xmi:id="_CrCzMO4PEeSdDLHD65BrKA" ability="_CrCzMe4PEeSdDLHD65BrKA"/>
