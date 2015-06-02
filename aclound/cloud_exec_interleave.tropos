@@ -50,8 +50,8 @@
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_1MjrEAZHEeWdeY9vI7ESCg" core="_1Mh14AZHEeWdeY9vI7ESCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
         <visualPropertyManagers xmi:id="_1MjrEQZHEeWdeY9vI7ESCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
           <propertyBunches xmi:id="_1MjrEgZHEeWdeY9vI7ESCg" type="Visual properties">
-            <properties xmi:id="_1MjrEwZHEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Location X" value="502"/>
-            <properties xmi:id="_1MjrFAZHEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Location Y" value="329"/>
+            <properties xmi:id="_1MjrEwZHEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Location X" value="510"/>
+            <properties xmi:id="_1MjrFAZHEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Location Y" value="343"/>
             <properties xmi:id="_1lnEQAZHEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_1lnEQQZHEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Width" value="50"/>
           </propertyBunches>
@@ -125,8 +125,8 @@
       <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_a5pQkAZKEeWdeY9vI7ESCg" core="_a5opgAZKEeWdeY9vI7ESCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
         <visualPropertyManagers xmi:id="_a5p3oAZKEeWdeY9vI7ESCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
           <propertyBunches xmi:id="_a5p3oQZKEeWdeY9vI7ESCg" type="Visual properties">
-            <properties xmi:id="_a5p3ogZKEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Location X" value="317"/>
-            <properties xmi:id="_a5p3owZKEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Location Y" value="334"/>
+            <properties xmi:id="_a5p3ogZKEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Location X" value="316"/>
+            <properties xmi:id="_a5p3owZKEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Location Y" value="344"/>
             <properties xmi:id="_bVAW4AZKEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Height" value="30"/>
             <properties xmi:id="_bVA98AZKEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Width" value="50"/>
           </propertyBunches>
