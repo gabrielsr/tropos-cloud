@@ -4,17 +4,22 @@ dtmc
 
 
 
+// max number of simultaneous running instances
+const INSTANCE_MAX = 10;
 
-	const TASKS_COUNT = 500;
-	const INSTANCE_MAX = 10;
+// number of Jobs that constitute the workload
+const JOB_COUNT = 500;
 
-	const TASKS_COMPLEXTY = 100;
-	const INSTANCE_CAPACITY = 10;
+//mean complexty of a Job
+const JOB_MEAN_COMPLEXTY = 100;
+
+//how fast a Instance execute a Job
+const INSTANCE_CAPACITY = 10;
 
 
 // backlog
-global jobs_todo:[0..TASKS_COUNT] init TASKS_COUNT;
-global jobs_completed:[0..TASKS_COUNT] init 0;
+global jobs_todo:[0..JOB_COUNT] init JOB_COUNT;
+global jobs_completed:[0..JOB_COUNT] init 0;
 
 
 //number of instances
@@ -30,7 +35,7 @@ global instances_unavailable:[0..INSTANCE_MAX] init 0;
 formula active_instances = instances_created+instances_ready+instances_assigned+instances_unavailable;
 formula instances_running = instances_assigned-instances_unavailable;
 
-formula job_conclusion_rate = 1-(TASKS_COMPLEXTY/(TASKS_COMPLEXTY+instances_running*INSTANCE_CAPACITY));
+formula job_conclusion_rate = 1-(JOB_MEAN_COMPLEXTY/(JOB_MEAN_COMPLEXTY+instances_running*INSTANCE_CAPACITY));
 
 const double rTaskT1_1;
 
@@ -148,7 +153,7 @@ module T2_22_GetJobResult
 
 
 	[] sT2_22 =  1 -> rTaskT2_22 : (sT2_22'=2) 
-		&(jobs_completed'=min(jobs_completed+1,TASKS_COUNT))
+		&(jobs_completed'=min(jobs_completed+1,JOB_COUNT))
 		+ (1 - rTaskT2_22) : (sT2_22'=4);//running to final state
 	[success2_2] sT2_22 = 2 -> (sT2_22'=0);//final state success
 	[success2_2] sT2_22 = 3 -> (sT2_22'=3);//final state skipped
