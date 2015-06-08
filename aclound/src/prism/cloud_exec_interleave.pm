@@ -5,16 +5,16 @@ dtmc
 
 
 // max number of simultaneous running instances
-const INSTANCE_MAX = 10;
+const INSTANCE_MAX = 1;
 
 // number of Jobs that constitute the workload
-const JOB_COUNT = 500;
+const JOB_COUNT = 2;
 
 //mean complexty of a Job
-const JOB_MEAN_COMPLEXTY = 100;
+const JOB_MEAN_COMPLEXTY = 1;
 
 //how fast a Instance execute a Job
-const INSTANCE_CAPACITY = 10;
+const INSTANCE_CAPACITY = 1;
 
 
 // backlog
@@ -35,7 +35,7 @@ global instances_unavailable:[0..INSTANCE_MAX] init 0;
 formula active_instances = instances_created+instances_ready+instances_assigned+instances_unavailable;
 formula instances_running = instances_assigned-instances_unavailable;
 
-formula job_conclusion_rate = 1-(JOB_MEAN_COMPLEXTY/(JOB_MEAN_COMPLEXTY+instances_running*INSTANCE_CAPACITY));
+formula job_conclusion_rate = 0.5; //1-(JOB_MEAN_COMPLEXTY/(JOB_MEAN_COMPLEXTY+instances_running*INSTANCE_CAPACITY));
 
 const double rTaskT1_1;
 
@@ -133,7 +133,7 @@ module T2_21_ExecuteJob
 
 
 	[] sT2_21 =  1 & (instances_assigned > 0) -> rTaskT2_21*job_conclusion_rate : (sT2_21'=2) // concluded job
-	+ rTaskT2_21*(1-job_conclusion_rate) : (sT2_21'=2) //not concluded yet
+	+ rTaskT2_21*(1-job_conclusion_rate) : (sT2_21'=1) //not concluded yet
 	+ (1 - rTaskT2_21) : (sT2_21'=4)//running to final state
 		& (instances_unavailable'=min(instances_unavailable+1,INSTANCE_MAX));
 	

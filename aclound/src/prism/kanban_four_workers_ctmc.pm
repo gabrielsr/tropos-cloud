@@ -1,14 +1,15 @@
 ctmc
 
 
-	const fail_rate =1;
-	const MAX_TASKS = 10;
+	// time to complete (5s)
+	const double rate_complete = 0.005;
+	// Rate of failure
+	const double rate_failure = 0.001; //1/50.000;
+	// time to recover
+	const double rate_recovery = 0.01; //1/50.000;
 
-	formula w1_isAvailable =  worker1=0 ;
-	formula w2_isAvailable =  worker2=0;
-	formula w3_isAvailable =  worker3=0;
-	formula w4_isAvailable =  worker4=0;
 
+	const MAX_TASKS = 3000;
 
 module kanban
 
@@ -20,17 +21,15 @@ module kanban
 
 	//rename to w1_status
 	// perceved status
-	// n = 0 ready
-	// n = 1 working
-	// n = 2 unavailable
-	// *? n = 3 trying to recover
-
-	worker1:[0..2] init 0; 
-	worker2:[0..2] init 0; 
-	worker3:[0..2] init 0; 
+	// 0 ready, 1 working, 2 unavailable
+	worker1:[0..2] init 0;
+	worker2:[0..2] init 0;
+	worker3:[0..2] init 0;
 	worker4:[0..2] init 0;
 	
 	// real state of a worker
+	// 0 working well, 1 recoverable failure,
+	// TODO: 2 unrecoverable failure
 	w1_state:[0..1] init 1;
 	w2_state:[0..1] init 1;
 	w3_state:[0..1] init 1;
@@ -44,16 +43,17 @@ module kanban
 
 
 	// non deterministically a worker complete a job if it is in a working state
-	[complete] worker1 = 1 & w1_state = 1 -> (worker1'=0) & (done'=min(done+1, MAX_TASKS));
-	[complete] worker2 = 1 & w2_state = 1 -> (worker2'=0) & (done'=min(done+1, MAX_TASKS));
-	[complete] worker3 = 1 & w3_state = 1 -> (worker3'=0) & (done'=min(done+1, MAX_TASKS));
-	[complete] worker4 = 1 & w4_state = 1 -> (worker4'=0) & (done'=min(done+1, MAX_TASKS));
+	[complete] worker1 = 1 & w1_state = 1 -> rate_complete: (worker1'=0) & (done'=min(done+1, MAX_TASKS));
+	[complete] worker2 = 1 & w2_state = 1 -> rate_complete: (worker2'=0) & (done'=min(done+1, MAX_TASKS));
+	[complete] worker3 = 1 & w3_state = 1 -> rate_complete: (worker3'=0) & (done'=min(done+1, MAX_TASKS));
+	[complete] worker4 = 1 & w4_state = 1 -> rate_complete: (worker4'=0) & (done'=min(done+1, MAX_TASKS));
 
 	// generate failures in workers
-	[fail] true -> fail_rate: (w1_state' = 0);
-	[fail] true -> fail_rate: (w2_state' = 0);
-	[fail] true -> fail_rate: (w3_state' = 0);
-	[fail] true -> fail_rate: (w4_state' = 0);
+	[fail] true -> rate_failure: (w1_state' = 0);
+	[fail] true -> rate_failure: (w2_state' = 0);
+	[fail] true -> rate_failure: (w3_state' = 0);
+	[fail] true -> rate_failure: (w4_state' = 0);
+	//[] true -> 1-4*rate_failure: true;
 
 
 	// if:: a worker has a task assigned and is discovered to be unavailable
@@ -83,14 +83,15 @@ module kanban
 		(worker4'=2);
 
 	// recover an worker in failure state
-	[try_recover] worker1 = 2 -> (worker1'=0) & (w1_state'=1);
-	[try_recover] worker2 = 2 -> (worker2'=0) & (w2_state'=1);
-	[try_recover] worker3 = 2 -> (worker3'=0) & (w3_state'=1);
-	[try_recover] worker4 = 2 -> (worker4'=0) & (w4_state'=1);
+	[try_recover] worker1 = 2 -> rate_recovery: (worker1'=0) & (w1_state'=1);
+	[try_recover] worker2 = 2 -> rate_recovery: (worker2'=0) & (w2_state'=1);
+	[try_recover] worker3 = 2 -> rate_recovery: (worker3'=0) & (w3_state'=1);
+	[try_recover] worker4 = 2 -> rate_recovery: (worker4'=0) & (w4_state'=1);
 
 endmodule
 rewards "total_time"
-    true : 1;
+    [fetch] true : 0.1;
+    [complete] true : 5;
 endrewards
 
 rewards "num_failures"
