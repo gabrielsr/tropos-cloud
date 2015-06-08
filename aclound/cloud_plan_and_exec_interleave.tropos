@@ -1,0 +1,1360 @@
+<?xml version="1.0" encoding="ASCII"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:it.itc.sra.taom4e.model.core.informalcore="http:///it/itc/sra/taom4e/model/core/informalcore.ecore" xmlns:it.itc.sra.taom4e.model.core.informalcore.formalcore="http:///it/itc/sra/taom4e/model/core/informalcore/formalcore.ecore" xmlns:it.itc.sra.taom4e.model.diagram.architecturaldiagram="http:///it/itc/sra/taom4e/model/diagram/architecturaldiagram.ecore" xmlns:it.itc.sra.taom4e.model.diagram.gendiagram="http:///it/itc/sra/taom4e/model/diagram/gendiagram.ecore" xmlns:it.itc.sra.taom4e.model.diagram.mixeddiagram="http:///it/itc/sra/taom4e/model/diagram/mixeddiagram.ecore" xmlns:it.itc.sra.taom4e.model.project="http:///it/itc/sra/taom4e/model/project.ecore">
+  <it.itc.sra.taom4e.model.project:Project xmi:id="_2NMeIAZGEeWdeY9vI7ESCg" BusinessModel="_2NMeIQZGEeWdeY9vI7ESCg">
+    <Diagram xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MixedDiagram" xmi:id="_2N9TIAZGEeWdeY9vI7ESCg" core="_2NMeIQZGEeWdeY9vI7ESCg" name="ER1" status="1">
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_ActorUI" xmi:id="_3ABpQAZGEeWdeY9vI7ESCg" core="_2__0EAZGEeWdeY9vI7ESCg" moveIntentionalWithActor="true" baloonUI="_3ADecAZGEeWdeY9vI7ESCg" intentionalUIs="_8poWEAZGEeWdeY9vI7ESCg _Kh0N4AZHEeWdeY9vI7ESCg _1MjrEAZHEeWdeY9vI7ESCg _5LUmsAZHEeWdeY9vI7ESCg _naudcAZIEeWdeY9vI7ESCg _yuEZ8AZIEeWdeY9vI7ESCg _3AXVkAZIEeWdeY9vI7ESCg _a5pQkAZKEeWdeY9vI7ESCg _l-F1cAZKEeWdeY9vI7ESCg __DQGkAZLEeWdeY9vI7ESCg _2OckcAbMEeWdeY9vI7ESCg _8bShMAbMEeWdeY9vI7ESCg _H0FY4AbiEeWPhYNXQlk00w _betJYAbiEeWPhYNXQlk00w _A5RXYAiZEeWy16CUs2dUCg _KzhaAAiZEeWy16CUs2dUCg _LUZScAiZEeWy16CUs2dUCg _S1TfIAiZEeWy16CUs2dUCg _g0TJkAiZEeWy16CUs2dUCg _1wlqYAimEeWy16CUs2dUCg _EXKSMAinEeWy16CUs2dUCg _bZ_7sAinEeWy16CUs2dUCg _0JtWsAinEeWy16CUs2dUCg _-uF7cAinEeWy16CUs2dUCg _gZqeMAioEeWy16CUs2dUCg _dI2PoAlWEeWy16CUs2dUCg _HDw3sAouEeWy16CUs2dUCg _LTEwwAouEeWy16CUs2dUCg _VNqKkAouEeWy16CUs2dUCg _m42Z8AouEeWy16CUs2dUCg _viw2EAouEeWy16CUs2dUCg _b6xGUAovEeWy16CUs2dUCg _e5p5UAovEeWy16CUs2dUCg _i_KWIAovEeWy16CUs2dUCg _q9pPoAovEeWy16CUs2dUCg _5btbsAovEeWy16CUs2dUCg _5mQe0AovEeWy16CUs2dUCg _Lu9JkAowEeWy16CUs2dUCg _R1fqAAowEeWy16CUs2dUCg _U8Sb0AowEeWy16CUs2dUCg _OqbmwAoxEeWy16CUs2dUCg _PI32QAoxEeWy16CUs2dUCg _r5pS8AoxEeWy16CUs2dUCg _BIa90AoyEeWy16CUs2dUCg _EZgUEAoyEeWy16CUs2dUCg _LWDvIAo1EeWy16CUs2dUCg _jDWq4Ao1EeWy16CUs2dUCg _VS29MAo6EeWy16CUs2dUCg _4NpFEAo6EeWy16CUs2dUCg _7Ka1sAouEeWy16CUs2dUCg _NLy6AAo7EeWy16CUs2dUCg _mX4H8Ao7EeWy16CUs2dUCg _uqmMEAo7EeWy16CUs2dUCg">
+        <visualPropertyManagers xmi:id="_3ABpQQZGEeWdeY9vI7ESCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Actor figure">
+          <propertyBunches xmi:id="_3ABpQgZGEeWdeY9vI7ESCg" type="Visual properties">
+            <properties xmi:id="_3ABpQwZGEeWdeY9vI7ESCg" destination="Actor figure" type="int" name="Location X" value="582"/>
+            <properties xmi:id="_3ABpRAZGEeWdeY9vI7ESCg" destination="Actor figure" type="int" name="Location Y" value="406"/>
+            <properties xmi:id="_8EpZsAZGEeWdeY9vI7ESCg" destination="Actor figure" type="int" name="Height" value="108"/>
+            <properties xmi:id="_8EpZsQZGEeWdeY9vI7ESCg" destination="Actor figure" type="int" name="Width" value="108"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_BaloonUI" xmi:id="_3ADecAZGEeWdeY9vI7ESCg" core="_2__0EAZGEeWdeY9vI7ESCg" children="_8poWEAZGEeWdeY9vI7ESCg _Kh0N4AZHEeWdeY9vI7ESCg _1MjrEAZHEeWdeY9vI7ESCg _5LUmsAZHEeWdeY9vI7ESCg _naudcAZIEeWdeY9vI7ESCg _yuEZ8AZIEeWdeY9vI7ESCg _3AXVkAZIEeWdeY9vI7ESCg _a5pQkAZKEeWdeY9vI7ESCg _l-F1cAZKEeWdeY9vI7ESCg __DQGkAZLEeWdeY9vI7ESCg _2OckcAbMEeWdeY9vI7ESCg _8bShMAbMEeWdeY9vI7ESCg _H0FY4AbiEeWPhYNXQlk00w _betJYAbiEeWPhYNXQlk00w _A5RXYAiZEeWy16CUs2dUCg _KzhaAAiZEeWy16CUs2dUCg _LUZScAiZEeWy16CUs2dUCg _S1TfIAiZEeWy16CUs2dUCg _g0TJkAiZEeWy16CUs2dUCg _1wlqYAimEeWy16CUs2dUCg _EXKSMAinEeWy16CUs2dUCg _bZ_7sAinEeWy16CUs2dUCg _0JtWsAinEeWy16CUs2dUCg _-uF7cAinEeWy16CUs2dUCg _gZqeMAioEeWy16CUs2dUCg _dI2PoAlWEeWy16CUs2dUCg _0VqUgAlWEeWy16CUs2dUCg _HDw3sAouEeWy16CUs2dUCg _LTEwwAouEeWy16CUs2dUCg _VNqKkAouEeWy16CUs2dUCg _m42Z8AouEeWy16CUs2dUCg _viw2EAouEeWy16CUs2dUCg _b6xGUAovEeWy16CUs2dUCg _e5p5UAovEeWy16CUs2dUCg _i_KWIAovEeWy16CUs2dUCg _q9pPoAovEeWy16CUs2dUCg _5btbsAovEeWy16CUs2dUCg _5mQe0AovEeWy16CUs2dUCg _Lu9JkAowEeWy16CUs2dUCg _R1fqAAowEeWy16CUs2dUCg _U8Sb0AowEeWy16CUs2dUCg _OqbmwAoxEeWy16CUs2dUCg _PI32QAoxEeWy16CUs2dUCg _r5pS8AoxEeWy16CUs2dUCg _BIa90AoyEeWy16CUs2dUCg _EZgUEAoyEeWy16CUs2dUCg _LWDvIAo1EeWy16CUs2dUCg _jDWq4Ao1EeWy16CUs2dUCg _VS29MAo6EeWy16CUs2dUCg _4NpFEAo6EeWy16CUs2dUCg _7Ka1sAouEeWy16CUs2dUCg _NLy6AAo7EeWy16CUs2dUCg _mX4H8Ao7EeWy16CUs2dUCg _uqmMEAo7EeWy16CUs2dUCg" baloonOpen="true" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_3ADecQZGEeWdeY9vI7ESCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Baloon figure">
+          <propertyBunches xmi:id="_3ADecgZGEeWdeY9vI7ESCg" type="Visual properties">
+            <properties xmi:id="_3ADecwZGEeWdeY9vI7ESCg" destination="Baloon figure" type="int" name="Location X" value="-1140"/>
+            <properties xmi:id="_3ADedAZGEeWdeY9vI7ESCg" destination="Baloon figure" type="int" name="Location Y" value="373"/>
+            <properties xmi:id="_7t_0QAZGEeWdeY9vI7ESCg" destination="Baloon figure" type="int" name="Height" value="1195"/>
+            <properties xmi:id="_7t_0QQZGEeWdeY9vI7ESCg" destination="Baloon figure" type="int" name="Width" value="3499"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_8poWEAZGEeWdeY9vI7ESCg" core="_8plSwAZGEeWdeY9vI7ESCg" targetConnections="_hp0ZUAZJEeWdeY9vI7ESCg _Je_QAAiZEeWy16CUs2dUCg _UPjC4Ao2EeWy16CUs2dUCg _c2VVsAo6EeWy16CUs2dUCg _XmPR4Ao2EeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_8poWEQZGEeWdeY9vI7ESCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Hardgoal figure">
+          <propertyBunches xmi:id="_8poWEgZGEeWdeY9vI7ESCg" type="Visual properties">
+            <properties xmi:id="_8poWEwZGEeWdeY9vI7ESCg" destination="Hardgoal figure" type="int" name="Location X" value="436"/>
+            <properties xmi:id="_8poWFAZGEeWdeY9vI7ESCg" destination="Hardgoal figure" type="int" name="Location Y" value="545"/>
+            <properties xmi:id="_8-oVsAZGEeWdeY9vI7ESCg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_8-oVsQZGEeWdeY9vI7ESCg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_Kh0N4AZHEeWdeY9vI7ESCg" core="_KhyYsAZHEeWdeY9vI7ESCg" targetConnections="_EVKo8AZIEeWdeY9vI7ESCg _m8sGUwioEeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_Kh0N4QZHEeWdeY9vI7ESCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_Kh0N4gZHEeWdeY9vI7ESCg" type="Visual properties">
+            <properties xmi:id="_Kh0N4wZHEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Location X" value="1270"/>
+            <properties xmi:id="_Kh0N5AZHEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Location Y" value="899"/>
+            <properties xmi:id="_K6E84AZHEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_K6E84QZHEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_DjpVIwioEeWy16CUs2dUCg" core="_DjpVIAioEeWy16CUs2dUCg" targetNode="_-uF7cAinEeWy16CUs2dUCg">
+          <visualPropertyManagers xmi:id="_DjpVJAioEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_DjpVJQioEeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_1MjrEAZHEeWdeY9vI7ESCg" core="_1Mh14AZHEeWdeY9vI7ESCg" targetConnections="_VMMqoAoxEeWy16CUs2dUCg _ViGpMAoxEeWy16CUs2dUCg _xAFoUAoxEeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_1MjrEQZHEeWdeY9vI7ESCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_1MjrEgZHEeWdeY9vI7ESCg" type="Visual properties">
+            <properties xmi:id="_1MjrEwZHEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Location X" value="605"/>
+            <properties xmi:id="_1MjrFAZHEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Location Y" value="1032"/>
+            <properties xmi:id="_1lnEQAZHEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_1lnEQQZHEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_ieW_AAiWEeWy16CUs2dUCg" core="_ieVw4AiWEeWy16CUs2dUCg" targetNode="_l-F1cAZKEeWdeY9vI7ESCg">
+          <visualPropertyManagers xmi:id="_ieW_AQiWEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_ieW_AgiWEeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_5LUmsAZHEeWdeY9vI7ESCg" core="_5LTYkAZHEeWdeY9vI7ESCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_5LUmsQZHEeWdeY9vI7ESCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_5LUmsgZHEeWdeY9vI7ESCg" type="Visual properties">
+            <properties xmi:id="_5LUmswZHEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Location X" value="1372"/>
+            <properties xmi:id="_5LUmtAZHEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Location Y" value="1043"/>
+            <properties xmi:id="_52se8AZHEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_52se8QZHEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_EVKo8AZIEeWdeY9vI7ESCg" core="_EVKB4AZIEeWdeY9vI7ESCg" targetNode="_Kh0N4AZHEeWdeY9vI7ESCg">
+          <visualPropertyManagers xmi:id="_EVKo8QZIEeWdeY9vI7ESCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_EVKo8gZIEeWdeY9vI7ESCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_naudcAZIEeWdeY9vI7ESCg" core="_natPUAZIEeWdeY9vI7ESCg" targetConnections="_IIY2FAoxEeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_naudcQZIEeWdeY9vI7ESCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Hardgoal figure">
+          <propertyBunches xmi:id="_naudcgZIEeWdeY9vI7ESCg" type="Visual properties">
+            <properties xmi:id="_naudcwZIEeWdeY9vI7ESCg" destination="Hardgoal figure" type="int" name="Location X" value="433"/>
+            <properties xmi:id="_nauddAZIEeWdeY9vI7ESCg" destination="Hardgoal figure" type="int" name="Location Y" value="702"/>
+            <properties xmi:id="_nz1hAAZIEeWdeY9vI7ESCg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_nz1hAQZIEeWdeY9vI7ESCg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_BooleanDecLinkUI" xmi:id="_hp0ZUAZJEeWdeY9vI7ESCg" core="_hpykIQZJEeWdeY9vI7ESCg" targetNode="_8poWEAZGEeWdeY9vI7ESCg">
+          <visualPropertyManagers xmi:id="_hp0ZUQZJEeWdeY9vI7ESCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Decomposition connection">
+            <propertyBunches xmi:id="_hp0ZUgZJEeWdeY9vI7ESCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_yuEZ8AZIEeWdeY9vI7ESCg" core="_yuDL0AZIEeWdeY9vI7ESCg" targetConnections="_HVvGsAioEeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_yuEZ8QZIEeWdeY9vI7ESCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Hardgoal figure">
+          <propertyBunches xmi:id="_yuEZ8gZIEeWdeY9vI7ESCg" type="Visual properties">
+            <properties xmi:id="_yuEZ8wZIEeWdeY9vI7ESCg" destination="Hardgoal figure" type="int" name="Location X" value="1455"/>
+            <properties xmi:id="_yuEZ9AZIEeWdeY9vI7ESCg" destination="Hardgoal figure" type="int" name="Location Y" value="744"/>
+            <properties xmi:id="_zYPYUAZIEeWdeY9vI7ESCg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_zYPYUQZIEeWdeY9vI7ESCg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_BooleanDecLinkUI" xmi:id="_Zike4Ao6EeWy16CUs2dUCg" core="_ZijQwQo6EeWy16CUs2dUCg" targetNode="_VS29MAo6EeWy16CUs2dUCg">
+          <visualPropertyManagers xmi:id="_Zike4Qo6EeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Decomposition connection">
+            <propertyBunches xmi:id="_Zike4go6EeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_3AXVkAZIEeWdeY9vI7ESCg" core="_3AU5UAZIEeWdeY9vI7ESCg" targetConnections="_E8iJgAbNEeWdeY9vI7ESCg _FdIVIAbNEeWdeY9vI7ESCg _R5H88AlYEeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_3AXVkQZIEeWdeY9vI7ESCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_3AXVkgZIEeWdeY9vI7ESCg" type="Visual properties">
+            <properties xmi:id="_3AXVkwZIEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Location X" value="1592"/>
+            <properties xmi:id="_3AXVlAZIEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Location Y" value="975"/>
+            <properties xmi:id="_4cxpMAZIEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_4cxpMQZIEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_EM5GcwioEeWy16CUs2dUCg" core="_EM5GcAioEeWy16CUs2dUCg" targetNode="_-uF7cAinEeWy16CUs2dUCg">
+          <visualPropertyManagers xmi:id="_EM5GdAioEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_EM5GdQioEeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_a5pQkAZKEeWdeY9vI7ESCg" core="_a5opgAZKEeWdeY9vI7ESCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_a5p3oAZKEeWdeY9vI7ESCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_a5p3oQZKEeWdeY9vI7ESCg" type="Visual properties">
+            <properties xmi:id="_a5p3ogZKEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Location X" value="463"/>
+            <properties xmi:id="_a5p3owZKEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Location Y" value="1008"/>
+            <properties xmi:id="_bVAW4AZKEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_bVA98AZKEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_h3RJ0AiWEeWy16CUs2dUCg" core="_h3NfcAiWEeWy16CUs2dUCg" targetNode="_l-F1cAZKEeWdeY9vI7ESCg">
+          <visualPropertyManagers xmi:id="_h3RJ0QiWEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_h3RJ0giWEeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_l-F1cAZKEeWdeY9vI7ESCg" core="_l-EAQAZKEeWdeY9vI7ESCg" targetConnections="_h3RJ0AiWEeWy16CUs2dUCg _ieW_AAiWEeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_l-F1cQZKEeWdeY9vI7ESCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_l-F1cgZKEeWdeY9vI7ESCg" type="Visual properties">
+            <properties xmi:id="_l-F1cwZKEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Location X" value="562"/>
+            <properties xmi:id="_l-F1dAZKEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Location Y" value="915"/>
+            <properties xmi:id="_mX6qsAZKEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_mX6qsQZKEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_QCZ7wAowEeWy16CUs2dUCg" core="_QCZUsAowEeWy16CUs2dUCg" targetNode="_Lu9JkAowEeWy16CUs2dUCg">
+          <visualPropertyManagers xmi:id="_QCZ7wQowEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_QCZ7wgowEeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="__DQGkAZLEeWdeY9vI7ESCg" core="__DO4cAZLEeWdeY9vI7ESCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="__DQGkQZLEeWdeY9vI7ESCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="__DQGkgZLEeWdeY9vI7ESCg" type="Visual properties">
+            <properties xmi:id="__DQGkwZLEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Location X" value="1797"/>
+            <properties xmi:id="__DQGlAZLEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Location Y" value="949"/>
+            <properties xmi:id="__YeIoAZLEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="__YeIoQZLEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_5PHxUAinEeWy16CUs2dUCg" core="_5PHKQAinEeWy16CUs2dUCg" targetNode="_0JtWsAinEeWy16CUs2dUCg">
+          <visualPropertyManagers xmi:id="_5PHxUQinEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_5PHxUginEeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_2OckcAbMEeWdeY9vI7ESCg" core="_2ObWUAbMEeWdeY9vI7ESCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_2OckcQbMEeWdeY9vI7ESCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_2OckcgbMEeWdeY9vI7ESCg" type="Visual properties">
+            <properties xmi:id="_2OckcwbMEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Location X" value="1612"/>
+            <properties xmi:id="_2OckdAbMEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Location Y" value="1100"/>
+            <properties xmi:id="_2pZbEAbMEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_2pZbEQbMEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_E8iJgAbNEeWdeY9vI7ESCg" core="_E8hicAbNEeWdeY9vI7ESCg" targetNode="_3AXVkAZIEeWdeY9vI7ESCg">
+          <visualPropertyManagers xmi:id="_E8iJgQbNEeWdeY9vI7ESCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_E8iJggbNEeWdeY9vI7ESCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_8bShMAbMEeWdeY9vI7ESCg" core="_8bQsAAbMEeWdeY9vI7ESCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_8bShMQbMEeWdeY9vI7ESCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_8bShMgbMEeWdeY9vI7ESCg" type="Visual properties">
+            <properties xmi:id="_8bShMwbMEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Location X" value="1749"/>
+            <properties xmi:id="_8bShNAbMEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Location Y" value="1099"/>
+            <properties xmi:id="_9tV-8AbMEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_9tV-8QbMEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_FdIVIAbNEeWdeY9vI7ESCg" core="_FdHuEAbNEeWdeY9vI7ESCg" targetNode="_3AXVkAZIEeWdeY9vI7ESCg">
+          <visualPropertyManagers xmi:id="_FdIVIQbNEeWdeY9vI7ESCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_FdIVIgbNEeWdeY9vI7ESCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_H0FY4AbiEeWPhYNXQlk00w" core="_H0CVkAbiEeWPhYNXQlk00w" targetConnections="_8tMasAinEeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_H0FY4QbiEeWPhYNXQlk00w" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Hardgoal figure">
+          <propertyBunches xmi:id="_H0FY4gbiEeWPhYNXQlk00w" type="Visual properties">
+            <properties xmi:id="_H0FY4wbiEeWPhYNXQlk00w" destination="Hardgoal figure" type="int" name="Location X" value="1805"/>
+            <properties xmi:id="_H0FY5AbiEeWPhYNXQlk00w" destination="Hardgoal figure" type="int" name="Location Y" value="744"/>
+            <properties xmi:id="_IMvJcAbiEeWPhYNXQlk00w" destination="Hardgoal figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_IMvJcQbiEeWPhYNXQlk00w" destination="Hardgoal figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_BooleanDecLinkUI" xmi:id="_aLHsoAo6EeWy16CUs2dUCg" core="_aLHFkAo6EeWy16CUs2dUCg" targetNode="_VS29MAo6EeWy16CUs2dUCg">
+          <visualPropertyManagers xmi:id="_aLHsoQo6EeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Decomposition connection">
+            <propertyBunches xmi:id="_aLHsogo6EeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_betJYAbiEeWPhYNXQlk00w" core="_ber7QAbiEeWPhYNXQlk00w" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_betJYQbiEeWPhYNXQlk00w" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_betJYgbiEeWPhYNXQlk00w" type="Visual properties">
+            <properties xmi:id="_betJYwbiEeWPhYNXQlk00w" destination="Plan figure" type="int" name="Location X" value="1910"/>
+            <properties xmi:id="_betJZAbiEeWPhYNXQlk00w" destination="Plan figure" type="int" name="Location Y" value="951"/>
+            <properties xmi:id="_b2W0YAbiEeWPhYNXQlk00w" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_b2W0YQbiEeWPhYNXQlk00w" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_445psAinEeWy16CUs2dUCg" core="_445CoAinEeWy16CUs2dUCg" targetNode="_0JtWsAinEeWy16CUs2dUCg">
+          <visualPropertyManagers xmi:id="_445psQinEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_445psginEeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_A5RXYAiZEeWy16CUs2dUCg" core="_A5PiMAiZEeWy16CUs2dUCg" targetConnections="_-WvA0AimEeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_A5RXYQiZEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Hardgoal figure">
+          <propertyBunches xmi:id="_A5RXYgiZEeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_A5RXYwiZEeWy16CUs2dUCg" destination="Hardgoal figure" type="int" name="Location X" value="856"/>
+            <properties xmi:id="_A5RXZAiZEeWy16CUs2dUCg" destination="Hardgoal figure" type="int" name="Location Y" value="716"/>
+            <properties xmi:id="_CrhYIAiZEeWy16CUs2dUCg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_Crh_MAiZEeWy16CUs2dUCg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_BooleanDecLinkUI" xmi:id="_Je_QAAiZEeWy16CUs2dUCg" core="_Je-B4AiZEeWy16CUs2dUCg" targetNode="_8poWEAZGEeWdeY9vI7ESCg">
+          <visualPropertyManagers xmi:id="_Je_QAQiZEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Decomposition connection">
+            <propertyBunches xmi:id="_Je_QAgiZEeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_KzhaAAiZEeWy16CUs2dUCg" core="_KzgL4AiZEeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_KzhaAQiZEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_KzhaAgiZEeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_KzhaAwiZEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location X" value="908"/>
+            <properties xmi:id="_KzhaBAiZEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location Y" value="991"/>
+            <properties xmi:id="_LxVtIAiZEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_LxVtIQiZEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_ps7OwAinEeWy16CUs2dUCg" core="_ps6nsAinEeWy16CUs2dUCg" targetNode="_bZ_7sAinEeWy16CUs2dUCg">
+          <visualPropertyManagers xmi:id="_ps7OwQinEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_ps7OwginEeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_LUZScAiZEeWy16CUs2dUCg" core="_LUXdQAiZEeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_LUZScQiZEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_LUZScgiZEeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_LUZScwiZEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location X" value="1008"/>
+            <properties xmi:id="_LUZSdAiZEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location Y" value="1071"/>
+            <properties xmi:id="_atwpIAiZEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_atwpIQiZEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_pf2kcAiZEeWy16CUs2dUCg" core="_pf19YAiZEeWy16CUs2dUCg" targetNode="_S1TfIAiZEeWy16CUs2dUCg">
+          <visualPropertyManagers xmi:id="_pf2kcQiZEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_pf2kcgiZEeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_S1TfIAiZEeWy16CUs2dUCg" core="_S1RC4AiZEeWy16CUs2dUCg" targetConnections="_pEoBAAiZEeWy16CUs2dUCg _pf2kcAiZEeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_S1TfIQiZEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_S1TfIgiZEeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_S1TfIwiZEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location X" value="1064"/>
+            <properties xmi:id="_S1TfJAiZEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location Y" value="992"/>
+            <properties xmi:id="_TSz6gAiZEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_TSz6gQiZEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_qQf14AinEeWy16CUs2dUCg" core="_qQfO0AinEeWy16CUs2dUCg" targetNode="_bZ_7sAinEeWy16CUs2dUCg">
+          <visualPropertyManagers xmi:id="_qQf14QinEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_qQf14ginEeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_g0TJkAiZEeWy16CUs2dUCg" core="_g0R7cAiZEeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_g0TJkQiZEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_g0TJkgiZEeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_g0TJkwiZEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location X" value="1125"/>
+            <properties xmi:id="_g0TJlAiZEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location Y" value="1105"/>
+            <properties xmi:id="_hMK3AAiZEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_hMLeEAiZEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_pEoBAAiZEeWy16CUs2dUCg" core="_pEnZ8AiZEeWy16CUs2dUCg" targetNode="_S1TfIAiZEeWy16CUs2dUCg">
+          <visualPropertyManagers xmi:id="_pEoBAQiZEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_pEoBAgiZEeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_1wlqYAimEeWy16CUs2dUCg" core="_1wjOIAimEeWy16CUs2dUCg" targetConnections="_LU0A0AinEeWy16CUs2dUCg _oye_wAinEeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_1wlqYQimEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_1wlqYgimEeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_1wlqYwimEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location X" value="801"/>
+            <properties xmi:id="_1wlqZAimEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location Y" value="811"/>
+            <properties xmi:id="_h8rToAipEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_h8rToQipEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_-WvA0AimEeWy16CUs2dUCg" core="_-WuZwQimEeWy16CUs2dUCg" targetNode="_A5RXYAiZEeWy16CUs2dUCg">
+          <visualPropertyManagers xmi:id="_-WvA0QimEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_-WvA0gimEeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_EXKSMAinEeWy16CUs2dUCg" core="_EXJEEAinEeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_EXKSMQinEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_EXKSMginEeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_EXKSMwinEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location X" value="702"/>
+            <properties xmi:id="_EXKSNAinEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location Y" value="907"/>
+            <properties xmi:id="_E0Gs4AinEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_E0Gs4QinEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_LU0A0AinEeWy16CUs2dUCg" core="_LUzZwAinEeWy16CUs2dUCg" targetNode="_1wlqYAimEeWy16CUs2dUCg">
+          <visualPropertyManagers xmi:id="_LU0A0QinEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_LU0A0ginEeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_bZ_7sAinEeWy16CUs2dUCg" core="_bZ-GgAinEeWy16CUs2dUCg" targetConnections="_ps7OwAinEeWy16CUs2dUCg _qQf14AinEeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_baAiwAinEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_baAiwQinEeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_baAiwginEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location X" value="924"/>
+            <properties xmi:id="_baAiwwinEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location Y" value="904"/>
+            <properties xmi:id="_uB98YAinEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_uB98YQinEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_oye_wAinEeWy16CUs2dUCg" core="_oydxoAinEeWy16CUs2dUCg" targetNode="_1wlqYAimEeWy16CUs2dUCg">
+          <visualPropertyManagers xmi:id="_oye_wQinEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_oye_wginEeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_0JtWsAinEeWy16CUs2dUCg" core="_0JsIkAinEeWy16CUs2dUCg" targetConnections="_445psAinEeWy16CUs2dUCg _5PHxUAinEeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_0JtWsQinEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_0JtWsginEeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_0JtWswinEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location X" value="1814"/>
+            <properties xmi:id="_0JtWtAinEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location Y" value="839"/>
+            <properties xmi:id="_0kcx8AinEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_0kcx8QinEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_8tMasAinEeWy16CUs2dUCg" core="_8tLzoQinEeWy16CUs2dUCg" targetNode="_H0FY4AbiEeWPhYNXQlk00w">
+          <visualPropertyManagers xmi:id="_8tMasQinEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_8tMasginEeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_-uF7cAinEeWy16CUs2dUCg" core="_-uDfMAinEeWy16CUs2dUCg" targetConnections="_DjpVIwioEeWy16CUs2dUCg _EM5GcwioEeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_-uF7cQinEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_-uF7cginEeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_-uF7cwinEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location X" value="1419"/>
+            <properties xmi:id="_-uF7dAinEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location Y" value="803"/>
+            <properties xmi:id="_EayYgAioEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_EayYgQioEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_HVvGsAioEeWy16CUs2dUCg" core="_HVufoQioEeWy16CUs2dUCg" targetNode="_yuEZ8AZIEeWdeY9vI7ESCg">
+          <visualPropertyManagers xmi:id="_HVvGsQioEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_HVvGsgioEeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_gZqeMAioEeWy16CUs2dUCg" core="_gZoB8AioEeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_gZqeMQioEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_gZqeMgioEeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_gZqeMwioEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location X" value="1242"/>
+            <properties xmi:id="_gZqeNAioEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location Y" value="1039"/>
+            <properties xmi:id="_g0IzsAioEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_g0IzsQioEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_m8sGUwioEeWy16CUs2dUCg" core="_m8sGUAioEeWy16CUs2dUCg" targetNode="_Kh0N4AZHEeWdeY9vI7ESCg">
+          <visualPropertyManagers xmi:id="_m8sGVAioEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_m8sGVQioEeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_dI2PoAlWEeWy16CUs2dUCg" core="_dI1BgAlWEeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_dI2PoQlWEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_dI2PoglWEeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_dI2PowlWEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location X" value="1461"/>
+            <properties xmi:id="_dI2PpAlWEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location Y" value="1096"/>
+            <properties xmi:id="_hXgocAlWEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_hXgocQlWEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_R5H88AlYEeWy16CUs2dUCg" core="_R5HV4AlYEeWy16CUs2dUCg" targetNode="_3AXVkAZIEeWdeY9vI7ESCg">
+          <visualPropertyManagers xmi:id="_R5H88QlYEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_R5H88glYEeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_HDw3sAouEeWy16CUs2dUCg" core="_HDvCgAouEeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_HDw3sQouEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_HDw3sgouEeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_HDw3swouEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location X" value="-858"/>
+            <properties xmi:id="_HDw3tAouEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location Y" value="1071"/>
+            <properties xmi:id="_HiKq8AouEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_HiKq8QouEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_809OcAo6EeWy16CUs2dUCg" core="_808AUAo6EeWy16CUs2dUCg" targetNode="_4NpFEAo6EeWy16CUs2dUCg">
+          <visualPropertyManagers xmi:id="_809OcQo6EeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_809Ocgo6EeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_LTEwwAouEeWy16CUs2dUCg" core="_LTBGYAouEeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_LTEwwQouEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_LTEwwgouEeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_LTEwwwouEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location X" value="-771"/>
+            <properties xmi:id="_LTEwxAouEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location Y" value="1034"/>
+            <properties xmi:id="_RSwbQAouEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_RSwbQQouEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_9Q_DIAo6EeWy16CUs2dUCg" core="_9Q-cEAo6EeWy16CUs2dUCg" targetNode="_4NpFEAo6EeWy16CUs2dUCg">
+          <visualPropertyManagers xmi:id="_9Q_DIQo6EeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_9Q_DIgo6EeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_VNqKkAouEeWy16CUs2dUCg" core="_VNnHQAouEeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_VNqKkQouEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_VNqKkgouEeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_VNqKkwouEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location X" value="-457"/>
+            <properties xmi:id="_VNqKlAouEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location Y" value="955"/>
+            <properties xmi:id="_re2UsAouEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_re27wAouEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_UXdPcAo7EeWy16CUs2dUCg" core="_UXcoYAo7EeWy16CUs2dUCg" targetNode="_NLy6AAo7EeWy16CUs2dUCg">
+          <visualPropertyManagers xmi:id="_UXdPcQo7EeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_UXdPcgo7EeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_m42Z8AouEeWy16CUs2dUCg" core="_m4zWoAouEeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_m42Z8QouEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_m42Z8gouEeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_m42Z8wouEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location X" value="-684"/>
+            <properties xmi:id="_m42Z9AouEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location Y" value="940"/>
+            <properties xmi:id="_q8WroAouEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_q8WroQouEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_Qxi4sAo7EeWy16CUs2dUCg" core="_QxiRoAo7EeWy16CUs2dUCg" targetNode="_NLy6AAo7EeWy16CUs2dUCg">
+          <visualPropertyManagers xmi:id="_Qxi4sQo7EeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_Qxi4sgo7EeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_viw2EAouEeWy16CUs2dUCg" core="_viskoAouEeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_viw2EQouEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_viw2EgouEeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_viw2EwouEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location X" value="-574"/>
+            <properties xmi:id="_viw2FAouEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location Y" value="997"/>
+            <properties xmi:id="_v8PGAAouEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_v8PGAQouEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_S_A10Ao7EeWy16CUs2dUCg" core="_S_AOwAo7EeWy16CUs2dUCg" targetNode="_NLy6AAo7EeWy16CUs2dUCg">
+          <visualPropertyManagers xmi:id="_S_A10Qo7EeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_S_A10go7EeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_b6xGUAovEeWy16CUs2dUCg" core="_b6v4MAovEeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_b6xtYAovEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_b6xtYQovEeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_b6xtYgovEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location X" value="-265"/>
+            <properties xmi:id="_b6xtYwovEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location Y" value="834"/>
+            <properties xmi:id="_cNlUoAovEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_cNlUoQovEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_1IW5sAo7EeWy16CUs2dUCg" core="_1IWSoAo7EeWy16CUs2dUCg" targetNode="_mX4H8Ao7EeWy16CUs2dUCg">
+          <visualPropertyManagers xmi:id="_1IW5sQo7EeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_1IW5sgo7EeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_e5p5UAovEeWy16CUs2dUCg" core="_e5ndEAovEeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_e5p5UQovEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_e5p5UgovEeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_e5p5UwovEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location X" value="-230"/>
+            <properties xmi:id="_e5p5VAovEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location Y" value="894"/>
+            <properties xmi:id="_fQIfoAovEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_fQIfoQovEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_2cSmwAo7EeWy16CUs2dUCg" core="_2cRYoAo7EeWy16CUs2dUCg" targetNode="_mX4H8Ao7EeWy16CUs2dUCg">
+          <visualPropertyManagers xmi:id="_2cSmwQo7EeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_2cSmwgo7EeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_i_KWIAovEeWy16CUs2dUCg" core="_i_Ig8AovEeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_i_KWIQovEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_i_KWIgovEeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_i_KWIwovEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location X" value="14"/>
+            <properties xmi:id="_i_KWJAovEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location Y" value="886"/>
+            <properties xmi:id="_jYI20AovEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_jYI20QovEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_3gmjcAo7EeWy16CUs2dUCg" core="_3gl8YAo7EeWy16CUs2dUCg" targetNode="_mX4H8Ao7EeWy16CUs2dUCg">
+          <visualPropertyManagers xmi:id="_3gmjcQo7EeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_3gmjcgo7EeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_q9pPoAovEeWy16CUs2dUCg" core="_q9k-MAovEeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_q9pPoQovEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_q9pPogovEeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_q9pPowovEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location X" value="-149"/>
+            <properties xmi:id="_q9pPpAovEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location Y" value="979"/>
+            <properties xmi:id="_ugCYUAovEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_ugCYUQovEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_21RugAo7EeWy16CUs2dUCg" core="_21QgYAo7EeWy16CUs2dUCg" targetNode="_mX4H8Ao7EeWy16CUs2dUCg">
+          <visualPropertyManagers xmi:id="_21RugQo7EeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_21Ruggo7EeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_5btbsAovEeWy16CUs2dUCg" core="_5bpKQAovEeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_5btbsQovEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_5btbsgovEeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_5btbswovEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location X" value="96"/>
+            <properties xmi:id="_5btbtAovEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location Y" value="963"/>
+            <properties xmi:id="_Pjvp0AowEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_Pjvp0QowEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_yach8Ao7EeWy16CUs2dUCg" core="_yab64Ao7EeWy16CUs2dUCg" targetNode="_uqmMEAo7EeWy16CUs2dUCg">
+          <visualPropertyManagers xmi:id="_yach8Qo7EeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_yach8go7EeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_5mQe0AovEeWy16CUs2dUCg" core="_5mNbgAovEeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_5mQe0QovEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_5mQe0govEeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_5mQe0wovEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location X" value="182"/>
+            <properties xmi:id="_5mQe1AovEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location Y" value="1025"/>
+            <properties xmi:id="_-L-FsAovEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_-L-FsQovEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_yt9T0wo7EeWy16CUs2dUCg" core="_yt9T0Ao7EeWy16CUs2dUCg" targetNode="_uqmMEAo7EeWy16CUs2dUCg">
+          <visualPropertyManagers xmi:id="_yt9T1Ao7EeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_yt9T1Qo7EeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_Lu9JkAowEeWy16CUs2dUCg" core="_Lu6GQAowEeWy16CUs2dUCg" targetConnections="_QCZ7wAowEeWy16CUs2dUCg _P9nToAo2EeWy16CUs2dUCg _QSzggwo2EeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_Lu9JkQowEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_Lu9JkgowEeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_Lu9JkwowEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location X" value="434"/>
+            <properties xmi:id="_Lu9JlAowEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location Y" value="799"/>
+            <properties xmi:id="_MJ284AowEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_MJ284QowEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_IIY2FAoxEeWy16CUs2dUCg" core="_IIY2EQoxEeWy16CUs2dUCg" targetNode="_naudcAZIEeWdeY9vI7ESCg">
+          <visualPropertyManagers xmi:id="_IIY2FQoxEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_IIY2FgoxEeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_R1fqAAowEeWy16CUs2dUCg" core="_R1bYkAowEeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_R1fqAQowEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_R1fqAgowEeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_R1fqAwowEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location X" value="300"/>
+            <properties xmi:id="_R1fqBAowEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location Y" value="894"/>
+            <properties xmi:id="_SK6gYAowEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_SK6gYQowEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_QSzggwo2EeWy16CUs2dUCg" core="_QSzggAo2EeWy16CUs2dUCg" targetNode="_Lu9JkAowEeWy16CUs2dUCg">
+          <visualPropertyManagers xmi:id="_QSzghAo2EeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_QSzghQo2EeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_U8Sb0AowEeWy16CUs2dUCg" core="_U8OxcAowEeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_U8Sb0QowEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_U8Sb0gowEeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_U8Sb0wowEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location X" value="416"/>
+            <properties xmi:id="_U8Sb1AowEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location Y" value="907"/>
+            <properties xmi:id="_VgQEgAowEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_VgQEgQowEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_P9nToAo2EeWy16CUs2dUCg" core="_P9mFgAo2EeWy16CUs2dUCg" targetNode="_Lu9JkAowEeWy16CUs2dUCg">
+          <visualPropertyManagers xmi:id="_P9nToQo2EeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_P9nTogo2EeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_OqbmwAoxEeWy16CUs2dUCg" core="_OqXVUAoxEeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_OqbmwQoxEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_OqbmwgoxEeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_OqbmwwoxEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location X" value="624"/>
+            <properties xmi:id="_OqbmxAoxEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location Y" value="1146"/>
+            <properties xmi:id="_PhH-MAoxEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_PhH-MQoxEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_VMMqoAoxEeWy16CUs2dUCg" core="_VMLcgAoxEeWy16CUs2dUCg" targetNode="_1MjrEAZHEeWdeY9vI7ESCg">
+          <visualPropertyManagers xmi:id="_VMMqoQoxEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_VMMqogoxEeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_PI32QAoxEeWy16CUs2dUCg" core="_PIyWsAoxEeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_PI32QQoxEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_PI32QgoxEeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_PI32QwoxEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location X" value="722"/>
+            <properties xmi:id="_PI32RAoxEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location Y" value="1101"/>
+            <properties xmi:id="_T0ssMAoxEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_T0ssMQoxEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_ViGpMAoxEeWy16CUs2dUCg" core="_ViGCIAoxEeWy16CUs2dUCg" targetNode="_1MjrEAZHEeWdeY9vI7ESCg">
+          <visualPropertyManagers xmi:id="_ViGpMQoxEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_ViGpMgoxEeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_r5pS8AoxEeWy16CUs2dUCg" core="_r5mPoAoxEeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_r5pS8QoxEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_r5pS8goxEeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_r5pS8woxEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location X" value="539"/>
+            <properties xmi:id="_r5pS9AoxEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location Y" value="1099"/>
+            <properties xmi:id="_sUHBYAoxEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_sUHBYQoxEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_xAFoUAoxEeWy16CUs2dUCg" core="_xAFBQAoxEeWy16CUs2dUCg" targetNode="_1MjrEAZHEeWdeY9vI7ESCg">
+          <visualPropertyManagers xmi:id="_xAFoUQoxEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_xAFoUgoxEeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_BIa90AoyEeWy16CUs2dUCg" core="_BIX6gAoyEeWy16CUs2dUCg" targetConnections="_rmLLEAo2EeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_BIa90QoyEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Hardgoal figure">
+          <propertyBunches xmi:id="_BIa90goyEeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_BIa90woyEeWy16CUs2dUCg" destination="Hardgoal figure" type="int" name="Location X" value="2024"/>
+            <properties xmi:id="_BIa91AoyEeWy16CUs2dUCg" destination="Hardgoal figure" type="int" name="Location Y" value="752"/>
+            <properties xmi:id="_BhF8gAoyEeWy16CUs2dUCg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_BhF8gQoyEeWy16CUs2dUCg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_BooleanDecLinkUI" xmi:id="_bux3wAo6EeWy16CUs2dUCg" core="_buxQsAo6EeWy16CUs2dUCg" targetNode="_VS29MAo6EeWy16CUs2dUCg">
+          <visualPropertyManagers xmi:id="_bux3wQo6EeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Decomposition connection">
+            <propertyBunches xmi:id="_bux3wgo6EeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_EZgUEAoyEeWy16CUs2dUCg" core="_EZcpsAoyEeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_EZgUEQoyEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_EZgUEgoyEeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_EZgUEwoyEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location X" value="2016"/>
+            <properties xmi:id="_EZgUFAoyEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location Y" value="822"/>
+            <properties xmi:id="_EtDiMAoyEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_EtEJQAoyEeWy16CUs2dUCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_rmLLEAo2EeWy16CUs2dUCg" core="_rmJV4Qo2EeWy16CUs2dUCg" targetNode="_BIa90AoyEeWy16CUs2dUCg">
+          <visualPropertyManagers xmi:id="_rmLLEQo2EeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_rmLLEgo2EeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_LWDvIAo1EeWy16CUs2dUCg" core="_LV-PkAo1EeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_LWDvIQo1EeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_LWDvIgo1EeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_LWDvIwo1EeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location X" value="-1067"/>
+            <properties xmi:id="_LWDvJAo1EeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location Y" value="1017"/>
+            <properties xmi:id="_LpjS4Ao1EeWy16CUs2dUCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_LpjS4Qo1EeWy16CUs2dUCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_8bxSYAo6EeWy16CUs2dUCg" core="_8bwrUAo6EeWy16CUs2dUCg" targetNode="_4NpFEAo6EeWy16CUs2dUCg">
+          <visualPropertyManagers xmi:id="_8bxSYQo6EeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_8bxSYgo6EeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_jDWq4Ao1EeWy16CUs2dUCg" core="_jDUOoAo1EeWy16CUs2dUCg" targetConnections="_qi4v0Ao7EeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_jDWq4Qo1EeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Hardgoal figure">
+          <propertyBunches xmi:id="_jDWq4go1EeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_jDWq4wo1EeWy16CUs2dUCg" destination="Hardgoal figure" type="int" name="Location X" value="75"/>
+            <properties xmi:id="_jDWq5Ao1EeWy16CUs2dUCg" destination="Hardgoal figure" type="int" name="Location Y" value="697"/>
+            <properties xmi:id="_jbQ0kAo1EeWy16CUs2dUCg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_jbQ0kQo1EeWy16CUs2dUCg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_BooleanDecLinkUI" xmi:id="_UPjC4Ao2EeWy16CUs2dUCg" core="_UPh0wAo2EeWy16CUs2dUCg" targetNode="_8poWEAZGEeWdeY9vI7ESCg">
+          <visualPropertyManagers xmi:id="_UPjC4Qo2EeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Decomposition connection">
+            <propertyBunches xmi:id="_UPjC4go2EeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.gendiagram:Comment" xmi:id="_0VqUgAlWEeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" text="Job : Assign > Execute > Gather Result&#xA;&#xA;Temos 3 filas:&#xA; -Jobs a serem executados,&#xA; - Instancias ready&#xA; - Execution queue&#xA;- Instances Unavailable">
+        <visualPropertyManagers xmi:id="_0VrioAlWEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Comment figure">
+          <propertyBunches xmi:id="_0VrioQlWEeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_0VrioglWEeWy16CUs2dUCg" destination="Comment figure" type="int" name="Location X" value="260"/>
+            <properties xmi:id="_0VriowlWEeWy16CUs2dUCg" destination="Comment figure" type="int" name="Location Y" value="1142"/>
+            <properties xmi:id="_0VripAlWEeWy16CUs2dUCg" destination="Comment figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_0VripQlWEeWy16CUs2dUCg" destination="Comment figure" type="int" name="Width" value="100"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_VS29MAo6EeWy16CUs2dUCg" core="_VS0g8Ao6EeWy16CUs2dUCg" targetConnections="_Zike4Ao6EeWy16CUs2dUCg _aLHsoAo6EeWy16CUs2dUCg _bux3wAo6EeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_VS29MQo6EeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Hardgoal figure">
+          <propertyBunches xmi:id="_VS3kQAo6EeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_VS3kQQo6EeWy16CUs2dUCg" destination="Hardgoal figure" type="int" name="Location X" value="1829"/>
+            <properties xmi:id="_VS3kQgo6EeWy16CUs2dUCg" destination="Hardgoal figure" type="int" name="Location Y" value="668"/>
+            <properties xmi:id="_Vn_fsAo6EeWy16CUs2dUCg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_Vn_fsQo6EeWy16CUs2dUCg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_BooleanDecLinkUI" xmi:id="_c2VVsAo6EeWy16CUs2dUCg" core="_c2TggAo6EeWy16CUs2dUCg" targetNode="_8poWEAZGEeWdeY9vI7ESCg">
+          <visualPropertyManagers xmi:id="_c2VVsQo6EeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Decomposition connection">
+            <propertyBunches xmi:id="_c2VVsgo6EeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_4NpFEAo6EeWy16CUs2dUCg" core="_4NlasAo6EeWy16CUs2dUCg" targetConnections="_8bxSYAo6EeWy16CUs2dUCg _809OcAo6EeWy16CUs2dUCg _9Q_DIAo6EeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_4NpFEQo6EeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_4NpFEgo6EeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_4NpFEwo6EeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location X" value="-850"/>
+            <properties xmi:id="_4NpFFAo6EeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location Y" value="934"/>
+            <properties xmi:id="_4mS1oAo6EeWy16CUs2dUCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_4mS1oQo6EeWy16CUs2dUCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_Qd-ccAo7EeWy16CUs2dUCg" core="_Qd9OUAo7EeWy16CUs2dUCg" targetNode="_NLy6AAo7EeWy16CUs2dUCg">
+          <visualPropertyManagers xmi:id="_Qd-ccQo7EeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_Qd-ccgo7EeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_7Ka1sAouEeWy16CUs2dUCg" core="_7KWkQAouEeWy16CUs2dUCg" targetConnections="_W0boMAo7EeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_7Ka1sQouEeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Hardgoal figure">
+          <propertyBunches xmi:id="_7Ka1sgouEeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_7Ka1swouEeWy16CUs2dUCg" destination="Hardgoal figure" type="int" name="Location X" value="-555"/>
+            <properties xmi:id="_7Ka1tAouEeWy16CUs2dUCg" destination="Hardgoal figure" type="int" name="Location Y" value="695"/>
+            <properties xmi:id="_7jNwMAouEeWy16CUs2dUCg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_7jNwMQouEeWy16CUs2dUCg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_BooleanDecLinkUI" xmi:id="_XmPR4Ao2EeWy16CUs2dUCg" core="_XmODwAo2EeWy16CUs2dUCg" targetNode="_8poWEAZGEeWdeY9vI7ESCg">
+          <visualPropertyManagers xmi:id="_XmPR4Qo2EeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Decomposition connection">
+            <propertyBunches xmi:id="_XmPR4go2EeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_NLy6AAo7EeWy16CUs2dUCg" core="_NLuokAo7EeWy16CUs2dUCg" targetConnections="_Qd-ccAo7EeWy16CUs2dUCg _Qxi4sAo7EeWy16CUs2dUCg _S_A10Ao7EeWy16CUs2dUCg _UXdPcAo7EeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_NLy6AQo7EeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_NLy6Ago7EeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_NLy6Awo7EeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location X" value="-615"/>
+            <properties xmi:id="_NLy6BAo7EeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location Y" value="795"/>
+            <properties xmi:id="_NpWYsAo7EeWy16CUs2dUCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_NpWYsQo7EeWy16CUs2dUCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_W0boMAo7EeWy16CUs2dUCg" core="_W0bBIQo7EeWy16CUs2dUCg" targetNode="_7Ka1sAouEeWy16CUs2dUCg">
+          <visualPropertyManagers xmi:id="_W0boMQo7EeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_W0boMgo7EeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_mX4H8Ao7EeWy16CUs2dUCg" core="_mX1EoAo7EeWy16CUs2dUCg" targetConnections="_1IW5sAo7EeWy16CUs2dUCg _2cSmwAo7EeWy16CUs2dUCg _21RugAo7EeWy16CUs2dUCg _3gmjcAo7EeWy16CUs2dUCg _dwgNAAo8EeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_mX4H8Qo7EeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_mX4H8go7EeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_mX4H8wo7EeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location X" value="39"/>
+            <properties xmi:id="_mX4H9Ao7EeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location Y" value="761"/>
+            <properties xmi:id="_mwli4Ao7EeWy16CUs2dUCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_mwli4Qo7EeWy16CUs2dUCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_qi4v0Ao7EeWy16CUs2dUCg" core="_qi26oQo7EeWy16CUs2dUCg" targetNode="_jDWq4Ao1EeWy16CUs2dUCg">
+          <visualPropertyManagers xmi:id="_qi4v0Qo7EeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_qi4v0go7EeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_IntentionalUI" xmi:id="_uqmMEAo7EeWy16CUs2dUCg" core="_uqjIwAo7EeWy16CUs2dUCg" targetConnections="_yach8Ao7EeWy16CUs2dUCg _yt9T0wo7EeWy16CUs2dUCg" container="_3ADecAZGEeWdeY9vI7ESCg" actorUI="_3ABpQAZGEeWdeY9vI7ESCg">
+        <visualPropertyManagers xmi:id="_uqmMEQo7EeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Plan figure">
+          <propertyBunches xmi:id="_uqmMEgo7EeWy16CUs2dUCg" type="Visual properties">
+            <properties xmi:id="_uqmMEwo7EeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location X" value="130"/>
+            <properties xmi:id="_uqmMFAo7EeWy16CUs2dUCg" destination="Plan figure" type="int" name="Location Y" value="889"/>
+            <properties xmi:id="_vCUIgAo7EeWy16CUs2dUCg" destination="Plan figure" type="int" name="Height" value="30"/>
+            <properties xmi:id="_vCUIgQo7EeWy16CUs2dUCg" destination="Plan figure" type="int" name="Width" value="50"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+        <sourceConnections xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_MeansEndUI" xmi:id="_dwgNAAo8EeWy16CUs2dUCg" core="_dwfl8Ao8EeWy16CUs2dUCg" targetNode="_mX4H8Ao7EeWy16CUs2dUCg">
+          <visualPropertyManagers xmi:id="_dwg0EAo8EeWy16CUs2dUCg" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Means-end connection">
+            <propertyBunches xmi:id="_dwg0EQo8EeWy16CUs2dUCg" type="Visual properties"/>
+          </visualPropertyManagers>
+        </sourceConnections>
+      </DiagramNodes>
+    </Diagram>
+    <Diagram xsi:type="it.itc.sra.taom4e.model.diagram.architecturaldiagram:ArchitecturalDiagram" xmi:id="_03usUAbQEeWpq4Igaj0i7Q" core="_2NMeIQZGEeWdeY9vI7ESCg" name="AD1" phase="AD" status="2">
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.architecturaldiagram:ArchD_ActorUI" xmi:id="_05vegAbQEeWpq4Igaj0i7Q" core="_2__0EAZGEeWdeY9vI7ESCg" moveIntentionalWithActor="true" baloonUI="_05yh0AbQEeWpq4Igaj0i7Q" squareBaloonUI="_052MMAbQEeWpq4Igaj0i7Q">
+        <visualPropertyManagers xmi:id="_05wFkAbQEeWpq4Igaj0i7Q" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Actor figure">
+          <propertyBunches xmi:id="_05wFkQbQEeWpq4Igaj0i7Q" type="Visual properties"/>
+        </visualPropertyManagers>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.mixeddiagram:MD_BaloonUI" xmi:id="_05yh0AbQEeWpq4Igaj0i7Q" core="_2__0EAZGEeWdeY9vI7ESCg" actorUI="_05vegAbQEeWpq4Igaj0i7Q">
+        <visualPropertyManagers xmi:id="_bZxOwAbREeWpq4Igaj0i7Q" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Baloon figure">
+          <propertyBunches xmi:id="_bZxOwQbREeWpq4Igaj0i7Q" type="Visual properties"/>
+        </visualPropertyManagers>
+      </DiagramNodes>
+      <DiagramNodes xsi:type="it.itc.sra.taom4e.model.diagram.architecturaldiagram:ArchD_BaloonUI" xmi:id="_052MMAbQEeWpq4Igaj0i7Q" core="_2__0EAZGEeWdeY9vI7ESCg" baloonOpen="true" generalActorUI="_05vegAbQEeWpq4Igaj0i7Q">
+        <visualPropertyManagers xmi:id="_052MMQbQEeWpq4Igaj0i7Q" linkedManagers="_2NNFMAZGEeWdeY9vI7ESCg" propertiesBunchType="Visual properties" destination="Square baloon figure">
+          <propertyBunches xmi:id="_052MMgbQEeWpq4Igaj0i7Q" type="Visual properties">
+            <properties xmi:id="_052MMwbQEeWpq4Igaj0i7Q" destination="Square baloon figure" type="int" name="Location X" value="80"/>
+            <properties xmi:id="_052MNAbQEeWpq4Igaj0i7Q" destination="Square baloon figure" type="int" name="Location Y" value="80"/>
+          </propertyBunches>
+        </visualPropertyManagers>
+      </DiagramNodes>
+    </Diagram>
+    <ProjectPropertyManager xmi:id="_2NNFMAZGEeWdeY9vI7ESCg">
+      <propertyBunches xmi:id="_2NNFMQZGEeWdeY9vI7ESCg" type="Visual properties">
+        <properties xmi:id="_2NNFMgZGEeWdeY9vI7ESCg" destination="Actor figure" type="RGB" name="Foreground color" value="0,0,0"/>
+        <properties xmi:id="_2NNFMwZGEeWdeY9vI7ESCg" destination="Actor figure" type="RGB" name="Background color" value="204,115,113"/>
+        <properties xmi:id="_2NNFNAZGEeWdeY9vI7ESCg" destination="Actor figure" type="RGB" name="System background color" value="255,181,5"/>
+        <properties xmi:id="_2NNFNQZGEeWdeY9vI7ESCg" destination="Actor figure" type="int" name="Line width" value="1"/>
+        <properties xmi:id="_2NNFNgZGEeWdeY9vI7ESCg" destination="Actor figure" type="RGB" name="Emphasize foreground color" value="0,0,0"/>
+        <properties xmi:id="_2NNFNwZGEeWdeY9vI7ESCg" destination="Actor figure" type="RGB" name="Emphasize background color" value="204,115,113"/>
+        <properties xmi:id="_2NNFOAZGEeWdeY9vI7ESCg" destination="Actor figure" type="RGB" name="System emphasize background color" value="255,181,5"/>
+        <properties xmi:id="_2NNFOQZGEeWdeY9vI7ESCg" destination="Actor figure" type="int" name="Emphasize line width" value="2"/>
+        <properties xmi:id="_2NNFOgZGEeWdeY9vI7ESCg" destination="Actor figure" type="int" name="Width" value="50"/>
+        <properties xmi:id="_2NNFOwZGEeWdeY9vI7ESCg" destination="Actor figure" type="int" name="Height" value="50"/>
+        <properties xmi:id="_2NNFPAZGEeWdeY9vI7ESCg" destination="Actor figure" type="int" name="Location X" value="50"/>
+        <properties xmi:id="_2NNFPQZGEeWdeY9vI7ESCg" destination="Actor figure" type="int" name="Location Y" value="50"/>
+        <properties xmi:id="_2NNFPgZGEeWdeY9vI7ESCg" destination="Actor figure" type="Font" name="Font" value="Arial,10,0"/>
+        <properties xmi:id="_2NNFPwZGEeWdeY9vI7ESCg" destination="Actor figure" type="RGB" name="Font color" value="0,0,0"/>
+        <properties xmi:id="_2NNFQAZGEeWdeY9vI7ESCg" destination="Actor figure" type="Font" name="Emphasize font" value="Arial,10,1"/>
+        <properties xmi:id="_2NNFQQZGEeWdeY9vI7ESCg" destination="Actor figure" type="RGB" name="Emphasize font color" value="0,0,0"/>
+        <properties xmi:id="_2NNFQgZGEeWdeY9vI7ESCg" destination="Role figure" type="RGB" name="Foreground color" value="0,0,0"/>
+        <properties xmi:id="_2NNFQwZGEeWdeY9vI7ESCg" destination="Role figure" type="RGB" name="Background color" value="170,64,61"/>
+        <properties xmi:id="_2NNFRAZGEeWdeY9vI7ESCg" destination="Role figure" type="RGB" name="System background color" value="255,181,5"/>
+        <properties xmi:id="_2NNFRQZGEeWdeY9vI7ESCg" destination="Role figure" type="int" name="Line width" value="1"/>
+        <properties xmi:id="_2NNFRgZGEeWdeY9vI7ESCg" destination="Role figure" type="RGB" name="Emphasize foreground color" value="0,0,0"/>
+        <properties xmi:id="_2NNFRwZGEeWdeY9vI7ESCg" destination="Role figure" type="RGB" name="Emphasize background color" value="170,64,61"/>
+        <properties xmi:id="_2NNFSAZGEeWdeY9vI7ESCg" destination="Role figure" type="RGB" name="System emphasize background color" value="255,181,5"/>
+        <properties xmi:id="_2NNFSQZGEeWdeY9vI7ESCg" destination="Role figure" type="int" name="Emphasize line width" value="2"/>
+        <properties xmi:id="_2NNFSgZGEeWdeY9vI7ESCg" destination="Role figure" type="int" name="Width" value="50"/>
+        <properties xmi:id="_2NNFSwZGEeWdeY9vI7ESCg" destination="Role figure" type="int" name="Height" value="50"/>
+        <properties xmi:id="_2NNFTAZGEeWdeY9vI7ESCg" destination="Role figure" type="int" name="Location X" value="50"/>
+        <properties xmi:id="_2NNFTQZGEeWdeY9vI7ESCg" destination="Role figure" type="int" name="Location Y" value="50"/>
+        <properties xmi:id="_2NNFTgZGEeWdeY9vI7ESCg" destination="Role figure" type="Font" name="Font" value="Arial,10,0"/>
+        <properties xmi:id="_2NNFTwZGEeWdeY9vI7ESCg" destination="Role figure" type="RGB" name="Font color" value="0,0,0"/>
+        <properties xmi:id="_2NNFUAZGEeWdeY9vI7ESCg" destination="Role figure" type="Font" name="Emphasize font" value="Arial,10,1"/>
+        <properties xmi:id="_2NNFUQZGEeWdeY9vI7ESCg" destination="Role figure" type="RGB" name="Emphasize font color" value="0,0,0"/>
+        <properties xmi:id="_2NNFUgZGEeWdeY9vI7ESCg" destination="Agent figure" type="RGB" name="Foreground color" value="0,0,0"/>
+        <properties xmi:id="_2NNFUwZGEeWdeY9vI7ESCg" destination="Agent figure" type="RGB" name="Background color" value="108,41,39"/>
+        <properties xmi:id="_2NNFVAZGEeWdeY9vI7ESCg" destination="Agent figure" type="RGB" name="System background color" value="255,181,5"/>
+        <properties xmi:id="_2NNFVQZGEeWdeY9vI7ESCg" destination="Agent figure" type="int" name="Line width" value="1"/>
+        <properties xmi:id="_2NNFVgZGEeWdeY9vI7ESCg" destination="Agent figure" type="RGB" name="Emphasize foreground color" value="0,0,0"/>
+        <properties xmi:id="_2NNFVwZGEeWdeY9vI7ESCg" destination="Agent figure" type="RGB" name="Emphasize background color" value="108,41,39"/>
+        <properties xmi:id="_2NNFWAZGEeWdeY9vI7ESCg" destination="Agent figure" type="RGB" name="System emphasize background color" value="255,181,5"/>
+        <properties xmi:id="_2NNFWQZGEeWdeY9vI7ESCg" destination="Agent figure" type="int" name="Emphasize line width" value="2"/>
+        <properties xmi:id="_2NNFWgZGEeWdeY9vI7ESCg" destination="Agent figure" type="int" name="Width" value="50"/>
+        <properties xmi:id="_2NNFWwZGEeWdeY9vI7ESCg" destination="Agent figure" type="int" name="Height" value="50"/>
+        <properties xmi:id="_2NNFXAZGEeWdeY9vI7ESCg" destination="Agent figure" type="int" name="Location X" value="50"/>
+        <properties xmi:id="_2NNFXQZGEeWdeY9vI7ESCg" destination="Agent figure" type="int" name="Location Y" value="50"/>
+        <properties xmi:id="_2NNFXgZGEeWdeY9vI7ESCg" destination="Agent figure" type="Font" name="Font" value="Arial,10,0"/>
+        <properties xmi:id="_2NNFXwZGEeWdeY9vI7ESCg" destination="Agent figure" type="RGB" name="Font color" value="0,0,0"/>
+        <properties xmi:id="_2NNFYAZGEeWdeY9vI7ESCg" destination="Agent figure" type="Font" name="Emphasize font" value="Arial,10,1"/>
+        <properties xmi:id="_2NNFYQZGEeWdeY9vI7ESCg" destination="Agent figure" type="RGB" name="Emphasize font color" value="0,0,0"/>
+        <properties xmi:id="_2NNFYgZGEeWdeY9vI7ESCg" destination="Position figure" type="RGB" name="Foreground color" value="0,0,0"/>
+        <properties xmi:id="_2NNFYwZGEeWdeY9vI7ESCg" destination="Position figure" type="RGB" name="Background color" value="238,207,207"/>
+        <properties xmi:id="_2NNFZAZGEeWdeY9vI7ESCg" destination="Position figure" type="RGB" name="System background color" value="255,181,5"/>
+        <properties xmi:id="_2NNFZQZGEeWdeY9vI7ESCg" destination="Position figure" type="int" name="Line width" value="1"/>
+        <properties xmi:id="_2NNFZgZGEeWdeY9vI7ESCg" destination="Position figure" type="RGB" name="Emphasize foreground color" value="0,0,0"/>
+        <properties xmi:id="_2NNFZwZGEeWdeY9vI7ESCg" destination="Position figure" type="RGB" name="Emphasize background color" value="238,207,207"/>
+        <properties xmi:id="_2NNFaAZGEeWdeY9vI7ESCg" destination="Position figure" type="RGB" name="System emphasize background color" value="255,181,5"/>
+        <properties xmi:id="_2NNFaQZGEeWdeY9vI7ESCg" destination="Position figure" type="int" name="Emphasize line width" value="2"/>
+        <properties xmi:id="_2NNFagZGEeWdeY9vI7ESCg" destination="Position figure" type="int" name="Width" value="50"/>
+        <properties xmi:id="_2NNFawZGEeWdeY9vI7ESCg" destination="Position figure" type="int" name="Height" value="50"/>
+        <properties xmi:id="_2NNFbAZGEeWdeY9vI7ESCg" destination="Position figure" type="int" name="Location X" value="50"/>
+        <properties xmi:id="_2NNFbQZGEeWdeY9vI7ESCg" destination="Position figure" type="int" name="Location Y" value="50"/>
+        <properties xmi:id="_2NNFbgZGEeWdeY9vI7ESCg" destination="Position figure" type="Font" name="Font" value="Arial,10,0"/>
+        <properties xmi:id="_2NNFbwZGEeWdeY9vI7ESCg" destination="Position figure" type="RGB" name="Font color" value="0,0,0"/>
+        <properties xmi:id="_2NNFcAZGEeWdeY9vI7ESCg" destination="Position figure" type="Font" name="Emphasize font" value="Arial,10,1"/>
+        <properties xmi:id="_2NNFcQZGEeWdeY9vI7ESCg" destination="Position figure" type="RGB" name="Emphasize font color" value="0,0,0"/>
+        <properties xmi:id="_2NNFcgZGEeWdeY9vI7ESCg" destination="Baloon figure" type="RGB" name="Foreground color" value="0,0,0"/>
+        <properties xmi:id="_2NNFcwZGEeWdeY9vI7ESCg" destination="Baloon figure" type="RGB" name="Background color" value="255,255,255"/>
+        <properties xmi:id="_2NNFdAZGEeWdeY9vI7ESCg" destination="Baloon figure" type="int" name="Line width" value="1"/>
+        <properties xmi:id="_2NNFdQZGEeWdeY9vI7ESCg" destination="Baloon figure" type="int" name="Line style" value="2"/>
+        <properties xmi:id="_2NNFdgZGEeWdeY9vI7ESCg" destination="Baloon figure" type="RGB" name="Emphasize foreground color" value="0,0,0"/>
+        <properties xmi:id="_2NNFdwZGEeWdeY9vI7ESCg" destination="Baloon figure" type="RGB" name="Emphasize background color" value="230,230,230"/>
+        <properties xmi:id="_2NNFeAZGEeWdeY9vI7ESCg" destination="Baloon figure" type="int" name="Emphasize line width" value="1"/>
+        <properties xmi:id="_2NNFeQZGEeWdeY9vI7ESCg" destination="Baloon figure" type="int" name="Emphasize line style" value="2"/>
+        <properties xmi:id="_2NNFegZGEeWdeY9vI7ESCg" destination="Baloon figure" type="int" name="Width" value="200"/>
+        <properties xmi:id="_2NNFewZGEeWdeY9vI7ESCg" destination="Baloon figure" type="int" name="Height" value="200"/>
+        <properties xmi:id="_2NNFfAZGEeWdeY9vI7ESCg" destination="Baloon figure" type="int" name="Location X" value="70"/>
+        <properties xmi:id="_2NNFfQZGEeWdeY9vI7ESCg" destination="Baloon figure" type="int" name="Location Y" value="70"/>
+        <properties xmi:id="_2NNFfgZGEeWdeY9vI7ESCg" destination="Square baloon figure" type="RGB" name="Foreground color" value="0,0,0"/>
+        <properties xmi:id="_2NNFfwZGEeWdeY9vI7ESCg" destination="Square baloon figure" type="RGB" name="Background color" value="255,255,255"/>
+        <properties xmi:id="_2NNFgAZGEeWdeY9vI7ESCg" destination="Square baloon figure" type="int" name="Line width" value="1"/>
+        <properties xmi:id="_2NNFgQZGEeWdeY9vI7ESCg" destination="Square baloon figure" type="int" name="Line style" value="2"/>
+        <properties xmi:id="_2NNFggZGEeWdeY9vI7ESCg" destination="Square baloon figure" type="RGB" name="Emphasize foreground color" value="0,0,0"/>
+        <properties xmi:id="_2NNFgwZGEeWdeY9vI7ESCg" destination="Square baloon figure" type="RGB" name="Emphasize background color" value="230,230,230"/>
+        <properties xmi:id="_2NNFhAZGEeWdeY9vI7ESCg" destination="Square baloon figure" type="int" name="Emphasize line width" value="1"/>
+        <properties xmi:id="_2NNFhQZGEeWdeY9vI7ESCg" destination="Square baloon figure" type="int" name="Emphasize line style" value="2"/>
+        <properties xmi:id="_2NNFhgZGEeWdeY9vI7ESCg" destination="Square baloon figure" type="int" name="Width" value="200"/>
+        <properties xmi:id="_2NNFhwZGEeWdeY9vI7ESCg" destination="Square baloon figure" type="int" name="Height" value="200"/>
+        <properties xmi:id="_2NNFiAZGEeWdeY9vI7ESCg" destination="Square baloon figure" type="int" name="Location X" value="0"/>
+        <properties xmi:id="_2NNFiQZGEeWdeY9vI7ESCg" destination="Square baloon figure" type="int" name="Location Y" value="0"/>
+        <properties xmi:id="_2NNFigZGEeWdeY9vI7ESCg" destination="Hardgoal figure" type="RGB" name="Foreground color" value="0,0,0"/>
+        <properties xmi:id="_2NNFiwZGEeWdeY9vI7ESCg" destination="Hardgoal figure" type="RGB" name="Background color" value="120,152,101"/>
+        <properties xmi:id="_2NNFjAZGEeWdeY9vI7ESCg" destination="Hardgoal figure" type="int" name="Line width" value="1"/>
+        <properties xmi:id="_2NNFjQZGEeWdeY9vI7ESCg" destination="Hardgoal figure" type="RGB" name="Emphasize foreground color" value="0,0,0"/>
+        <properties xmi:id="_2NNFjgZGEeWdeY9vI7ESCg" destination="Hardgoal figure" type="RGB" name="Emphasize background color" value="120,152,101"/>
+        <properties xmi:id="_2NNFjwZGEeWdeY9vI7ESCg" destination="Hardgoal figure" type="int" name="Emphasize line width" value="2"/>
+        <properties xmi:id="_2NNFkAZGEeWdeY9vI7ESCg" destination="Hardgoal figure" type="int" name="Width" value="50"/>
+        <properties xmi:id="_2NNFkQZGEeWdeY9vI7ESCg" destination="Hardgoal figure" type="int" name="Height" value="30"/>
+        <properties xmi:id="_2NNFkgZGEeWdeY9vI7ESCg" destination="Hardgoal figure" type="int" name="Location X" value="0"/>
+        <properties xmi:id="_2NNFkwZGEeWdeY9vI7ESCg" destination="Hardgoal figure" type="int" name="Location Y" value="0"/>
+        <properties xmi:id="_2NNFlAZGEeWdeY9vI7ESCg" destination="Hardgoal figure" type="Font" name="Font" value="Arial,10,0"/>
+        <properties xmi:id="_2NNFlQZGEeWdeY9vI7ESCg" destination="Hardgoal figure" type="RGB" name="Font color" value="0,0,0"/>
+        <properties xmi:id="_2NNFlgZGEeWdeY9vI7ESCg" destination="Hardgoal figure" type="Font" name="Emphasize font" value="Arial,10,1"/>
+        <properties xmi:id="_2NNFlwZGEeWdeY9vI7ESCg" destination="Hardgoal figure" type="RGB" name="Emphasize font color" value="0,0,0"/>
+        <properties xmi:id="_2NNFmAZGEeWdeY9vI7ESCg" destination="Softgoal figure" type="RGB" name="Foreground color" value="0,0,0"/>
+        <properties xmi:id="_2NNFmQZGEeWdeY9vI7ESCg" destination="Softgoal figure" type="RGB" name="Background color" value="200,198,151"/>
+        <properties xmi:id="_2NNFmgZGEeWdeY9vI7ESCg" destination="Softgoal figure" type="int" name="Line width" value="1"/>
+        <properties xmi:id="_2NNFmwZGEeWdeY9vI7ESCg" destination="Softgoal figure" type="RGB" name="Emphasize foreground color" value="0,0,0"/>
+        <properties xmi:id="_2NNFnAZGEeWdeY9vI7ESCg" destination="Softgoal figure" type="RGB" name="Emphasize background color" value="200,198,151"/>
+        <properties xmi:id="_2NNFnQZGEeWdeY9vI7ESCg" destination="Softgoal figure" type="int" name="Emphasize line width" value="2"/>
+        <properties xmi:id="_2NNFngZGEeWdeY9vI7ESCg" destination="Softgoal figure" type="int" name="Width" value="50"/>
+        <properties xmi:id="_2NNFnwZGEeWdeY9vI7ESCg" destination="Softgoal figure" type="int" name="Height" value="30"/>
+        <properties xmi:id="_2NNFoAZGEeWdeY9vI7ESCg" destination="Softgoal figure" type="int" name="Location X" value="0"/>
+        <properties xmi:id="_2NNFoQZGEeWdeY9vI7ESCg" destination="Softgoal figure" type="int" name="Location Y" value="0"/>
+        <properties xmi:id="_2NNFogZGEeWdeY9vI7ESCg" destination="Softgoal figure" type="Font" name="Font" value="Arial,10,0"/>
+        <properties xmi:id="_2NNFowZGEeWdeY9vI7ESCg" destination="Softgoal figure" type="RGB" name="Font color" value="0,0,0"/>
+        <properties xmi:id="_2NNFpAZGEeWdeY9vI7ESCg" destination="Softgoal figure" type="Font" name="Emphasize font" value="Arial,10,1"/>
+        <properties xmi:id="_2NNFpQZGEeWdeY9vI7ESCg" destination="Softgoal figure" type="RGB" name="Emphasize font color" value="0,0,0"/>
+        <properties xmi:id="_2NNFpgZGEeWdeY9vI7ESCg" destination="Plan figure" type="RGB" name="Foreground color" value="0,0,0"/>
+        <properties xmi:id="_2NNFpwZGEeWdeY9vI7ESCg" destination="Plan figure" type="RGB" name="Background color" value="147,170,204"/>
+        <properties xmi:id="_2NNFqAZGEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Line width" value="1"/>
+        <properties xmi:id="_2NNFqQZGEeWdeY9vI7ESCg" destination="Plan figure" type="RGB" name="Emphasize foreground color" value="0,0,0"/>
+        <properties xmi:id="_2NNFqgZGEeWdeY9vI7ESCg" destination="Plan figure" type="RGB" name="Emphasize background color" value="147,170,204"/>
+        <properties xmi:id="_2NNFqwZGEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Emphasize line width" value="2"/>
+        <properties xmi:id="_2NNFrAZGEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Width" value="50"/>
+        <properties xmi:id="_2NNFrQZGEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Height" value="30"/>
+        <properties xmi:id="_2NNFrgZGEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Location X" value="0"/>
+        <properties xmi:id="_2NNFrwZGEeWdeY9vI7ESCg" destination="Plan figure" type="int" name="Location Y" value="0"/>
+        <properties xmi:id="_2NNFsAZGEeWdeY9vI7ESCg" destination="Plan figure" type="Font" name="Font" value="Arial,10,0"/>
+        <properties xmi:id="_2NNFsQZGEeWdeY9vI7ESCg" destination="Plan figure" type="RGB" name="Font color" value="0,0,0"/>
+        <properties xmi:id="_2NNFsgZGEeWdeY9vI7ESCg" destination="Plan figure" type="Font" name="Emphasize font" value="Arial,10,1"/>
+        <properties xmi:id="_2NNFswZGEeWdeY9vI7ESCg" destination="Plan figure" type="RGB" name="Emphasize font color" value="0,0,0"/>
+        <properties xmi:id="_2NNFtAZGEeWdeY9vI7ESCg" destination="Resource figure" type="RGB" name="Foreground color" value="0,0,0"/>
+        <properties xmi:id="_2NNFtQZGEeWdeY9vI7ESCg" destination="Resource figure" type="RGB" name="Background color" value="190,146,205"/>
+        <properties xmi:id="_2NNFtgZGEeWdeY9vI7ESCg" destination="Resource figure" type="int" name="Line width" value="1"/>
+        <properties xmi:id="_2NNFtwZGEeWdeY9vI7ESCg" destination="Resource figure" type="RGB" name="Emphasize foreground color" value="0,0,0"/>
+        <properties xmi:id="_2NNFuAZGEeWdeY9vI7ESCg" destination="Resource figure" type="RGB" name="Emphasize background color" value="190,146,205"/>
+        <properties xmi:id="_2NNFuQZGEeWdeY9vI7ESCg" destination="Resource figure" type="int" name="Emphasize line width" value="2"/>
+        <properties xmi:id="_2NNFugZGEeWdeY9vI7ESCg" destination="Resource figure" type="int" name="Width" value="50"/>
+        <properties xmi:id="_2NNFuwZGEeWdeY9vI7ESCg" destination="Resource figure" type="int" name="Height" value="30"/>
+        <properties xmi:id="_2NNFvAZGEeWdeY9vI7ESCg" destination="Resource figure" type="int" name="Location X" value="0"/>
+        <properties xmi:id="_2NNFvQZGEeWdeY9vI7ESCg" destination="Resource figure" type="int" name="Location Y" value="0"/>
+        <properties xmi:id="_2NNFvgZGEeWdeY9vI7ESCg" destination="Resource figure" type="Font" name="Font" value="Arial,10,0"/>
+        <properties xmi:id="_2NNFvwZGEeWdeY9vI7ESCg" destination="Resource figure" type="RGB" name="Font color" value="0,0,0"/>
+        <properties xmi:id="_2NNFwAZGEeWdeY9vI7ESCg" destination="Resource figure" type="Font" name="Emphasize font" value="Arial,10,1"/>
+        <properties xmi:id="_2NNFwQZGEeWdeY9vI7ESCg" destination="Resource figure" type="RGB" name="Emphasize font color" value="0,0,0"/>
+        <properties xmi:id="_2NNFwgZGEeWdeY9vI7ESCg" destination="Comment figure" type="RGB" name="Foreground color" value="0,0,0"/>
+        <properties xmi:id="_2NNFwwZGEeWdeY9vI7ESCg" destination="Comment figure" type="RGB" name="Background color" value="255,255,192"/>
+        <properties xmi:id="_2NNFxAZGEeWdeY9vI7ESCg" destination="Comment figure" type="int" name="Line width" value="1"/>
+        <properties xmi:id="_2NNFxQZGEeWdeY9vI7ESCg" destination="Comment figure" type="int" name="Width" value="100"/>
+        <properties xmi:id="_2NNFxgZGEeWdeY9vI7ESCg" destination="Comment figure" type="int" name="Height" value="30"/>
+        <properties xmi:id="_2NNFxwZGEeWdeY9vI7ESCg" destination="Comment figure" type="int" name="Location X" value="0"/>
+        <properties xmi:id="_2NNFyAZGEeWdeY9vI7ESCg" destination="Comment figure" type="int" name="Location Y" value="0"/>
+        <properties xmi:id="_2NNFyQZGEeWdeY9vI7ESCg" destination="Comment figure" type="Font" name="Font" value="Arial,10,0"/>
+        <properties xmi:id="_2NNFygZGEeWdeY9vI7ESCg" destination="Comment figure" type="RGB" name="Font color" value="0,0,0"/>
+        <properties xmi:id="_2NNFywZGEeWdeY9vI7ESCg" destination="Dependency connection" type="RGB" name="Foreground color" value="0,0,0"/>
+        <properties xmi:id="_2NNFzAZGEeWdeY9vI7ESCg" destination="Dependency connection" type="int" name="Line style" value="1"/>
+        <properties xmi:id="_2NNFzQZGEeWdeY9vI7ESCg" destination="Dependency connection" type="int" name="Line width" value="1"/>
+        <properties xmi:id="_2NNFzgZGEeWdeY9vI7ESCg" destination="Dependency connection" type="RGB" name="Emphasize foreground color" value="0,0,0"/>
+        <properties xmi:id="_2NNFzwZGEeWdeY9vI7ESCg" destination="Dependency connection" type="int" name="Emphasize line style" value="1"/>
+        <properties xmi:id="_2NNF0AZGEeWdeY9vI7ESCg" destination="Dependency connection" type="int" name="Emphasize line width" value="2"/>
+        <properties xmi:id="_2NNF0QZGEeWdeY9vI7ESCg" destination="Why connection" type="RGB" name="Foreground color" value="0,0,0"/>
+        <properties xmi:id="_2NNF0gZGEeWdeY9vI7ESCg" destination="Why connection" type="int" name="Line style" value="1"/>
+        <properties xmi:id="_2NNF0wZGEeWdeY9vI7ESCg" destination="Why connection" type="int" name="Line width" value="1"/>
+        <properties xmi:id="_2NNF1AZGEeWdeY9vI7ESCg" destination="Why connection" type="RGB" name="Emphasize foreground color" value="0,0,0"/>
+        <properties xmi:id="_2NNF1QZGEeWdeY9vI7ESCg" destination="Why connection" type="int" name="Emphasize line style" value="1"/>
+        <properties xmi:id="_2NNF1gZGEeWdeY9vI7ESCg" destination="Why connection" type="int" name="Emphasize line width" value="2"/>
+        <properties xmi:id="_2NNF1wZGEeWdeY9vI7ESCg" destination="Why connection" type="Font" name="Font" value="Arial,8,0"/>
+        <properties xmi:id="_2NNF2AZGEeWdeY9vI7ESCg" destination="Why connection" type="RGB" name="Font color" value="0,0,0"/>
+        <properties xmi:id="_2NNF2QZGEeWdeY9vI7ESCg" destination="Why connection" type="Font" name="Emphasize font" value="Arial,8,1"/>
+        <properties xmi:id="_2NNF2gZGEeWdeY9vI7ESCg" destination="Why connection" type="RGB" name="Emphasize font color" value="0,0,0"/>
+        <properties xmi:id="_2NNF2wZGEeWdeY9vI7ESCg" destination="Decomposition connection" type="RGB" name="Foreground color" value="0,0,0"/>
+        <properties xmi:id="_2NNF3AZGEeWdeY9vI7ESCg" destination="Decomposition connection" type="RGB" name="Background color" value="255,255,255"/>
+        <properties xmi:id="_2NNF3QZGEeWdeY9vI7ESCg" destination="Decomposition connection" type="int" name="Line style" value="1"/>
+        <properties xmi:id="_2NNF3gZGEeWdeY9vI7ESCg" destination="Decomposition connection" type="int" name="Line width" value="1"/>
+        <properties xmi:id="_2NNF3wZGEeWdeY9vI7ESCg" destination="Decomposition connection" type="RGB" name="Emphasize foreground color" value="0,0,0"/>
+        <properties xmi:id="_2NNF4AZGEeWdeY9vI7ESCg" destination="Decomposition connection" type="RGB" name="Emphasize background color" value="255,255,255"/>
+        <properties xmi:id="_2NNF4QZGEeWdeY9vI7ESCg" destination="Decomposition connection" type="int" name="Emphasize line style" value="1"/>
+        <properties xmi:id="_2NNF4gZGEeWdeY9vI7ESCg" destination="Decomposition connection" type="int" name="Emphasize line width" value="2"/>
+        <properties xmi:id="_2NNF4wZGEeWdeY9vI7ESCg" destination="Contribution connection" type="RGB" name="Foreground color" value="0,0,0"/>
+        <properties xmi:id="_2NNF5AZGEeWdeY9vI7ESCg" destination="Contribution connection" type="int" name="Line style" value="1"/>
+        <properties xmi:id="_2NNF5QZGEeWdeY9vI7ESCg" destination="Contribution connection" type="int" name="Line width" value="1"/>
+        <properties xmi:id="_2NNF5gZGEeWdeY9vI7ESCg" destination="Contribution connection" type="RGB" name="Emphasize foreground color" value="0,0,0"/>
+        <properties xmi:id="_2NNF5wZGEeWdeY9vI7ESCg" destination="Contribution connection" type="int" name="Emphasize line style" value="1"/>
+        <properties xmi:id="_2NNF6AZGEeWdeY9vI7ESCg" destination="Contribution connection" type="int" name="Emphasize line width" value="2"/>
+        <properties xmi:id="_2NNF6QZGEeWdeY9vI7ESCg" destination="Contribution connection" type="Font" name="Font" value="Arial,10,0"/>
+        <properties xmi:id="_2NNF6gZGEeWdeY9vI7ESCg" destination="Contribution connection" type="RGB" name="Font color" value="0,0,0"/>
+        <properties xmi:id="_2NNF6wZGEeWdeY9vI7ESCg" destination="Contribution connection" type="Font" name="Emphasize font" value="Arial,12,1"/>
+        <properties xmi:id="_2NNF7AZGEeWdeY9vI7ESCg" destination="Contribution connection" type="RGB" name="Emphasize font color" value="0,0,0"/>
+        <properties xmi:id="_2NNF7QZGEeWdeY9vI7ESCg" destination="Means-end connection" type="RGB" name="Foreground color" value="0,0,0"/>
+        <properties xmi:id="_2NNF7gZGEeWdeY9vI7ESCg" destination="Means-end connection" type="int" name="Line style" value="1"/>
+        <properties xmi:id="_2NNF7wZGEeWdeY9vI7ESCg" destination="Means-end connection" type="int" name="Line width" value="1"/>
+        <properties xmi:id="_2NNF8AZGEeWdeY9vI7ESCg" destination="Means-end connection" type="RGB" name="Emphasize foreground color" value="0,0,0"/>
+        <properties xmi:id="_2NNF8QZGEeWdeY9vI7ESCg" destination="Means-end connection" type="int" name="Emphasize line style" value="1"/>
+        <properties xmi:id="_2NNF8gZGEeWdeY9vI7ESCg" destination="Means-end connection" type="int" name="Emphasize line width" value="2"/>
+      </propertyBunches>
+    </ProjectPropertyManager>
+  </it.itc.sra.taom4e.model.project:Project>
+  <it.itc.sra.taom4e.model.core.informalcore.formalcore:FormalBusinessModel xmi:id="_2NMeIQZGEeWdeY9vI7ESCg">
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FActor" xmi:id="_2__0EAZGEeWdeY9vI7ESCg" name="Cloud &#xA;Workflow&#xA; Runtime" isSystem="true" ownedElements="_8plSwAZGEeWdeY9vI7ESCg _KhyYsAZHEeWdeY9vI7ESCg _Si0P4QZHEeWdeY9vI7ESCg _1Mh14AZHEeWdeY9vI7ESCg _5LTYkAZHEeWdeY9vI7ESCg _EVKB4AZIEeWdeY9vI7ESCg _natPUAZIEeWdeY9vI7ESCg _yuDL0AZIEeWdeY9vI7ESCg _3AU5UAZIEeWdeY9vI7ESCg _hpx9EAZJEeWdeY9vI7ESCg _a5opgAZKEeWdeY9vI7ESCg _l-EAQAZKEeWdeY9vI7ESCg __DO4cAZLEeWdeY9vI7ESCg _2ObWUAbMEeWdeY9vI7ESCg _8bQsAAbMEeWdeY9vI7ESCg _E8hicAbNEeWdeY9vI7ESCg _FdHuEAbNEeWdeY9vI7ESCg _H0CVkAbiEeWPhYNXQlk00w _ber7QAbiEeWPhYNXQlk00w _h3NfcAiWEeWy16CUs2dUCg _ieVw4AiWEeWy16CUs2dUCg _A5PiMAiZEeWy16CUs2dUCg _KzgL4AiZEeWy16CUs2dUCg _LUXdQAiZEeWy16CUs2dUCg _S1RC4AiZEeWy16CUs2dUCg _g0R7cAiZEeWy16CUs2dUCg _pEnZ8AiZEeWy16CUs2dUCg _pf19YAiZEeWy16CUs2dUCg _1wjOIAimEeWy16CUs2dUCg _-WuZwQimEeWy16CUs2dUCg _EXJEEAinEeWy16CUs2dUCg _LUzZwAinEeWy16CUs2dUCg _bZ-GgAinEeWy16CUs2dUCg _oydxoAinEeWy16CUs2dUCg _ps6nsAinEeWy16CUs2dUCg _qQfO0AinEeWy16CUs2dUCg _0JsIkAinEeWy16CUs2dUCg _445CoAinEeWy16CUs2dUCg _5PHKQAinEeWy16CUs2dUCg _8tLzoQinEeWy16CUs2dUCg _-uDfMAinEeWy16CUs2dUCg _DjpVIAioEeWy16CUs2dUCg _EM5GcAioEeWy16CUs2dUCg _HVufoQioEeWy16CUs2dUCg _gZoB8AioEeWy16CUs2dUCg _m8sGUAioEeWy16CUs2dUCg _dI1BgAlWEeWy16CUs2dUCg _R5HV4AlYEeWy16CUs2dUCg _-1zXwAotEeWy16CUs2dUCg _HDvCgAouEeWy16CUs2dUCg _LTBGYAouEeWy16CUs2dUCg _VNnHQAouEeWy16CUs2dUCg _m4zWoAouEeWy16CUs2dUCg _viskoAouEeWy16CUs2dUCg _7KWkQAouEeWy16CUs2dUCg _KjZx4AovEeWy16CUs2dUCg _b6v4MAovEeWy16CUs2dUCg _e5ndEAovEeWy16CUs2dUCg _i_Ig8AovEeWy16CUs2dUCg _laNcQAovEeWy16CUs2dUCg _q9k-MAovEeWy16CUs2dUCg _1rUTQAovEeWy16CUs2dUCg _5bpKQAovEeWy16CUs2dUCg _5mNbgAovEeWy16CUs2dUCg _Lu6GQAowEeWy16CUs2dUCg _QCZUsAowEeWy16CUs2dUCg _R1bYkAowEeWy16CUs2dUCg _U8OxcAowEeWy16CUs2dUCg _IIY2EQoxEeWy16CUs2dUCg _OqXVUAoxEeWy16CUs2dUCg _PIyWsAoxEeWy16CUs2dUCg _VMLcgAoxEeWy16CUs2dUCg _ViGCIAoxEeWy16CUs2dUCg _r5mPoAoxEeWy16CUs2dUCg _xAFBQAoxEeWy16CUs2dUCg _BIX6gAoyEeWy16CUs2dUCg _EZcpsAoyEeWy16CUs2dUCg _23D7YQo0EeWy16CUs2dUCg _LV-PkAo1EeWy16CUs2dUCg _jDUOoAo1EeWy16CUs2dUCg _LQL7MAo2EeWy16CUs2dUCg _P9mFgAo2EeWy16CUs2dUCg _QSzggAo2EeWy16CUs2dUCg _mX-n4Ao2EeWy16CUs2dUCg _rmJV4Qo2EeWy16CUs2dUCg _VS0g8Ao6EeWy16CUs2dUCg _ZiipsAo6EeWy16CUs2dUCg _4NlasAo6EeWy16CUs2dUCg _8bwrUAo6EeWy16CUs2dUCg _808AUAo6EeWy16CUs2dUCg _9Q-cEAo6EeWy16CUs2dUCg _NLuokAo7EeWy16CUs2dUCg _Qd9OUAo7EeWy16CUs2dUCg _QxiRoAo7EeWy16CUs2dUCg _S_AOwAo7EeWy16CUs2dUCg _UXcoYAo7EeWy16CUs2dUCg _W0bBIQo7EeWy16CUs2dUCg _mX1EoAo7EeWy16CUs2dUCg _qi26oQo7EeWy16CUs2dUCg _uqjIwAo7EeWy16CUs2dUCg _yab64Ao7EeWy16CUs2dUCg _yt9T0Ao7EeWy16CUs2dUCg _1IWSoAo7EeWy16CUs2dUCg _2cRYoAo7EeWy16CUs2dUCg _21QgYAo7EeWy16CUs2dUCg _3gl8YAo7EeWy16CUs2dUCg _7eq7gQo7EeWy16CUs2dUCg _dwfl8Ao8EeWy16CUs2dUCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_8plSwAZGEeWdeY9vI7ESCg" name="G0: Workflow &#xA;Execution result&#xA;is Obtained&#xA;[G1#G2#G3#G4]" incomingRelations="_Si0P4QZHEeWdeY9vI7ESCg" outcomingRelations="_hpx9EAZJEeWdeY9vI7ESCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_KhyYsAZHEeWdeY9vI7ESCg" name="T2.1:Assign each  job &#xA;to a configured instance&#xA;[T2.11;T2.12]" incomingRelations="_EVKB4AZIEeWdeY9vI7ESCg _m8sGUAioEeWy16CUs2dUCg" outcomingRelations="_Si0P4QZHEeWdeY9vI7ESCg _DjpVIAioEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_1Mh14AZHEeWdeY9vI7ESCg" name="T1.2: Configure a&#xA;instance" incomingRelations="_VMLcgAoxEeWy16CUs2dUCg _ViGCIAoxEeWy16CUs2dUCg _xAFBQAoxEeWy16CUs2dUCg" outcomingRelations="_ieVw4AiWEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_5LTYkAZHEeWdeY9vI7ESCg" name="T2.12: Assign &#xA;job to an instance" outcomingRelations="_EVKB4AZIEeWdeY9vI7ESCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_natPUAZIEeWdeY9vI7ESCg" name="G1:Instances are &#xA;configured" incomingRelations="_hpykIQZJEeWdeY9vI7ESCg _IIY2EQoxEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_yuDL0AZIEeWdeY9vI7ESCg" name="G2: Jobs are &#xA;Executed" incomingRelations="_HVufoQioEeWy16CUs2dUCg _ZijQwQo6EeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_3AU5UAZIEeWdeY9vI7ESCg" name="T2.2:Gather each&#xA;job result&#xA;[T2.21;T2.22;T2.23]" incomingRelations="_E8hicAbNEeWdeY9vI7ESCg _FdHuEAbNEeWdeY9vI7ESCg _R5HV4AlYEeWy16CUs2dUCg" outcomingRelations="_EM5GcAioEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_a5opgAZKEeWdeY9vI7ESCg" name="T1.1:Request &#xA;instance creation" outcomingRelations="_h3NfcAiWEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_l-EAQAZKEeWdeY9vI7ESCg" name="T1:Configure &#xA;each Instance&#xA;[T1.1;T1.2]" incomingRelations="_h3NfcAiWEeWy16CUs2dUCg _ieVw4AiWEeWy16CUs2dUCg" outcomingRelations="_QCZUsAowEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="__DO4cAZLEeWdeY9vI7ESCg" name="T3.1:Merge&#xA;results" outcomingRelations="_5PHKQAinEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_2ObWUAbMEeWdeY9vI7ESCg" name="T2.22:Get job&#xA;result" outcomingRelations="_E8hicAbNEeWdeY9vI7ESCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_8bQsAAbMEeWdeY9vI7ESCg" name="T2.23:Return &#xA;instance to pool" outcomingRelations="_FdHuEAbNEeWdeY9vI7ESCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_H0CVkAbiEeWPhYNXQlk00w" name="G3: Jobs results  are &#xA;merged and response&#xA;is sent" incomingRelations="_8tLzoQinEeWy16CUs2dUCg _aLHFkAo6EeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_ber7QAbiEeWPhYNXQlk00w" name="T3.2:Send &#xA;response" outcomingRelations="_445CoAinEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_A5PiMAiZEeWy16CUs2dUCg" name="G4: Instances &#xA;unavailable&#xA;are recovered" incomingRelations="_Je-B4AiZEeWy16CUs2dUCg _-WuZwQimEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_KzgL4AiZEeWy16CUs2dUCg" name="T4.21: Recover&#xA;with Restart" outcomingRelations="_ps6nsAinEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_LUXdQAiZEeWy16CUs2dUCg" name="T4.221: Dispose&#xA; fail Instance " outcomingRelations="_pf19YAiZEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_S1RC4AiZEeWy16CUs2dUCg" name="T4.22: Dispose and&#xA;Create new&#xA;[T4.221;T4.222]" incomingRelations="_pEnZ8AiZEeWy16CUs2dUCg _pf19YAiZEeWy16CUs2dUCg" outcomingRelations="_qQfO0AinEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_g0R7cAiZEeWy16CUs2dUCg" name="T4.222: Recreate&#xA;Instance" outcomingRelations="_pEnZ8AiZEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_1wjOIAimEeWy16CUs2dUCg" name="T4: Recover Instances &#xA;that Failed&#xA;[T4.1;T4.2]" incomingRelations="_LUzZwAinEeWy16CUs2dUCg _oydxoAinEeWy16CUs2dUCg" outcomingRelations="_-WuZwQimEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_EXJEEAinEeWy16CUs2dUCg" name="T4.1:Identify instance&#xA; failure" outcomingRelations="_LUzZwAinEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_bZ-GgAinEeWy16CUs2dUCg" name="T4.2: Recover Instance&#xA;[try(T4.21%3)?skip:(T4.22)]" incomingRelations="_ps6nsAinEeWy16CUs2dUCg _qQfO0AinEeWy16CUs2dUCg" outcomingRelations="_oydxoAinEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_0JsIkAinEeWy16CUs2dUCg" name="T3: Merge jobs&#xA;results and send&#xA;[T3.1;T3.2]" incomingRelations="_445CoAinEeWy16CUs2dUCg _5PHKQAinEeWy16CUs2dUCg" outcomingRelations="_8tLzoQinEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_-uDfMAinEeWy16CUs2dUCg" name="T2: Execute jobs&#xA;[T2.1#T2.2]" incomingRelations="_DjpVIAioEeWy16CUs2dUCg _EM5GcAioEeWy16CUs2dUCg" outcomingRelations="_HVufoQioEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_gZoB8AioEeWy16CUs2dUCg" name="T2.11: Fetch &#xA;job" outcomingRelations="_m8sGUAioEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_dI1BgAlWEeWy16CUs2dUCg" name="T2.21: Execute&#xA;Job" outcomingRelations="_R5HV4AlYEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_-1zXwAotEeWy16CUs2dUCg" name="A deployment&#xA;plan is created" incomingRelations="_mwnxYAo2EeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_HDvCgAouEeWy16CUs2dUCg" name="Select a cloud&#xA;Provider" outcomingRelations="_808AUAo6EeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_LTBGYAouEeWy16CUs2dUCg" name="Select a cloud" outcomingRelations="_9Q-cEAo6EeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_VNnHQAouEeWy16CUs2dUCg" name="Define intances&#xA;tags" outcomingRelations="_UXcoYAo7EeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_m4zWoAouEeWy16CUs2dUCg" name="Select an &#xA;availability zone" outcomingRelations="_QxiRoAo7EeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_viskoAouEeWy16CUs2dUCg" name="Select a virtual &#xA;machine image" outcomingRelations="_S_AOwAo7EeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_7KWkQAouEeWy16CUs2dUCg" name="Deployment&#xA;is planed" incomingRelations="_XmODwAo2EeWy16CUs2dUCg _W0bBIQo7EeWy16CUs2dUCg" outcomingRelations="_mX-n4Ao2EeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_KjZx4AovEeWy16CUs2dUCg" name="Cloud is configured" incomingRelations="_23D7YQo0EeWy16CUs2dUCg _LQO-gAo2EeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_b6v4MAovEeWy16CUs2dUCg" name="Connect to cloud" outcomingRelations="_1IWSoAo7EeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_e5ndEAovEeWy16CUs2dUCg" name="Create inboud and&#xA;outbound traffic rules" outcomingRelations="_2cRYoAo7EeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_i_Ig8AovEeWy16CUs2dUCg" name="Create ssh&#xA;keys" outcomingRelations="_3gl8YAo7EeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_laNcQAovEeWy16CUs2dUCg" name="Request the cloud&#xA;to create the instances" outcomingRelations="_23D7YQo0EeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_q9k-MAovEeWy16CUs2dUCg" name="Include instance&#xA;tag description" outcomingRelations="_21QgYAo7EeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_1rUTQAovEeWy16CUs2dUCg" name="Instance state&#xA;data is stored" incomingRelations="_LuNT8Ao2EeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_5bpKQAovEeWy16CUs2dUCg" name="Store in a &#xA;local database" outcomingRelations="_yab64Ao7EeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_5mNbgAovEeWy16CUs2dUCg" name="Store in a distributed&#xA;key-value store" outcomingRelations="_yt9T0Ao7EeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_Lu6GQAowEeWy16CUs2dUCg" name="T1:Configure&#xA;Instances&#xA;[T1+5]" incomingRelations="_QCZUsAowEeWy16CUs2dUCg _P9mFgAo2EeWy16CUs2dUCg _QSzggAo2EeWy16CUs2dUCg" outcomingRelations="_IIY2EQoxEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_R1bYkAowEeWy16CUs2dUCg" name="Select the&#xA;software&#xA;packages" outcomingRelations="_QSzggAo2EeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_U8OxcAowEeWy16CUs2dUCg" name="Generate the &#xA;configuration &#xA;scripts" outcomingRelations="_P9mFgAo2EeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_OqXVUAoxEeWy16CUs2dUCg" name="Contextualiza&#xA;instance" outcomingRelations="_VMLcgAoxEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_PIyWsAoxEeWy16CUs2dUCg" name="Install software&#xA;dependencies" outcomingRelations="_ViGCIAoxEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_r5mPoAoxEeWy16CUs2dUCg" name="Connect to&#xA;instance" outcomingRelations="_xAFBQAoxEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_BIX6gAoyEeWy16CUs2dUCg" name="Finish execution" incomingRelations="_rmJV4Qo2EeWy16CUs2dUCg _buxQsAo6EeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_EZcpsAoyEeWy16CUs2dUCg" name="Shutdown each&#xA;instance" outcomingRelations="_rmJV4Qo2EeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_LV-PkAo1EeWy16CUs2dUCg" name="Match the user constraints&#xA;with available instance types" outcomingRelations="_8bwrUAo6EeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_jDUOoAo1EeWy16CUs2dUCg" name="Cloud is&#xA;Configured" incomingRelations="_UPh0wAo2EeWy16CUs2dUCg _qi26oQo7EeWy16CUs2dUCg _7eq7gQo7EeWy16CUs2dUCg" outcomingRelations="_LQL7MAo2EeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FHardGoal" xmi:id="_VS0g8Ao6EeWy16CUs2dUCg" name="Execution is&#xA;managed" incomingRelations="_c2TggAo6EeWy16CUs2dUCg" outcomingRelations="_ZiipsAo6EeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_4NlasAo6EeWy16CUs2dUCg" name="Select instance&#xA;type" incomingRelations="_8bwrUAo6EeWy16CUs2dUCg _808AUAo6EeWy16CUs2dUCg _9Q-cEAo6EeWy16CUs2dUCg" outcomingRelations="_Qd9OUAo7EeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_NLuokAo7EeWy16CUs2dUCg" name="Create a deployment&#xA;plan" incomingRelations="_Qd9OUAo7EeWy16CUs2dUCg _QxiRoAo7EeWy16CUs2dUCg _S_AOwAo7EeWy16CUs2dUCg _UXcoYAo7EeWy16CUs2dUCg" outcomingRelations="_W0bBIQo7EeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_mX1EoAo7EeWy16CUs2dUCg" name="Configure cloud" incomingRelations="_1IWSoAo7EeWy16CUs2dUCg _2cRYoAo7EeWy16CUs2dUCg _21QgYAo7EeWy16CUs2dUCg _3gl8YAo7EeWy16CUs2dUCg _dwfl8Ao8EeWy16CUs2dUCg" outcomingRelations="_qi26oQo7EeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposClasses xsi:type="it.itc.sra.taom4e.model.core.informalcore.formalcore:FPlan" xmi:id="_uqjIwAo7EeWy16CUs2dUCg" name="Store instance&#xA;state data" incomingRelations="_yab64Ao7EeWy16CUs2dUCg _yt9T0Ao7EeWy16CUs2dUCg" outcomingRelations="_7eq7gQo7EeWy16CUs2dUCg _dwfl8Ao8EeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg"/>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_Si0P4QZHEeWdeY9vI7ESCg" targets="_8plSwAZGEeWdeY9vI7ESCg" sources="_KhyYsAZHEeWdeY9vI7ESCg" Actor="_2__0EAZGEeWdeY9vI7ESCg" Capability="_Si0P4AZHEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_Si0P4gZHEeWdeY9vI7ESCg" markup="Unique source" contents="_KhyYsAZHEeWdeY9vI7ESCg"/>
+      <indexedSourcesAndTargets xmi:id="_Si0P4wZHEeWdeY9vI7ESCg" markup="Unique target" contents="_8plSwAZGEeWdeY9vI7ESCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_EVKB4AZIEeWdeY9vI7ESCg" targets="_KhyYsAZHEeWdeY9vI7ESCg" sources="_5LTYkAZHEeWdeY9vI7ESCg" Actor="_2__0EAZGEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_EVKB4QZIEeWdeY9vI7ESCg" markup="Unique source" contents="_5LTYkAZHEeWdeY9vI7ESCg"/>
+      <indexedSourcesAndTargets xmi:id="_EVKB4gZIEeWdeY9vI7ESCg" markup="Unique target" contents="_KhyYsAZHEeWdeY9vI7ESCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecomposition" xmi:id="_hpx9EAZJEeWdeY9vI7ESCg" outcomingRelations="_hpykIQZJEeWdeY9vI7ESCg _Je-B4AiZEeWy16CUs2dUCg _UPh0wAo2EeWy16CUs2dUCg _XmODwAo2EeWy16CUs2dUCg _c2TggAo6EeWy16CUs2dUCg" sources="_8plSwAZGEeWdeY9vI7ESCg" Actor="_2__0EAZGEeWdeY9vI7ESCg" type="and">
+      <indexedSourcesAndTargets xmi:id="_hpykIAZJEeWdeY9vI7ESCg" markup="Root" contents="_8plSwAZGEeWdeY9vI7ESCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecLink" xmi:id="_hpykIQZJEeWdeY9vI7ESCg" targets="_natPUAZIEeWdeY9vI7ESCg" sources="_hpx9EAZJEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_hpykIgZJEeWdeY9vI7ESCg" markup="Unique source" contents="_hpx9EAZJEeWdeY9vI7ESCg"/>
+      <indexedSourcesAndTargets xmi:id="_hpykIwZJEeWdeY9vI7ESCg" markup="Unique target" contents="_natPUAZIEeWdeY9vI7ESCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_E8hicAbNEeWdeY9vI7ESCg" targets="_3AU5UAZIEeWdeY9vI7ESCg" sources="_2ObWUAbMEeWdeY9vI7ESCg" Actor="_2__0EAZGEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_E8hicQbNEeWdeY9vI7ESCg" markup="Unique source" contents="_2ObWUAbMEeWdeY9vI7ESCg"/>
+      <indexedSourcesAndTargets xmi:id="_E8hicgbNEeWdeY9vI7ESCg" markup="Unique target" contents="_3AU5UAZIEeWdeY9vI7ESCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_FdHuEAbNEeWdeY9vI7ESCg" targets="_3AU5UAZIEeWdeY9vI7ESCg" sources="_8bQsAAbMEeWdeY9vI7ESCg" Actor="_2__0EAZGEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_FdHuEQbNEeWdeY9vI7ESCg" markup="Unique source" contents="_8bQsAAbMEeWdeY9vI7ESCg"/>
+      <indexedSourcesAndTargets xmi:id="_FdHuEgbNEeWdeY9vI7ESCg" markup="Unique target" contents="_3AU5UAZIEeWdeY9vI7ESCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_h3NfcAiWEeWy16CUs2dUCg" name="[undefined]" targets="_l-EAQAZKEeWdeY9vI7ESCg" sources="_a5opgAZKEeWdeY9vI7ESCg" Actor="_2__0EAZGEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_h3NfcQiWEeWy16CUs2dUCg" markup="Unique source" contents="_a5opgAZKEeWdeY9vI7ESCg"/>
+      <indexedSourcesAndTargets xmi:id="_h3NfcgiWEeWy16CUs2dUCg" markup="Unique target" contents="_l-EAQAZKEeWdeY9vI7ESCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_ieVw4AiWEeWy16CUs2dUCg" name="[undefined]" targets="_l-EAQAZKEeWdeY9vI7ESCg" sources="_1Mh14AZHEeWdeY9vI7ESCg" Actor="_2__0EAZGEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_ieVw4QiWEeWy16CUs2dUCg" markup="Unique source" contents="_1Mh14AZHEeWdeY9vI7ESCg"/>
+      <indexedSourcesAndTargets xmi:id="_ieVw4giWEeWy16CUs2dUCg" markup="Unique target" contents="_l-EAQAZKEeWdeY9vI7ESCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecLink" xmi:id="_Je-B4AiZEeWy16CUs2dUCg" targets="_A5PiMAiZEeWy16CUs2dUCg" sources="_hpx9EAZJEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_Je-B4QiZEeWy16CUs2dUCg" markup="Unique source" contents="_hpx9EAZJEeWdeY9vI7ESCg"/>
+      <indexedSourcesAndTargets xmi:id="_Je-B4giZEeWy16CUs2dUCg" markup="Unique target" contents="_A5PiMAiZEeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_pEnZ8AiZEeWy16CUs2dUCg" targets="_S1RC4AiZEeWy16CUs2dUCg" sources="_g0R7cAiZEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_pEnZ8QiZEeWy16CUs2dUCg" markup="Unique source" contents="_g0R7cAiZEeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_pEnZ8giZEeWy16CUs2dUCg" markup="Unique target" contents="_S1RC4AiZEeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_pf19YAiZEeWy16CUs2dUCg" targets="_S1RC4AiZEeWy16CUs2dUCg" sources="_LUXdQAiZEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_pf19YQiZEeWy16CUs2dUCg" markup="Unique source" contents="_LUXdQAiZEeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_pf19YgiZEeWy16CUs2dUCg" markup="Unique target" contents="_S1RC4AiZEeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_-WuZwQimEeWy16CUs2dUCg" targets="_A5PiMAiZEeWy16CUs2dUCg" sources="_1wjOIAimEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg" Capability="_-WuZwAimEeWy16CUs2dUCg">
+      <indexedSourcesAndTargets xmi:id="_-WuZwgimEeWy16CUs2dUCg" markup="Unique source" contents="_1wjOIAimEeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_-WuZwwimEeWy16CUs2dUCg" markup="Unique target" contents="_A5PiMAiZEeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_LUzZwAinEeWy16CUs2dUCg" targets="_1wjOIAimEeWy16CUs2dUCg" sources="_EXJEEAinEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_LUzZwQinEeWy16CUs2dUCg" markup="Unique source" contents="_EXJEEAinEeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_LUzZwginEeWy16CUs2dUCg" markup="Unique target" contents="_1wjOIAimEeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_oydxoAinEeWy16CUs2dUCg" targets="_1wjOIAimEeWy16CUs2dUCg" sources="_bZ-GgAinEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_oyeYsAinEeWy16CUs2dUCg" markup="Unique source" contents="_bZ-GgAinEeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_oyeYsQinEeWy16CUs2dUCg" markup="Unique target" contents="_1wjOIAimEeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_ps6nsAinEeWy16CUs2dUCg" name="[undefined]" targets="_bZ-GgAinEeWy16CUs2dUCg" sources="_KzgL4AiZEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_ps6nsQinEeWy16CUs2dUCg" markup="Unique source" contents="_KzgL4AiZEeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_ps6nsginEeWy16CUs2dUCg" markup="Unique target" contents="_bZ-GgAinEeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_qQfO0AinEeWy16CUs2dUCg" name="[undefined]" targets="_bZ-GgAinEeWy16CUs2dUCg" sources="_S1RC4AiZEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_qQfO0QinEeWy16CUs2dUCg" markup="Unique source" contents="_S1RC4AiZEeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_qQfO0ginEeWy16CUs2dUCg" markup="Unique target" contents="_bZ-GgAinEeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_445CoAinEeWy16CUs2dUCg" name="[undefined]" targets="_0JsIkAinEeWy16CUs2dUCg" sources="_ber7QAbiEeWPhYNXQlk00w" Actor="_2__0EAZGEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_445CoQinEeWy16CUs2dUCg" markup="Unique source" contents="_ber7QAbiEeWPhYNXQlk00w"/>
+      <indexedSourcesAndTargets xmi:id="_445CoginEeWy16CUs2dUCg" markup="Unique target" contents="_0JsIkAinEeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_5PHKQAinEeWy16CUs2dUCg" name="[undefined]" targets="_0JsIkAinEeWy16CUs2dUCg" sources="__DO4cAZLEeWdeY9vI7ESCg" Actor="_2__0EAZGEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_5PHKQQinEeWy16CUs2dUCg" markup="Unique source" contents="__DO4cAZLEeWdeY9vI7ESCg"/>
+      <indexedSourcesAndTargets xmi:id="_5PHKQginEeWy16CUs2dUCg" markup="Unique target" contents="_0JsIkAinEeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_8tLzoQinEeWy16CUs2dUCg" targets="_H0CVkAbiEeWPhYNXQlk00w" sources="_0JsIkAinEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg" Capability="_8tLzoAinEeWy16CUs2dUCg">
+      <indexedSourcesAndTargets xmi:id="_8tLzoginEeWy16CUs2dUCg" markup="Unique source" contents="_0JsIkAinEeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_8tLzowinEeWy16CUs2dUCg" markup="Unique target" contents="_H0CVkAbiEeWPhYNXQlk00w"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_DjpVIAioEeWy16CUs2dUCg" name="[undefined]" targets="_-uDfMAinEeWy16CUs2dUCg" sources="_KhyYsAZHEeWdeY9vI7ESCg" Actor="_2__0EAZGEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_DjpVIQioEeWy16CUs2dUCg" markup="Unique source" contents="_KhyYsAZHEeWdeY9vI7ESCg"/>
+      <indexedSourcesAndTargets xmi:id="_DjpVIgioEeWy16CUs2dUCg" markup="Unique target" contents="_-uDfMAinEeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_EM5GcAioEeWy16CUs2dUCg" name="[undefined]" targets="_-uDfMAinEeWy16CUs2dUCg" sources="_3AU5UAZIEeWdeY9vI7ESCg" Actor="_2__0EAZGEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_EM5GcQioEeWy16CUs2dUCg" markup="Unique source" contents="_3AU5UAZIEeWdeY9vI7ESCg"/>
+      <indexedSourcesAndTargets xmi:id="_EM5GcgioEeWy16CUs2dUCg" markup="Unique target" contents="_-uDfMAinEeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_HVufoQioEeWy16CUs2dUCg" targets="_yuDL0AZIEeWdeY9vI7ESCg" sources="_-uDfMAinEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg" Capability="_HVufoAioEeWy16CUs2dUCg">
+      <indexedSourcesAndTargets xmi:id="_HVufogioEeWy16CUs2dUCg" markup="Unique source" contents="_-uDfMAinEeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_HVufowioEeWy16CUs2dUCg" markup="Unique target" contents="_yuDL0AZIEeWdeY9vI7ESCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_m8sGUAioEeWy16CUs2dUCg" targets="_KhyYsAZHEeWdeY9vI7ESCg" sources="_gZoB8AioEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_m8sGUQioEeWy16CUs2dUCg" markup="Unique source" contents="_gZoB8AioEeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_m8sGUgioEeWy16CUs2dUCg" markup="Unique target" contents="_KhyYsAZHEeWdeY9vI7ESCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_R5HV4AlYEeWy16CUs2dUCg" name="[undefined]" targets="_3AU5UAZIEeWdeY9vI7ESCg" sources="_dI1BgAlWEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_R5HV4QlYEeWy16CUs2dUCg" markup="Unique source" contents="_dI1BgAlWEeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_R5HV4glYEeWy16CUs2dUCg" markup="Unique target" contents="_3AU5UAZIEeWdeY9vI7ESCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_QCZUsAowEeWy16CUs2dUCg" name="[undefined]" targets="_Lu6GQAowEeWy16CUs2dUCg" sources="_l-EAQAZKEeWdeY9vI7ESCg" Actor="_2__0EAZGEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_QCZUsQowEeWy16CUs2dUCg" markup="Unique source" contents="_l-EAQAZKEeWdeY9vI7ESCg"/>
+      <indexedSourcesAndTargets xmi:id="_QCZUsgowEeWy16CUs2dUCg" markup="Unique target" contents="_Lu6GQAowEeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_IIY2EQoxEeWy16CUs2dUCg" targets="_natPUAZIEeWdeY9vI7ESCg" sources="_Lu6GQAowEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg" Capability="_IIY2EAoxEeWy16CUs2dUCg">
+      <indexedSourcesAndTargets xmi:id="_IIY2EgoxEeWy16CUs2dUCg" markup="Unique source" contents="_Lu6GQAowEeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_IIY2EwoxEeWy16CUs2dUCg" markup="Unique target" contents="_natPUAZIEeWdeY9vI7ESCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_VMLcgAoxEeWy16CUs2dUCg" targets="_1Mh14AZHEeWdeY9vI7ESCg" sources="_OqXVUAoxEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_VMLcgQoxEeWy16CUs2dUCg" markup="Unique source" contents="_OqXVUAoxEeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_VMLcggoxEeWy16CUs2dUCg" markup="Unique target" contents="_1Mh14AZHEeWdeY9vI7ESCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_ViGCIAoxEeWy16CUs2dUCg" targets="_1Mh14AZHEeWdeY9vI7ESCg" sources="_PIyWsAoxEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_ViGCIQoxEeWy16CUs2dUCg" markup="Unique source" contents="_PIyWsAoxEeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_ViGCIgoxEeWy16CUs2dUCg" markup="Unique target" contents="_1Mh14AZHEeWdeY9vI7ESCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_xAFBQAoxEeWy16CUs2dUCg" targets="_1Mh14AZHEeWdeY9vI7ESCg" sources="_r5mPoAoxEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_xAFBQQoxEeWy16CUs2dUCg" markup="Unique source" contents="_r5mPoAoxEeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_xAFBQgoxEeWy16CUs2dUCg" markup="Unique target" contents="_1Mh14AZHEeWdeY9vI7ESCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_23D7YQo0EeWy16CUs2dUCg" targets="_KjZx4AovEeWy16CUs2dUCg" sources="_laNcQAovEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg" Capability="_23D7YAo0EeWy16CUs2dUCg">
+      <indexedSourcesAndTargets xmi:id="_23EicAo0EeWy16CUs2dUCg" markup="Unique source" contents="_laNcQAovEeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_23EicQo0EeWy16CUs2dUCg" markup="Unique target" contents="_KjZx4AovEeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecomposition" xmi:id="_LQL7MAo2EeWy16CUs2dUCg" outcomingRelations="_LQO-gAo2EeWy16CUs2dUCg _LuNT8Ao2EeWy16CUs2dUCg" sources="_jDUOoAo1EeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg" type="and">
+      <indexedSourcesAndTargets xmi:id="_LQOXcAo2EeWy16CUs2dUCg" markup="Root" contents="_jDUOoAo1EeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecLink" xmi:id="_LQO-gAo2EeWy16CUs2dUCg" targets="_KjZx4AovEeWy16CUs2dUCg" sources="_LQL7MAo2EeWy16CUs2dUCg">
+      <indexedSourcesAndTargets xmi:id="_LQO-gQo2EeWy16CUs2dUCg" markup="Unique source" contents="_LQL7MAo2EeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_LQO-ggo2EeWy16CUs2dUCg" markup="Unique target" contents="_KjZx4AovEeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecLink" xmi:id="_LuNT8Ao2EeWy16CUs2dUCg" targets="_1rUTQAovEeWy16CUs2dUCg" sources="_LQL7MAo2EeWy16CUs2dUCg">
+      <indexedSourcesAndTargets xmi:id="_LuNT8Qo2EeWy16CUs2dUCg" markup="Unique source" contents="_LQL7MAo2EeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_LuNT8go2EeWy16CUs2dUCg" markup="Unique target" contents="_1rUTQAovEeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_P9mFgAo2EeWy16CUs2dUCg" targets="_Lu6GQAowEeWy16CUs2dUCg" sources="_U8OxcAowEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_P9mFgQo2EeWy16CUs2dUCg" markup="Unique source" contents="_U8OxcAowEeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_P9mFggo2EeWy16CUs2dUCg" markup="Unique target" contents="_Lu6GQAowEeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_QSzggAo2EeWy16CUs2dUCg" targets="_Lu6GQAowEeWy16CUs2dUCg" sources="_R1bYkAowEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_QSzggQo2EeWy16CUs2dUCg" markup="Unique source" contents="_R1bYkAowEeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_QSzgggo2EeWy16CUs2dUCg" markup="Unique target" contents="_Lu6GQAowEeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecLink" xmi:id="_UPh0wAo2EeWy16CUs2dUCg" targets="_jDUOoAo1EeWy16CUs2dUCg" sources="_hpx9EAZJEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_UPh0wQo2EeWy16CUs2dUCg" markup="Unique source" contents="_hpx9EAZJEeWdeY9vI7ESCg"/>
+      <indexedSourcesAndTargets xmi:id="_UPh0wgo2EeWy16CUs2dUCg" markup="Unique target" contents="_jDUOoAo1EeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecLink" xmi:id="_XmODwAo2EeWy16CUs2dUCg" targets="_7KWkQAouEeWy16CUs2dUCg" sources="_hpx9EAZJEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_XmODwQo2EeWy16CUs2dUCg" markup="Unique source" contents="_hpx9EAZJEeWdeY9vI7ESCg"/>
+      <indexedSourcesAndTargets xmi:id="_XmODwgo2EeWy16CUs2dUCg" markup="Unique target" contents="_7KWkQAouEeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecomposition" xmi:id="_mX-n4Ao2EeWy16CUs2dUCg" outcomingRelations="_mwnxYAo2EeWy16CUs2dUCg" sources="_7KWkQAouEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg" type="and">
+      <indexedSourcesAndTargets xmi:id="_mYBrMAo2EeWy16CUs2dUCg" markup="Root" contents="_7KWkQAouEeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecLink" xmi:id="_mwnxYAo2EeWy16CUs2dUCg" targets="_-1zXwAotEeWy16CUs2dUCg" sources="_mX-n4Ao2EeWy16CUs2dUCg">
+      <indexedSourcesAndTargets xmi:id="_mwnxYQo2EeWy16CUs2dUCg" markup="Unique source" contents="_mX-n4Ao2EeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_mwnxYgo2EeWy16CUs2dUCg" markup="Unique target" contents="_-1zXwAotEeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_rmJV4Qo2EeWy16CUs2dUCg" targets="_BIX6gAoyEeWy16CUs2dUCg" sources="_EZcpsAoyEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg" Capability="_rmJV4Ao2EeWy16CUs2dUCg">
+      <indexedSourcesAndTargets xmi:id="_rmJV4go2EeWy16CUs2dUCg" markup="Unique source" contents="_EZcpsAoyEeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_rmJV4wo2EeWy16CUs2dUCg" markup="Unique target" contents="_BIX6gAoyEeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecomposition" xmi:id="_ZiipsAo6EeWy16CUs2dUCg" name="[undefined]" outcomingRelations="_ZijQwQo6EeWy16CUs2dUCg _aLHFkAo6EeWy16CUs2dUCg _buxQsAo6EeWy16CUs2dUCg" sources="_VS0g8Ao6EeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg" type="and">
+      <indexedSourcesAndTargets xmi:id="_ZijQwAo6EeWy16CUs2dUCg" markup="Root" contents="_VS0g8Ao6EeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecLink" xmi:id="_ZijQwQo6EeWy16CUs2dUCg" name="[undefined]" targets="_yuDL0AZIEeWdeY9vI7ESCg" sources="_ZiipsAo6EeWy16CUs2dUCg">
+      <indexedSourcesAndTargets xmi:id="_ZijQwgo6EeWy16CUs2dUCg" markup="Unique source" contents="_ZiipsAo6EeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_ZijQwwo6EeWy16CUs2dUCg" markup="Unique target" contents="_yuDL0AZIEeWdeY9vI7ESCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecLink" xmi:id="_aLHFkAo6EeWy16CUs2dUCg" name="[undefined]" targets="_H0CVkAbiEeWPhYNXQlk00w" sources="_ZiipsAo6EeWy16CUs2dUCg">
+      <indexedSourcesAndTargets xmi:id="_aLHFkQo6EeWy16CUs2dUCg" markup="Unique source" contents="_ZiipsAo6EeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_aLHFkgo6EeWy16CUs2dUCg" markup="Unique target" contents="_H0CVkAbiEeWPhYNXQlk00w"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecLink" xmi:id="_buxQsAo6EeWy16CUs2dUCg" name="[undefined]" targets="_BIX6gAoyEeWy16CUs2dUCg" sources="_ZiipsAo6EeWy16CUs2dUCg">
+      <indexedSourcesAndTargets xmi:id="_buxQsQo6EeWy16CUs2dUCg" markup="Unique source" contents="_ZiipsAo6EeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_buxQsgo6EeWy16CUs2dUCg" markup="Unique target" contents="_BIX6gAoyEeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:BooleanDecLink" xmi:id="_c2TggAo6EeWy16CUs2dUCg" targets="_VS0g8Ao6EeWy16CUs2dUCg" sources="_hpx9EAZJEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_c2TggQo6EeWy16CUs2dUCg" markup="Unique source" contents="_hpx9EAZJEeWdeY9vI7ESCg"/>
+      <indexedSourcesAndTargets xmi:id="_c2Tgggo6EeWy16CUs2dUCg" markup="Unique target" contents="_VS0g8Ao6EeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_8bwrUAo6EeWy16CUs2dUCg" name="[undefined]" targets="_4NlasAo6EeWy16CUs2dUCg" sources="_LV-PkAo1EeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_8bwrUQo6EeWy16CUs2dUCg" markup="Unique source" contents="_LV-PkAo1EeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_8bwrUgo6EeWy16CUs2dUCg" markup="Unique target" contents="_4NlasAo6EeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_808AUAo6EeWy16CUs2dUCg" name="[undefined]" targets="_4NlasAo6EeWy16CUs2dUCg" sources="_HDvCgAouEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_808AUQo6EeWy16CUs2dUCg" markup="Unique source" contents="_HDvCgAouEeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_808AUgo6EeWy16CUs2dUCg" markup="Unique target" contents="_4NlasAo6EeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_9Q-cEAo6EeWy16CUs2dUCg" name="[undefined]" targets="_4NlasAo6EeWy16CUs2dUCg" sources="_LTBGYAouEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_9Q-cEQo6EeWy16CUs2dUCg" markup="Unique source" contents="_LTBGYAouEeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_9Q-cEgo6EeWy16CUs2dUCg" markup="Unique target" contents="_4NlasAo6EeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_Qd9OUAo7EeWy16CUs2dUCg" name="[undefined]" targets="_NLuokAo7EeWy16CUs2dUCg" sources="_4NlasAo6EeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_Qd9OUQo7EeWy16CUs2dUCg" markup="Unique source" contents="_4NlasAo6EeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_Qd9OUgo7EeWy16CUs2dUCg" markup="Unique target" contents="_NLuokAo7EeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_QxiRoAo7EeWy16CUs2dUCg" name="[undefined]" targets="_NLuokAo7EeWy16CUs2dUCg" sources="_m4zWoAouEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_QxiRoQo7EeWy16CUs2dUCg" markup="Unique source" contents="_m4zWoAouEeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_QxiRogo7EeWy16CUs2dUCg" markup="Unique target" contents="_NLuokAo7EeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_S_AOwAo7EeWy16CUs2dUCg" name="[undefined]" targets="_NLuokAo7EeWy16CUs2dUCg" sources="_viskoAouEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_S_AOwQo7EeWy16CUs2dUCg" markup="Unique source" contents="_viskoAouEeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_S_AOwgo7EeWy16CUs2dUCg" markup="Unique target" contents="_NLuokAo7EeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_UXcoYAo7EeWy16CUs2dUCg" name="[undefined]" targets="_NLuokAo7EeWy16CUs2dUCg" sources="_VNnHQAouEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_UXcoYQo7EeWy16CUs2dUCg" markup="Unique source" contents="_VNnHQAouEeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_UXcoYgo7EeWy16CUs2dUCg" markup="Unique target" contents="_NLuokAo7EeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_W0bBIQo7EeWy16CUs2dUCg" targets="_7KWkQAouEeWy16CUs2dUCg" sources="_NLuokAo7EeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg" Capability="_W0bBIAo7EeWy16CUs2dUCg">
+      <indexedSourcesAndTargets xmi:id="_W0bBIgo7EeWy16CUs2dUCg" markup="Unique source" contents="_NLuokAo7EeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_W0bBIwo7EeWy16CUs2dUCg" markup="Unique target" contents="_7KWkQAouEeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_qi26oQo7EeWy16CUs2dUCg" targets="_jDUOoAo1EeWy16CUs2dUCg" sources="_mX1EoAo7EeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg" Capability="_qi26oAo7EeWy16CUs2dUCg">
+      <indexedSourcesAndTargets xmi:id="_qi26ogo7EeWy16CUs2dUCg" markup="Unique source" contents="_mX1EoAo7EeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_qi26owo7EeWy16CUs2dUCg" markup="Unique target" contents="_jDUOoAo1EeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_yab64Ao7EeWy16CUs2dUCg" name="[undefined]" targets="_uqjIwAo7EeWy16CUs2dUCg" sources="_5bpKQAovEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_yab64Qo7EeWy16CUs2dUCg" markup="Unique source" contents="_5bpKQAovEeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_yab64go7EeWy16CUs2dUCg" markup="Unique target" contents="_uqjIwAo7EeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_yt9T0Ao7EeWy16CUs2dUCg" name="[undefined]" targets="_uqjIwAo7EeWy16CUs2dUCg" sources="_5mNbgAovEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_yt9T0Qo7EeWy16CUs2dUCg" markup="Unique source" contents="_5mNbgAovEeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_yt9T0go7EeWy16CUs2dUCg" markup="Unique target" contents="_uqjIwAo7EeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_1IWSoAo7EeWy16CUs2dUCg" name="[undefined]" targets="_mX1EoAo7EeWy16CUs2dUCg" sources="_b6v4MAovEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_1IWSoQo7EeWy16CUs2dUCg" markup="Unique source" contents="_b6v4MAovEeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_1IWSogo7EeWy16CUs2dUCg" markup="Unique target" contents="_mX1EoAo7EeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_2cRYoAo7EeWy16CUs2dUCg" name="[undefined]" targets="_mX1EoAo7EeWy16CUs2dUCg" sources="_e5ndEAovEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_2cRYoQo7EeWy16CUs2dUCg" markup="Unique source" contents="_e5ndEAovEeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_2cRYogo7EeWy16CUs2dUCg" markup="Unique target" contents="_mX1EoAo7EeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_21QgYAo7EeWy16CUs2dUCg" name="[undefined]" targets="_mX1EoAo7EeWy16CUs2dUCg" sources="_q9k-MAovEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_21QgYQo7EeWy16CUs2dUCg" markup="Unique source" contents="_q9k-MAovEeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_21QgYgo7EeWy16CUs2dUCg" markup="Unique target" contents="_mX1EoAo7EeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_3gl8YAo7EeWy16CUs2dUCg" name="[undefined]" targets="_mX1EoAo7EeWy16CUs2dUCg" sources="_i_Ig8AovEeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_3gl8YQo7EeWy16CUs2dUCg" markup="Unique source" contents="_i_Ig8AovEeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_3gl8Ygo7EeWy16CUs2dUCg" markup="Unique target" contents="_mX1EoAo7EeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_7eq7gQo7EeWy16CUs2dUCg" targets="_jDUOoAo1EeWy16CUs2dUCg" sources="_uqjIwAo7EeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg" Capability="_7eq7gAo7EeWy16CUs2dUCg">
+      <indexedSourcesAndTargets xmi:id="_7eq7ggo7EeWy16CUs2dUCg" markup="Unique source" contents="_uqjIwAo7EeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_7eq7gwo7EeWy16CUs2dUCg" markup="Unique target" contents="_jDUOoAo1EeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <TroposRelations xsi:type="it.itc.sra.taom4e.model.core.informalcore:MeansEnd" xmi:id="_dwfl8Ao8EeWy16CUs2dUCg" targets="_mX1EoAo7EeWy16CUs2dUCg" sources="_uqjIwAo7EeWy16CUs2dUCg" Actor="_2__0EAZGEeWdeY9vI7ESCg">
+      <indexedSourcesAndTargets xmi:id="_dwfl8Qo8EeWy16CUs2dUCg" markup="Unique source" contents="_uqjIwAo7EeWy16CUs2dUCg"/>
+      <indexedSourcesAndTargets xmi:id="_dwfl8go8EeWy16CUs2dUCg" markup="Unique target" contents="_mX1EoAo7EeWy16CUs2dUCg"/>
+    </TroposRelations>
+    <CapabilityTable xmi:id="_2NNF8wZGEeWdeY9vI7ESCg">
+      <Capability xmi:id="_Si0P4AZHEeWdeY9vI7ESCg" ability="_Si0P4QZHEeWdeY9vI7ESCg"/>
+      <Capability xmi:id="_-WuZwAimEeWy16CUs2dUCg" ability="_-WuZwQimEeWy16CUs2dUCg"/>
+      <Capability xmi:id="_8tLzoAinEeWy16CUs2dUCg" ability="_8tLzoQinEeWy16CUs2dUCg"/>
+      <Capability xmi:id="_HVufoAioEeWy16CUs2dUCg" ability="_HVufoQioEeWy16CUs2dUCg"/>
+      <Capability xmi:id="_IIY2EAoxEeWy16CUs2dUCg" ability="_IIY2EQoxEeWy16CUs2dUCg"/>
+      <Capability xmi:id="_23D7YAo0EeWy16CUs2dUCg" ability="_23D7YQo0EeWy16CUs2dUCg"/>
+      <Capability xmi:id="_rmJV4Ao2EeWy16CUs2dUCg" ability="_rmJV4Qo2EeWy16CUs2dUCg"/>
+      <Capability xmi:id="_W0bBIAo7EeWy16CUs2dUCg" ability="_W0bBIQo7EeWy16CUs2dUCg"/>
+      <Capability xmi:id="_qi26oAo7EeWy16CUs2dUCg" ability="_qi26oQo7EeWy16CUs2dUCg"/>
+      <Capability xmi:id="_7eq7gAo7EeWy16CUs2dUCg" ability="_7eq7gQo7EeWy16CUs2dUCg"/>
+    </CapabilityTable>
+  </it.itc.sra.taom4e.model.core.informalcore.formalcore:FormalBusinessModel>
+</xmi:XMI>
